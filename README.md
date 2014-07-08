@@ -10,6 +10,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
     - [Testing](#testing)
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Extensions](#extensions)
+    - [Android](#android)
 - [Contributing](#contributing)
 
 ## Database
@@ -64,6 +65,13 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 
 * [Scalaz](https://github.com/scalaz/scalaz) - An extension to the core Scala library for functional programming.
 * [Shapeless](https://github.com/milessabin/shapeless) - A type class and dependent type based generic programming library for Scala.
+
+## Android
+
+*Scala libraries and wrappers for Android development.*
+
+* [Scaloid](https://github.com/pocorall/scaloid) - Less painful Android development with Scala.
+* [Macroid](https://github.com/macroid/macroid) - A modular functional UI language for Android.
 
 # Contributing
 
