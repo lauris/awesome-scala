@@ -1,7 +1,7 @@
 Awesome Scala
 =============
 
-A curated list of awesome Scala frameworks, libraries and software. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+A curated list of awesome Scala frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome Scala](#awesome-scala)
     - [Database](#database)
