@@ -85,4 +85,4 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 
 # Contributing
 
-Your contributions are always welcome! Please submit a pull request or submit an issue to add a new framework, library or software to the list.
+Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list.
