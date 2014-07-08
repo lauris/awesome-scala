@@ -5,6 +5,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 
 - [Awesome Scala](#awesome-scala)
     - [Database](#database)
+    - [Frameworks](#frameworks)
 - [Contributing](#contributing)
 
 ## Database
@@ -16,6 +17,15 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Squeryl](https://github.com/squeryl/squeryl) - A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
 * [Activate](https://github.com/fwbrasil/activate) - Pluggable object persistence in Scala.
 
+## Frameworks
+
+*Full stack web frameworks.*
+
+* [Play](https://github.com/playframework/playframework) - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
+* [Skinny Framework](https://github.com/skinny-framework/skinny-framework) - "Scala on Rails" - A full-stack web app framework upon Scalatra for rapid Development in Scala.
+* [Scalatra](https://github.com/scalatra/scalatra) - Tiny Scala high-performance, async web framework, inspired by Sinatra.
+* [Lift](https://github.com/lift/framework) - Secure and powerful full stack web framework.
+
 # Contributing
 
-Your contributions are always welcome!
+Your contributions are always welcome! Please submit a pull request to add a new framework, library or software to the list.
