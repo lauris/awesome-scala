@@ -27,6 +27,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Scalatra](https://github.com/scalatra/scalatra) - Tiny Scala high-performance, async web framework, inspired by Sinatra.
 * [Lift](https://github.com/lift/framework) - Secure and powerful full stack web framework.
 * [Spray](https://github.com/spray/spray) - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
+* [Finatra](https://github.com/twitter/finatra) - A sinatra-inspired web framework for scala, running on top of Finagle.
 
 ## Testing
 
