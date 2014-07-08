@@ -9,6 +9,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
     - [Authentication](#authentication)
     - [Testing](#testing)
     - [Science and Data Analysis](#science-and-data-analysis)
+    - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
     - [Extensions](#extensions)
     - [Android](#android)
 - [Contributing](#contributing)
@@ -60,13 +61,19 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [scala_prob](https://github.com/urso/scala_prob) - Scala embedded probabilistic programing library using delimited continuations (VERY Experimental).
 * [probability-monad](https://github.com/jliszka/probability-monad) - Probability Distribution Monad in Scala.
 
+## Modularization and Dependency Injection
+
+*Modularization of applications, dependency injection, etc.*
+
+* [Domino](https://github.com/helgoboss/domino) - Write elegant OSGi bundle activators in Scala.
+* [Scaldi](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library.
+
 ## Extensions
 
 *Scala extensions.*
 
 * [Scalaz](https://github.com/scalaz/scalaz) - An extension to the core Scala library for functional programming.
 * [Shapeless](https://github.com/milessabin/shapeless) - A type class and dependent type based generic programming library for Scala.
-* [Scaldi](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library .
 
 ## Android
 
