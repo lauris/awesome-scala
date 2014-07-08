@@ -6,6 +6,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 - [Awesome Scala](#awesome-scala)
     - [Database](#database)
     - [Frameworks](#frameworks)
+    - [Testing](#testing)
 - [Contributing](#contributing)
 
 ## Database
@@ -22,9 +23,17 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 *Full stack web frameworks.*
 
 * [Play](https://github.com/playframework/playframework) - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
-* [Skinny Framework](https://github.com/skinny-framework/skinny-framework) - "Scala on Rails" - A full-stack web app framework upon Scalatra for rapid Development in Scala.
+* [Skinny Framework](https://github.com/skinny-framework/skinny-framework) - A full-stack web app framework upon Scalatra for rapid Development in Scala.
 * [Scalatra](https://github.com/scalatra/scalatra) - Tiny Scala high-performance, async web framework, inspired by Sinatra.
 * [Lift](https://github.com/lift/framework) - Secure and powerful full stack web framework.
+
+## Testing
+
+*Libraries for code testing.*
+
+* [ScalaCheck](https://github.com/rickynils/scalacheck) - Property-based testing for Scala.
+* [ScalaTest](https://github.com/scalatest/scalatest) - A testing tool for Scala and Java developers.
+* [Specs2](https://github.com/etorreborre/specs2) - Software Specifications for Scala.
 
 # Contributing
 
