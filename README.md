@@ -7,6 +7,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
     - [Database](#database)
     - [Frameworks](#frameworks)
     - [Testing](#testing)
+    - [Functional Programming](#functional-programming)
 - [Contributing](#contributing)
 
 ## Database
@@ -36,6 +37,12 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [ScalaCheck](https://github.com/rickynils/scalacheck) - Property-based testing for Scala.
 * [ScalaTest](https://github.com/scalatest/scalatest) - A testing tool for Scala and Java developers.
 * [Specs2](https://github.com/etorreborre/specs2) - Software Specifications for Scala.
+
+## Functional Programming
+
+*Scala libraries for functional programming.*
+
+* [Scalaz](https://github.com/scalaz/scalaz) - An extension to the core Scala library for functional programming.
 
 # Contributing
 
