@@ -6,6 +6,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 - [Awesome Scala](#awesome-scala)
     - [Database](#database)
     - [Frameworks](#frameworks)
+    - [Authentication](#authentication)
     - [Testing](#testing)
     - [Extensions](#extensions)
 - [Contributing](#contributing)
@@ -29,6 +30,14 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Lift](https://github.com/lift/framework) - Secure and powerful full stack web framework.
 * [Spray](https://github.com/spray/spray) - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
 * [Finatra](https://github.com/twitter/finatra) - A sinatra-inspired web framework for scala, running on top of Finagle.
+
+## Authentication
+
+*Libraries for implementing authentications schemes.*
+
+* [scala-oauth2-provider](https://github.com/nulab/scala-oauth2-provider) - OAuth 2.0 server-side implementation written in Scala.
+* [SecureSocial](https://github.com/jaliss/securesocial) - A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
+* [play2-auth](https://github.com/t2v/play2-auth) - Play2.x Authentication and Authorization module.
 
 ## Testing
 
