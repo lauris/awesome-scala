@@ -33,6 +33,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Lift](https://github.com/lift/framework) - Secure and powerful full stack web framework.
 * [Spray](https://github.com/spray/spray) - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
 * [Finatra](https://github.com/twitter/finatra) - A sinatra-inspired web framework for scala, running on top of Finagle.
+* [Blue Eyes](https://github.com/jdegoes/blueeyes) - A lightweight Web 3.0 framework for Scala, featuring a purely asynchronous architecture, extremely high-performance, massive scalability, high usability, and a functional, composable design.
 
 ## Authentication
 
