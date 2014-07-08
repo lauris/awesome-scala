@@ -67,6 +67,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 
 * [Domino](https://github.com/helgoboss/domino) - Write elegant OSGi bundle activators in Scala.
 * [Scaldi](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library.
+* [MacWire](https://github.com/adamw/macwire) - Scala Macro to generate wiring code for class instantiation. DI container replacement.
 
 ## Extensions
 
