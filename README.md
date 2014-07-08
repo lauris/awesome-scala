@@ -56,11 +56,18 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 *Libraries for scientific computing, data analysis and numerical processing.*
 
 * [Breeze](https://github.com/scalanlp/breeze) - Breeze is a numerical processing library for Scala.
+* [MLLib](https://spark.apache.org/mllib/) - Machine Learning framework for Spark
 * [Spire](https://github.com/non/spire) - Powerful new number types and numeric abstractions for Scala.
 * [Algebird](https://github.com/twitter/algebird) - Abstract Algebra for Scala.
 * [FACTORIE](https://github.com/factorie/factorie) - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
 * [scala_prob](https://github.com/urso/scala_prob) - Scala embedded probabilistic programing library using delimited continuations (VERY Experimental).
 * [probability-monad](https://github.com/jliszka/probability-monad) - Probability Distribution Monad in Scala.
+
+
+## Big Data
+* [Spark](http://spark.apache.org/) - Lightning fast cluster computing - up to 100x faster than Hadoop for iterative algorithms (memory caching) and up to 10x faster than Hadoop for single-pass MapReduce jobs. Compatible with YARN-enabled Hadoop clusters, can run on Mesos and in stand-alone mode as well. 
+* [Scalding](https://github.com/twitter/scalding) - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
+* [Summingbird](https://github.com/twitter/summingbird) - An implementation of the "lambda architecture" as a software abstraction - a single API for Hadoop and Storm.
 
 ## Modularization and Dependency Injection
 
