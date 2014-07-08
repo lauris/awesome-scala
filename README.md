@@ -8,6 +8,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
     - [Frameworks](#frameworks)
     - [Authentication](#authentication)
     - [Testing](#testing)
+    - [Science and Data Analysis](#science-and-data-analysis)
     - [Extensions](#extensions)
 - [Contributing](#contributing)
 
@@ -46,6 +47,16 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [ScalaCheck](https://github.com/rickynils/scalacheck) - Property-based testing for Scala.
 * [ScalaTest](https://github.com/scalatest/scalatest) - A testing tool for Scala and Java developers.
 * [Specs2](https://github.com/etorreborre/specs2) - Software Specifications for Scala.
+
+## Science and Data Analysis
+
+*Libraries for scientific computing, data analysis and numerical processing.*
+
+* [Breeze](https://github.com/scalanlp/breeze) - Breeze is a numerical processing library for Scala.
+* [Spire](https://github.com/non/spire) - Powerful new number types and numeric abstractions for Scala.
+* [Algebird](https://github.com/twitter/algebird) - Abstract Algebra for Scala.
+* [scala_prob](https://github.com/urso/scala_prob) - Scala embedded probabilistic programing library using delimited continuations (VERY Experimental).
+* [probability-monad](https://github.com/jliszka/probability-monad) - Probability Distribution Monad in Scala.
 
 ## Extensions
 
