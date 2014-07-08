@@ -56,6 +56,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Breeze](https://github.com/scalanlp/breeze) - Breeze is a numerical processing library for Scala.
 * [Spire](https://github.com/non/spire) - Powerful new number types and numeric abstractions for Scala.
 * [Algebird](https://github.com/twitter/algebird) - Abstract Algebra for Scala.
+* [FACTORIE](https://github.com/factorie/factorie) - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
 * [scala_prob](https://github.com/urso/scala_prob) - Scala embedded probabilistic programing library using delimited continuations (VERY Experimental).
 * [probability-monad](https://github.com/jliszka/probability-monad) - Probability Distribution Monad in Scala.
 
