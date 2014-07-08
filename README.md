@@ -20,7 +20,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 
 ## Frameworks
 
-*Full stack web frameworks.*
+*Scala frameworks for web development.*
 
 * [Play](https://github.com/playframework/playframework) - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
 * [Skinny Framework](https://github.com/skinny-framework/skinny-framework) - A full-stack web app framework upon Scalatra for rapid Development in Scala.
