@@ -65,6 +65,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 
 * [Scalaz](https://github.com/scalaz/scalaz) - An extension to the core Scala library for functional programming.
 * [Shapeless](https://github.com/milessabin/shapeless) - A type class and dependent type based generic programming library for Scala.
+* [Scaldi](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library .
 
 ## Android
 
