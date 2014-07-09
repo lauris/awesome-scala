@@ -22,6 +22,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Slick](https://github.com/slick/slick) - Modern database query and access library for Scala.
 * [Squeryl](https://github.com/squeryl/squeryl) - A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
 * [Activate](https://github.com/fwbrasil/activate) - Pluggable object persistence in Scala.
+* [Scala ActiveRecord](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
 
 ## Frameworks
 
