@@ -8,6 +8,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
     - [Frameworks](#frameworks)
     - [Authentication](#authentication)
     - [Testing](#testing)
+    - [JSON Manipulation](#json)
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
     - [Extensions](#extensions)
@@ -51,6 +52,16 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [ScalaCheck](https://github.com/rickynils/scalacheck) - Property-based testing for Scala.
 * [ScalaTest](https://github.com/scalatest/scalatest) - A testing tool for Scala and Java developers.
 * [Specs2](https://github.com/etorreborre/specs2) - Software Specifications for Scala.
+
+## JSON Manipulation
+
+*Libraries for work with json.*
+
+* [json4s](https://github.com/json4s/json4s) - project aims to provide a single AST to be used by other scala json libraries.
+* [jerkson](https://github.com/codahale/jerkson) - a Scala wrapper for Jackson
+* [spray-json](https://github.com/spray/spray-json) -  lightweight, clean and efficient JSON implementation in Scala.
+* [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
+
 
 ## Science and Data Analysis
 
