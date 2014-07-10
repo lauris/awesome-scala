@@ -8,7 +8,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
     - [Frameworks](#frameworks)
     - [Authentication](#authentication)
     - [Testing](#testing)
-    - [JSON Manipulation](#json)
+    - [JSON Manipulation](#json-manipulation)
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
     - [Extensions](#extensions)
