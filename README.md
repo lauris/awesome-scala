@@ -13,6 +13,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
     - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
     - [Extensions](#extensions)
     - [Android](#android)
+- [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
 ## Database
@@ -104,6 +105,9 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Scaloid](https://github.com/pocorall/scaloid) - Less painful Android development with Scala.
 * [Macroid](https://github.com/macroid/macroid) - A modular functional UI language for Android.
 * [sbt-android-plugin](https://github.com/jberkel/android-plugin) - A sbt plugin for Android development in Scala.
+
+# Other Awesome Lists
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 
