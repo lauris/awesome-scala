@@ -5,7 +5,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 
 - [Awesome Scala](#awesome-scala)
     - [Database](#database)
-    - [Frameworks](#frameworks)
+    - [Web Frameworks](#frameworks)
     - [Authentication](#authentication)
     - [Testing](#testing)
     - [Science and Data Analysis](#science-and-data-analysis)
