@@ -76,6 +76,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [FACTORIE](https://github.com/factorie/factorie) - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
 * [scala_prob](https://github.com/urso/scala_prob) - Scala embedded probabilistic programing library using delimited continuations (VERY Experimental).
 * [probability-monad](https://github.com/jliszka/probability-monad) - Probability Distribution Monad in Scala.
+* [Saddle](https://github.com/saddle/saddle) - A minimalist port of Pandas to Scala
 
 
 ## Big Data
