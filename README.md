@@ -25,6 +25,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Squeryl](https://github.com/squeryl/squeryl) - A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
 * [Activate](https://github.com/fwbrasil/activate) - Pluggable object persistence in Scala.
 * [Scala ActiveRecord](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
+* [Phantom](https://github.com/websudosuk/phantom) - Async type safe Scala DSL for Apache Cassandra
 
 ## Web Frameworks
 
