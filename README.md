@@ -39,6 +39,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Finatra](https://github.com/twitter/finatra) - A sinatra-inspired web framework for scala, running on top of Finagle.
 * [Blue Eyes](https://github.com/jdegoes/blueeyes) - A lightweight Web 3.0 framework for Scala, featuring a purely asynchronous architecture, extremely high-performance, massive scalability, high usability, and a functional, composable design.
 * [Reactive](https://github.com/nafg/reactive) - FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift)
+* [Chaos](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala
 
 ## Authentication
 
