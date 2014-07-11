@@ -14,6 +14,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
     - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
     - [Extensions](#extensions)
     - [Android](#android)
+    - [HTTP](#http)
 - [Contributing](#contributing)
 
 ## Database
@@ -79,7 +80,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 
 
 ## Big Data
-* [Spark](http://spark.apache.org/) - Lightning fast cluster computing - up to 100x faster than Hadoop for iterative algorithms (memory caching) and up to 10x faster than Hadoop for single-pass MapReduce jobs. Compatible with YARN-enabled Hadoop clusters, can run on Mesos and in stand-alone mode as well. 
+* [Spark](http://spark.apache.org/) - Lightning fast cluster computing - up to 100x faster than Hadoop for iterative algorithms (memory caching) and up to 10x faster than Hadoop for single-pass MapReduce jobs. Compatible with YARN-enabled Hadoop clusters, can run on Mesos and in stand-alone mode as well.
 * [Scalding](https://github.com/twitter/scalding) - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Summingbird](https://github.com/twitter/summingbird) - An implementation of the "lambda architecture" as a software abstraction - a single API for Hadoop and Storm.
 
@@ -106,6 +107,14 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Scaloid](https://github.com/pocorall/scaloid) - Less painful Android development with Scala.
 * [Macroid](https://github.com/macroid/macroid) - A modular functional UI language for Android.
 * [sbt-android-plugin](https://github.com/jberkel/android-plugin) - A sbt plugin for Android development in Scala.
+
+## HTTP
+
+*Scala libraries and wrappers for HTTP clients.*
+
+* [Dispatch](https://github.com/dispatch/reboot) - Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
+* [Scalaxb](https://github.com/eed3si9n/scalaxb) - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
+
 
 # Contributing
 
