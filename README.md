@@ -79,7 +79,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [scala_prob](https://github.com/urso/scala_prob) - Scala embedded probabilistic programing library using delimited continuations (VERY Experimental).
 * [probability-monad](https://github.com/jliszka/probability-monad) - Probability Distribution Monad in Scala.
 * [Saddle](https://github.com/saddle/saddle) - A minimalist port of Pandas to Scala
-
+* [Squants](https://github.com/garyKeorkunian/squants) - The Scala API for Quantities, Units of Measure and Dimensional Analysis
 
 ## Big Data
 * [Spark](http://spark.apache.org/) - Lightning fast cluster computing - up to 100x faster than Hadoop for iterative algorithms (memory caching) and up to 10x faster than Hadoop for single-pass MapReduce jobs. Compatible with YARN-enabled Hadoop clusters, can run on Mesos and in stand-alone mode as well.
