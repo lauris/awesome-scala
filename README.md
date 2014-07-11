@@ -14,6 +14,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
     - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
     - [Extensions](#extensions)
     - [Android](#android)
+    - [Semantic Web](#semweb)
 - [Contributing](#contributing)
 
 ## Database
@@ -106,6 +107,13 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Scaloid](https://github.com/pocorall/scaloid) - Less painful Android development with Scala.
 * [Macroid](https://github.com/macroid/macroid) - A modular functional UI language for Android.
 * [sbt-android-plugin](https://github.com/jberkel/android-plugin) - A sbt plugin for Android development in Scala.
+
+## Semantic Web
+
+*Scala libraries for interactions with the Web of Data, and other RDF tools*
+
+* [Banana-RDF](https://github.com/w3c/banana-rdf) - Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native.
+
 
 # Contributing
 
