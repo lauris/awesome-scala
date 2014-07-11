@@ -27,6 +27,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Activate](https://github.com/fwbrasil/activate) - Pluggable object persistence in Scala.
 * [Scala ActiveRecord](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
 * [PostgreSQL and MySQL async](https://github.com/mauricio/postgresql-async) - async database drivers to talk to PostgreSQL and MySQL in Scala.
+* [ReactiveMongo](http://reactivemongo.org) - Reactive Scala Driver for MongoDB.
 
 ## Web Frameworks
 
