@@ -67,6 +67,14 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
 * [jackson-module-scala](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes
 
+## Serialization
+
+*Libraries for serializing and deserializing data for storage or transport.*
+
+* [Pickling](https://github.com/scala/pickling) - Fast, customizable, boilerplate-free pickling support.
+* [scodec](https://github.com/scodec/scodec) - A combinator library for working with binary data.
+* [Scrooge](http://twitter.github.io/scrooge/) - An Apache Thrift code generator for Scala.
+
 ## Science and Data Analysis
 
 *Libraries for scientific computing, data analysis and numerical processing.*
