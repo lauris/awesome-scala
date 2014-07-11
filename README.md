@@ -15,6 +15,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
     - [Extensions](#extensions)
     - [Android](#android)
     - [HTTP](#http)
+    - [Utilities](#utilities)
 - [Contributing](#contributing)
 
 ## Database
@@ -117,6 +118,11 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Dispatch](https://github.com/dispatch/reboot) - Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
 * [Scalaxb](https://github.com/eed3si9n/scalaxb) - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
 
+## Utilities
+
+*Miscellaneous Scala utility libraries*
+
+* [Chill](https://github.com/twitter/chill) - Scala extensions for the Kryo serialization library.  Can be used standalone or within systems like Hadoop, Storm and Akka.  Generally faster and more memory efficient than Java serialization.
 
 # Contributing
 
