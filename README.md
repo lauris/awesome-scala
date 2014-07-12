@@ -119,4 +119,4 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 # Contributing
 
-Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list.
+Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project, which hasn't been updated in the past 6 months or is not awesome.
