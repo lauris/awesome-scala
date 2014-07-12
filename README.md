@@ -27,6 +27,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Activate](https://github.com/fwbrasil/activate) - Pluggable object persistence in Scala.
 * [Scala ActiveRecord](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
 * [PostgreSQL and MySQL async](https://github.com/mauricio/postgresql-async) - Async database drivers to talk to PostgreSQL and MySQL in Scala.
+* [Phantom](https://github.com/websudosuk/phantom) - Async type safe Scala DSL for Apache Cassandra
 
 ## Web Frameworks
 
