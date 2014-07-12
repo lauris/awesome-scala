@@ -26,7 +26,7 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Squeryl](https://github.com/squeryl/squeryl) - A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
 * [Activate](https://github.com/fwbrasil/activate) - Pluggable object persistence in Scala.
 * [Scala ActiveRecord](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
-* [PostgreSQL and MySQL async](https://github.com/mauricio/postgresql-async) - async database drivers to talk to PostgreSQL and MySQL in Scala.
+* [PostgreSQL and MySQL async](https://github.com/mauricio/postgresql-async) - Async database drivers to talk to PostgreSQL and MySQL in Scala.
 
 ## Web Frameworks
 
@@ -37,7 +37,6 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 * [Scalatra](https://github.com/scalatra/scalatra) - Tiny Scala high-performance, async web framework, inspired by Sinatra.
 * [Spray](https://github.com/spray/spray) - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
 * [Finatra](https://github.com/twitter/finatra) - A sinatra-inspired web framework for scala, running on top of Finagle.
-* [Blue Eyes](https://github.com/jdegoes/blueeyes) - A lightweight Web 3.0 framework for Scala, featuring a purely asynchronous architecture, extremely high-performance, massive scalability, high usability, and a functional, composable design.
 * [Reactive](https://github.com/nafg/reactive) - FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift)
 * [Chaos](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala
 
@@ -61,9 +60,9 @@ A curated list of awesome Scala frameworks, libraries and software. Inspired by 
 
 *Libraries for work with json.*
 
-* [json4s](https://github.com/json4s/json4s) - project aims to provide a single AST to be used by other scala json libraries.
-* [jerkson](https://github.com/codahale/jerkson) - a Scala wrapper for Jackson
-* [spray-json](https://github.com/spray/spray-json) -  lightweight, clean and efficient JSON implementation in Scala.
+* [json4s](https://github.com/json4s/json4s) - Project aims to provide a single AST to be used by other scala json libraries.
+* [jerkson](https://github.com/codahale/jerkson) - A Scala wrapper for Jackson
+* [spray-json](https://github.com/spray/spray-json) -  Lightweight, clean and efficient JSON implementation in Scala.
 * [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
 * [jackson-module-scala](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes
 
