@@ -62,7 +62,6 @@ A community driven list of useful Scala libraries, frameworks and software. This
 *Libraries for work with json.*
 
 * [json4s](https://github.com/json4s/json4s) - Project aims to provide a single AST to be used by other scala json libraries.
-* [jerkson](https://github.com/codahale/jerkson) - A Scala wrapper for Jackson
 * [spray-json](https://github.com/spray/spray-json) -  Lightweight, clean and efficient JSON implementation in Scala.
 * [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
 * [jackson-module-scala](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes
