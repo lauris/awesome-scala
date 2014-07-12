@@ -9,6 +9,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Authentication](#authentication)
     - [Testing](#testing)
     - [JSON Manipulation](#json-manipulation)
+    - [Serialization](#serialization)
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Big Data](#big-data)
     - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
