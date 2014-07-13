@@ -35,13 +35,14 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 *Scala frameworks for web development.*
 
-* [Play](https://github.com/playframework/playframework) - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
-* [Skinny Framework](https://github.com/skinny-framework/skinny-framework) - A full-stack web app framework upon Scalatra for rapid Development in Scala.
-* [Scalatra](https://github.com/scalatra/scalatra) - Tiny Scala high-performance, async web framework, inspired by Sinatra.
-* [Spray](https://github.com/spray/spray) - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
-* [Finatra](https://github.com/twitter/finatra) - A sinatra-inspired web framework for scala, running on top of Finagle.
-* [Reactive](https://github.com/nafg/reactive) - FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift)
 * [Chaos](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala
+* [Finatra](https://github.com/twitter/finatra) - A sinatra-inspired web framework for scala, running on top of Finagle.
+* [Lift](http://liftweb.net/) - A secure and scalable framework, with asynchronous actors support and easy ajax bindings.
+* [Play](https://github.com/playframework/playframework) - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
+* [Reactive](https://github.com/nafg/reactive) - FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift)
+* [Scalatra](https://github.com/scalatra/scalatra) - Tiny Scala high-performance, async web framework, inspired by Sinatra.
+* [Skinny Framework](https://github.com/skinny-framework/skinny-framework) - A full-stack web app framework upon Scalatra for rapid Development in Scala.
+* [Spray](https://github.com/spray/spray) - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
 
 ## Authentication
 
