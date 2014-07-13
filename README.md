@@ -94,6 +94,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scalding](https://github.com/twitter/scalding) - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Summingbird](https://github.com/twitter/summingbird) - An implementation of the "lambda architecture" as a software abstraction - a single API for Hadoop and Storm.
 * [Scrunch](http://crunch.apache.org/scrunch.html) - A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) which provides a framework for writing, testing, and running MapReduce pipelines.
+* [GirdScale](https://github.com/romainreuillon/gridscale) - A scala API for computing clusters and grids.
 
 ## Modularization and Dependency Injection
 
