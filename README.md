@@ -87,6 +87,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [FACTORIE](https://github.com/factorie/factorie) - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
 * [Saddle](https://github.com/saddle/saddle) - A minimalist port of Pandas to Scala
 * [Squants](https://github.com/garyKeorkunian/squants) - The Scala API for Quantities, Units of Measure and Dimensional Analysis
+* [MGO](https://github.com/romainreuillon/mgo) - Modular multi-objective evolutionary algorithm optimization library enforcing immutability
 
 ## Big Data
 * [Spark](http://spark.apache.org/) - Lightning fast cluster computing - up to 100x faster than Hadoop for iterative algorithms (memory caching) and up to 10x faster than Hadoop for single-pass MapReduce jobs. Compatible with YARN-enabled Hadoop clusters, can run on Mesos and in stand-alone mode as well.
