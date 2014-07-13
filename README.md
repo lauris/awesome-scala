@@ -9,6 +9,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Authentication](#authentication)
     - [Testing](#testing)
     - [JSON Manipulation](#json-manipulation)
+    - [Serialization](#serialization)
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Big Data](#big-data)
     - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
@@ -67,6 +68,14 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
 * [jackson-module-scala](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes
 
+## Serialization
+
+*Libraries for serializing and deserializing data for storage or transport.*
+
+* [Pickling](https://github.com/scala/pickling) - Fast, customizable, boilerplate-free pickling support.
+* [scodec](https://github.com/scodec/scodec) - A combinator library for working with binary data.
+* [Scrooge](http://twitter.github.io/scrooge/) - An Apache Thrift code generator for Scala.
+
 ## Science and Data Analysis
 
 *Libraries for scientific computing, data analysis and numerical processing.*
@@ -100,6 +109,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 * [Scalaz](https://github.com/scalaz/scalaz) - An extension to the core Scala library for functional programming.
 * [Shapeless](https://github.com/milessabin/shapeless) - A type class and dependent type based generic programming library for Scala.
+* [Twitter Util](https://github.com/twitter/util) - General-purpose Scala libraries, including a future implementation and other concurrency tools.
 * [Scala Async](https://github.com/scala/async) - An asynchronous programming facility for Scala.
 
 ## Android
