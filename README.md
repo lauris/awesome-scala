@@ -102,9 +102,9 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 *Event streams, signals, observables, etc.*
 
-* [Scala.Rx](https://github.com/lihaoyi/scala.rx) - An experimental library for Functional Reactive Programming in Scala (reactive variables). Scala.js compatible.
-* [scala.frp](https://github.com/dylemma/scala.frp) - Functional Reactive Programming for Scala (event streams).
-* [RxJava-Scala](https://github.com/Netflix/RxJava/tree/master/language-adaptors/rxjava-scala) - Scala Adaptor for RxJava.
+* [Scala.Rx](https://github.com/lihaoyi/scala.rx) — An experimental library for Functional Reactive Programming in Scala (reactive variables). Scala.js compatible.
+* [scala.frp](https://github.com/dylemma/scala.frp) — Functional Reactive Programming for Scala (event streams).
+* [RxJava-Scala](https://github.com/Netflix/RxJava/tree/master/language-adaptors/rxjava-scala) — Scala Adaptor for RxJava.
 
 ## Modularization and Dependency Injection
 
