@@ -12,6 +12,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Serialization](#serialization)
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Big Data](#big-data)
+    - [Functional Reactive Programming](#functional-reactive-programming)
     - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
     - [Extensions](#extensions)
     - [Android](#android)
@@ -58,6 +59,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [ScalaCheck](https://github.com/rickynils/scalacheck) - Property-based testing for Scala.
 * [ScalaTest](https://github.com/scalatest/scalatest) - A testing tool for Scala and Java developers.
 * [Specs2](https://github.com/etorreborre/specs2) - Software Specifications for Scala.
+* [µTest](https://github.com/lihaoyi/utest) - A tiny, portable testing library for Scala.
 
 ## JSON Manipulation
 
@@ -95,6 +97,12 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Summingbird](https://github.com/twitter/summingbird) - An implementation of the "lambda architecture" as a software abstraction - a single API for Hadoop and Storm.
 * [Scrunch](http://crunch.apache.org/scrunch.html) - A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) which provides a framework for writing, testing, and running MapReduce pipelines.
 * [GridScale](https://github.com/romainreuillon/gridscale) - A Scala API for computing clusters and grids.
+
+## Functional Reactive Programming
+
+* [Scala.Rx](https://github.com/lihaoyi/scala.rx) - An experimental library for Functional Reactive Programming in Scala (reactive variables). Scala.js compatible.
+* [scala.frp](https://github.com/dylemma/scala.frp) - Functional Reactive Programming for Scala (event streams).
+* [RxJava-Scala](https://github.com/Netflix/RxJava/tree/master/language-adaptors/rxjava-scala) - Scala Adaptor for RxJava.
 
 ## Modularization and Dependency Injection
 
