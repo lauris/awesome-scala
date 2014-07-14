@@ -67,6 +67,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [spray-json](https://github.com/spray/spray-json) -  Lightweight, clean and efficient JSON implementation in Scala.
 * [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
 * [jackson-module-scala](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes
+* [play-json](https://github.com/playframework/playframework/tree/master/framework/src/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime ([docs](http://www.playframework.com/documentation/2.2.x/ScalaJson), published separately at `"com.typesafe.play" %% "play-json" % playVersion`).
 
 ## Serialization
 
@@ -75,6 +76,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Pickling](https://github.com/scala/pickling) - Fast, customizable, boilerplate-free pickling support.
 * [scodec](https://github.com/scodec/scodec) - A combinator library for working with binary data.
 * [Scrooge](http://twitter.github.io/scrooge/) - An Apache Thrift code generator for Scala.
+* [validation](https://github.com/jto/validation) - Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime ([intro](http://jto.github.io/articles/play_new_validation_api/)).
 
 ## Science and Data Analysis
 
@@ -113,6 +115,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Shapeless](https://github.com/milessabin/shapeless) - A type class and dependent type based generic programming library for Scala.
 * [Twitter Util](https://github.com/twitter/util) - General-purpose Scala libraries, including a future implementation and other concurrency tools.
 * [Scala Async](https://github.com/scala/async) - An asynchronous programming facility for Scala.
+* [Resolvable](https://github.com/resolvable/resolvable) - A library to optimize fetching immutable data structures from several endpoints in several formats.
 
 ## Android
 
@@ -120,7 +123,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 * [Scaloid](https://github.com/pocorall/scaloid) - Less painful Android development with Scala.
 * [Macroid](https://github.com/macroid/macroid) - A modular functional UI language for Android.
-* [Android SDK Plugin for SBT](https://github.com/pfn/android-sdk-plugin) - A sbt plugin that adds tasks for developing Android applications.
+* [Android SDK Plugin for SBT](https://github.com/pfn/android-sdk-plugin) - An sbt plugin that adds tasks for developing Android applications.
 
 ## HTTP
 
