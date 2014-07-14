@@ -129,6 +129,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Dispatch](https://github.com/dispatch/reboot) - Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
 * [Scalaxb](https://github.com/eed3si9n/scalaxb) - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
 * [Spray](http://spray.io/) - Actors-based library for http interaction.
+* [Tubesocks](https://github.com/softprops/tubesocks) - Library supporting bi-directional communication with websocket servers
 
 
 # Contributing
