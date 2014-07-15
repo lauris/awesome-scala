@@ -32,7 +32,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [PostgreSQL and MySQL async](https://github.com/mauricio/postgresql-async) — Async database drivers to talk to PostgreSQL and MySQL in Scala.
 * [ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo) — Reactive Scala Driver for MongoDB.
 * [Phantom](https://github.com/websudosuk/phantom) — Async type safe Scala DSL for Apache Cassandra.
-* [ReactiveCouchbase](http://reactivecouchbase.org/) - Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
+* [ReactiveCouchbase](http://reactivecouchbase.org/) — Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
 
 ## Web Frameworks
 
@@ -45,7 +45,8 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Finatra](https://github.com/twitter/finatra) — A sinatra-inspired web framework for scala, running on top of Finagle.
 * [Reactive](https://github.com/nafg/reactive) — FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift).
 * [Chaos](https://github.com/mesosphere/chaos) — A lightweight framework for writing REST services in Scala.
-* [Xitrum](http://xitrum-framework.github.io/) - An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
+* [Xitrum](http://xitrum-framework.github.io/) — An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
+* [Unfiltered](https://github.com/unfiltered/unfiltered) — An modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
  
 
 ## i18n
@@ -71,7 +72,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [ScalaTest](https://github.com/scalatest/scalatest) — A testing tool for Scala and Java developers.
 * [Specs2](https://github.com/etorreborre/specs2) — Software Specifications for Scala.
 * [µTest](https://github.com/lihaoyi/utest) — A tiny, portable testing library for Scala.
-* [Scalive](https://github.com/xitrum-framework/scalive) - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
+* [Scalive](https://github.com/xitrum-framework/scalive) — Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
 
 ## JSON Manipulation
 
