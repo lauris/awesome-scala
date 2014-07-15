@@ -47,7 +47,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Chaos](https://github.com/mesosphere/chaos) — A lightweight framework for writing REST services in Scala.
 * [Xitrum](http://xitrum-framework.github.io/) — An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
 * [Unfiltered](https://github.com/unfiltered/unfiltered) — An modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
- 
+
 
 ## i18n
 
@@ -84,6 +84,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [argonaut](http://argonaut.io/) — Purely Functional JSON in Scala.
 * [jackson-module-scala](https://github.com/FasterXML/jackson-module-scala) — Add-on module for Jackson to support Scala-specific datatypes.
 * [play-json](https://github.com/playframework/playframework/tree/master/framework/src/play-json) — Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime ([docs](http://www.playframework.com/documentation/2.2.x/ScalaJson), published separately at `"com.typesafe.play" %% "play-json" % playVersion`).
+* [dijon](https://github.com/pathikrit/dijon) - A Dynamically Typed Scala Json Library
 
 ## Serialization
 
