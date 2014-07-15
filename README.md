@@ -6,6 +6,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 - [Awesome Scala](#awesome-scala)
     - [Database](#database)
     - [Web Frameworks](#web-frameworks)
+    - [i18n](#i18n)
     - [Authentication](#authentication)
     - [Testing](#testing)
     - [JSON Manipulation](#json-manipulation)
@@ -44,6 +45,13 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Finatra](https://github.com/twitter/finatra) — A sinatra-inspired web framework for scala, running on top of Finagle.
 * [Reactive](https://github.com/nafg/reactive) — FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift).
 * [Chaos](https://github.com/mesosphere/chaos) — A lightweight framework for writing REST services in Scala.
+* [Xitrum](http://xitrum-framework.github.io/) - An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
+## i18n
+
+*Scala libraries for i18n.*
+
+* [Scaposer](https://github.com/xitrum-framework/scaposer) - GNU Gettext .po file loader for Scala.
+* [scala-xgettext](https://github.com/xitrum-framework/scala-xgettext) - A compiler plugin that acts like GNU xgettext command to extract i18n strings in Scala source code files to Gettext .po file.
 
 ## Authentication
 
@@ -61,6 +69,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [ScalaTest](https://github.com/scalatest/scalatest) — A testing tool for Scala and Java developers.
 * [Specs2](https://github.com/etorreborre/specs2) — Software Specifications for Scala.
 * [µTest](https://github.com/lihaoyi/utest) — A tiny, portable testing library for Scala.
+* [Scalive](https://github.com/xitrum-framework/scalive) - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
 
 ## JSON Manipulation
 
@@ -114,6 +123,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 *Modularization of applications, dependency injection, etc.*
 
 * [Domino](https://github.com/helgoboss/domino) — Write elegant OSGi bundle activators in Scala.
+* [Sclasner](https://github.com/xitrum-framework/sclasner) - Scala classpath scanner.
 * [Scaldi](https://github.com/scaldi/scaldi) — Lightweight Scala Dependency Injection Library.
 * [MacWire](https://github.com/adamw/macwire) — Scala Macro to generate wiring code for class instantiation. DI container replacement.
 * [SubCut](https://github.com/dickwall/subcut) — Scala Uniquely Bound Classes Under Traits.
@@ -141,6 +151,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 *Scala libraries and wrappers for HTTP clients.*
 
 * [Dispatch](https://github.com/dispatch/reboot) — Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
+* [Netcaty](https://github.com/ngocdaothanh/netcaty) - Simple net test client/server for Netty and Scala lovers.
 * [Scalaxb](https://github.com/eed3si9n/scalaxb) — An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
 * [Spray](http://spray.io/) — Actor-based library for http interaction.
 * [Tubesocks](https://github.com/softprops/tubesocks) — Library supporting bi-directional communication with websocket servers.
