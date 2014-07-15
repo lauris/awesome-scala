@@ -53,8 +53,8 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 *Scala libraries for i18n.*
 
-* [Scaposer](https://github.com/xitrum-framework/scaposer) - GNU Gettext .po file loader for Scala.
-* [scala-xgettext](https://github.com/xitrum-framework/scala-xgettext) - A compiler plugin that acts like GNU xgettext command to extract i18n strings in Scala source code files to Gettext .po file.
+* [Scaposer](https://github.com/xitrum-framework/scaposer) – GNU Gettext .po file loader for Scala.
+* [scala-xgettext](https://github.com/xitrum-framework/scala-xgettext) – A compiler plugin that acts like GNU xgettext command to extract i18n strings in Scala source code files to Gettext .po file.
 
 ## Authentication
 
