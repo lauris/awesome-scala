@@ -63,6 +63,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [scala-oauth2-provider](https://github.com/nulab/scala-oauth2-provider) — OAuth 2.0 server-side implementation written in Scala.
 * [SecureSocial](https://github.com/jaliss/securesocial) — A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
 * [play2-auth](https://github.com/t2v/play2-auth) — Play2.x Authentication and Authorization module.
+* [play-pac4j](https://github.com/leleuj/play-pac4j) — Profile & Authentication Client in Scala (and Java) for CAS, OAuth, OpenID, SAML, HTTP... protocols and Play 2.x framework.
 
 ## Testing
 
