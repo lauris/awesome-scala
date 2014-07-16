@@ -143,6 +143,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Twitter Util](https://github.com/twitter/util) — General-purpose Scala libraries, including a future implementation and other concurrency tools.
 * [Scala Async](https://github.com/scala/async) — An asynchronous programming facility for Scala.
 * [Resolvable](https://github.com/resolvable/resolvable) — A library to optimize fetching immutable data structures from several endpoints in several formats.
+* [Scala Blitz](http://scala-blitz.github.io/) - A library to speed up Scala collections by parallelizing them using macros. 
 
 ## Android
 
