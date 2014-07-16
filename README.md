@@ -39,7 +39,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 *Scala frameworks for web development.*
 
 * [Play](https://github.com/playframework/playframework) — Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
-* [Lift](https://github.com/lift/framework) — Secure and powerful full stack web framework.
+* [Lift](https://github.com/lift/framework) — Secure and powerful full stack web framework ([discussion](https://github.com/lauris/awesome-scala/pull/19)).
 * [Skinny Framework](https://github.com/skinny-framework/skinny-framework) — A full-stack web app framework upon Scalatra for rapid Development in Scala.
 * [Scalatra](https://github.com/scalatra/scalatra) — Tiny Scala high-performance, async web framework, inspired by Sinatra.
 * [Spray](https://github.com/spray/spray) — A suite of scala libraries for building and consuming RESTful web services on top of Akka.
