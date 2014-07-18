@@ -75,6 +75,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Specs2](https://github.com/etorreborre/specs2) — Software Specifications for Scala.
 * [µTest](https://github.com/lihaoyi/utest) — A tiny, portable testing library for Scala.
 * [Scalive](https://github.com/xitrum-framework/scalive) — Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
+* [ScalaMeter](https://github.com/scalameter/scalameter) -- a testing and benchmarking framework that executes statistical performance regressions tests and allows measuring performance metrics in a running application.
 
 ## JSON Manipulation
 
@@ -123,6 +124,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scala.Rx](https://github.com/lihaoyi/scala.rx) — An experimental library for Functional Reactive Programming in Scala (reactive variables). Scala.js compatible.
 * [scala.frp](https://github.com/dylemma/scala.frp) — Functional Reactive Programming for Scala (event streams).
 * [RxJava-Scala](https://github.com/Netflix/RxJava/tree/master/language-adaptors/rxjava-scala) — Scala Adaptor for RxJava.
+* [Reactive Collections](https://github.com/storm-enroute/reactive-collections) -- a library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
 
 ## Modularization and Dependency Injection
 
