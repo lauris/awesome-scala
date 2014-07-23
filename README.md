@@ -76,6 +76,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Specs2](https://github.com/etorreborre/specs2) — Software Specifications for Scala.
 * [µTest](https://github.com/lihaoyi/utest) — A tiny, portable testing library for Scala.
 * [Scalive](https://github.com/xitrum-framework/scalive) — Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
+* [Scalastyle](https://github.com/scalastyle/scalastyle) - Scala style checker
 
 ## JSON Manipulation
 
