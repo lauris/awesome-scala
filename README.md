@@ -19,6 +19,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Extensions](#extensions)
     - [Android](#android)
     - [HTTP](#http)
+    - [Semantic Web](#semweb)
 - [Contributing](#contributing)
 
 ## Database
@@ -173,6 +174,13 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scalaxb](https://github.com/eed3si9n/scalaxb) — An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
 * [Spray](http://spray.io/) — Actor-based library for http interaction.
 * [Tubesocks](https://github.com/softprops/tubesocks) — Library supporting bi-directional communication with websocket servers.
+
+
+## Semantic Web
+
+*Scala libraries for interactions with the Web of Data, and other RDF tools*
+
+* [Banana-RDF](https://github.com/w3c/banana-rdf) - Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
 
 
 # Contributing
