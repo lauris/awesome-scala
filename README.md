@@ -19,7 +19,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Extensions](#extensions)
     - [Android](#android)
     - [HTTP](#http)
-    - [Semantic Web](#semweb)
+    - [Semantic Web](#semantic-web)
 - [Contributing](#contributing)
 
 ## Database
