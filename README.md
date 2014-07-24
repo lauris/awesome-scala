@@ -19,6 +19,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Extensions](#extensions)
     - [Android](#android)
     - [HTTP](#http)
+    - [Utilities](#utilities)
 - [Contributing](#contributing)
 
 ## Database
@@ -174,6 +175,11 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Spray](http://spray.io/) — Actor-based library for http interaction.
 * [Tubesocks](https://github.com/softprops/tubesocks) — Library supporting bi-directional communication with websocket servers.
 
+## Utilities
+
+*Miscellaneous Scala utility libraries*
+
+* [Chill](https://github.com/twitter/chill) - Scala extensions for the Kryo serialization library.  Can be used standalone or within systems like Hadoop, Storm and Akka.  Generally faster and more memory efficient than Java serialization.
 
 # Contributing
 
