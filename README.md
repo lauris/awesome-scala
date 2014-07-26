@@ -49,7 +49,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Reactive](https://github.com/nafg/reactive) — FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift).
 * [Chaos](https://github.com/mesosphere/chaos) — A lightweight framework for writing REST services in Scala.
 * [Xitrum](http://xitrum-framework.github.io/) — An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
-* [Unfiltered](https://github.com/unfiltered/unfiltered) — An modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
+* [Unfiltered](https://github.com/unfiltered/unfiltered) — A modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
 
 
 ## i18n
@@ -66,7 +66,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [scala-oauth2-provider](https://github.com/nulab/scala-oauth2-provider) — OAuth 2.0 server-side implementation written in Scala.
 * [SecureSocial](https://github.com/jaliss/securesocial) — A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
 * [play2-auth](https://github.com/t2v/play2-auth) — Play2.x Authentication and Authorization module.
-* [play-pac4j](https://github.com/leleuj/play-pac4j) — Profile & Authentication Client in Scala (and Java) for CAS, OAuth, OpenID, SAML, HTTP... protocols and Play 2.x framework.
+* [play-pac4j](https://github.com/leleuj/play-pac4j) — Profile & Authentication Client in Scala for CAS, OAuth, OpenID, SAML & HTTP protocols and Play 2.x framework.
 
 ## Testing
 
@@ -89,7 +89,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [spray-json](https://github.com/spray/spray-json) — Lightweight, clean and efficient JSON implementation in Scala.
 * [argonaut](http://argonaut.io/) — Purely Functional JSON in Scala.
 * [jackson-module-scala](https://github.com/FasterXML/jackson-module-scala) — Add-on module for Jackson to support Scala-specific datatypes.
-* [play-json](https://github.com/playframework/playframework/tree/master/framework/src/play-json) — Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime ([docs](http://www.playframework.com/documentation/2.2.x/ScalaJson), published separately at `"com.typesafe.play" %% "play-json" % playVersion`).
+* [play-json](https://github.com/playframework/playframework/tree/master/framework/src/play-json) — Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime.
 
 ## Serialization
 
@@ -98,7 +98,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Pickling](https://github.com/scala/pickling) — Fast, customizable, boilerplate-free pickling support.
 * [scodec](https://github.com/scodec/scodec) — A combinator library for working with binary data.
 * [Scrooge](http://twitter.github.io/scrooge/) — An Apache Thrift code generator for Scala.
-* [validation](https://github.com/jto/validation) — Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime ([intro](http://jto.github.io/articles/play_new_validation_api/)).
+* [validation](https://github.com/jto/validation) — Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime.
 
 ## Science and Data Analysis
 
@@ -128,7 +128,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scala.Rx](https://github.com/lihaoyi/scala.rx) — An experimental library for Functional Reactive Programming in Scala (reactive variables). Scala.js compatible.
 * [scala.frp](https://github.com/dylemma/scala.frp) — Functional Reactive Programming for Scala (event streams).
 * [RxJava-Scala](https://github.com/Netflix/RxJava/tree/master/language-adaptors/rxjava-scala) — Scala Adaptor for RxJava.
-* [Reactive Collections](https://github.com/storm-enroute/reactive-collections) – a library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
+* [Reactive Collections](https://github.com/storm-enroute/reactive-collections) – A library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
 
 ## Modularization and Dependency Injection
 
@@ -156,7 +156,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Twitter Util](https://github.com/twitter/util) — General-purpose Scala libraries, including a future implementation and other concurrency tools.
 * [Scala Async](https://github.com/scala/async) — An asynchronous programming facility for Scala.
 * [Resolvable](https://github.com/resolvable/resolvable) — A library to optimize fetching immutable data structures from several endpoints in several formats.
-* [Scala Blitz](http://scala-blitz.github.io/) - A library to speed up Scala collection operations by removing runtime overheads during compilation, and a custom data-parallel operation runtime.
+* [Scala Blitz](http://scala-blitz.github.io/) – A library to speed up Scala collection operations by removing runtime overheads during compilation, and a custom data-parallel operation runtime.
 
 ## Android
 
@@ -182,7 +182,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 *Scala libraries for interactions with the Web of Data, and other RDF tools*
 
-* [Banana-RDF](https://github.com/w3c/banana-rdf) - Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
+* [Banana-RDF](https://github.com/w3c/banana-rdf) – Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
 
 
 # Contributing
