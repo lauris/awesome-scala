@@ -174,6 +174,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scalaxb](https://github.com/eed3si9n/scalaxb) — An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
 * [Spray](http://spray.io/) — Actor-based library for http interaction.
 * [Tubesocks](https://github.com/softprops/tubesocks) — Library supporting bi-directional communication with websocket servers.
+* [scalaj-http](https://github.com/scalaj/scalaj-http) – Simple scala wrapper for HttpURLConnection (including OAuth support).
 
 
 ## Semantic Web
