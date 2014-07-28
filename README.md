@@ -146,6 +146,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 * [Akka](http://akka.io/) — A toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications.
 * [Finagle](https://twitter.github.io/finagle/) — An extensible, protocol-agnostic RPC system designed for high performance and concurrency.
+* [Glokka](https://github.com/xitrum-framework/glokka) - Library to register and lookup actors by names in an Akka cluster.
 
 ## Extensions
 
