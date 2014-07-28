@@ -104,14 +104,16 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 *Libraries for scientific computing, data analysis and numerical processing.*
 
-* [Breeze](https://github.com/scalanlp/breeze) — Breeze is a numerical processing library for Scala.
-* [MLLib](https://spark.apache.org/mllib/) — Machine Learning framework for Spark
-* [Spire](https://github.com/non/spire) — Powerful new number types and numeric abstractions for Scala.
 * [Algebird](https://github.com/twitter/algebird) — Abstract Algebra for Scala.
+* [Breeze](https://github.com/scalanlp/breeze) — Breeze is a numerical processing library for Scala.
 * [FACTORIE](https://github.com/factorie/factorie) — A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
-* [Saddle](https://github.com/saddle/saddle) — A minimalist port of Pandas to Scala
-* [Squants](https://github.com/garyKeorkunian/squants) — The Scala API for Quantities, Units of Measure and Dimensional Analysis.
+* [Figaro](https://github.com/p2t2/figaro) - Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
 * [MGO](https://github.com/romainreuillon/mgo) — Modular multi-objective evolutionary algorithm optimization library enforcing immutability.
+* [MLLib](https://spark.apache.org/mllib/) — Machine Learning framework for Spark
+* [Saddle](https://github.com/saddle/saddle) — A minimalist port of Pandas to Scala
+* [Spire](https://github.com/non/spire) — Powerful new number types and numeric abstractions for Scala.
+* [Squants](https://github.com/garyKeorkunian/squants) — The Scala API for Quantities, Units of Measure and Dimensional Analysis.
+
 
 ## Big Data
 * [Spark](http://spark.apache.org/) — Lightning fast cluster computing — up to 100x faster than Hadoop for iterative algorithms (memory caching) and up to 10x faster than Hadoop for single-pass MapReduce jobs. Compatible with YARN-enabled Hadoop clusters, can run on Mesos and in stand-alone mode as well.
