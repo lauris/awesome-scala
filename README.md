@@ -20,6 +20,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Android](#android)
     - [HTTP](#http)
     - [Semantic Web](#semantic-web)
+    - [Metrics and Monitoring](#metrics-and-monitoring)
 - [Contributing](#contributing)
 
 ## Database
@@ -187,6 +188,11 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 * [Banana-RDF](https://github.com/w3c/banana-rdf) – Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
 
+## Metrics and Monitoring
+
+*Scala libraries for gathering metrics and monitoring applications.*
+
+* [Kamon](http://kamon.io) - Gathering metrics from applications built with Akka, Spray and Play! with support for user metrics as well.
 
 # Contributing
 
