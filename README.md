@@ -164,6 +164,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Resolvable](https://github.com/resolvable/resolvable) — A library to optimize fetching immutable data structures from several endpoints in several formats.
 * [Scala Blitz](http://scala-blitz.github.io/) – A library to speed up Scala collection operations by removing runtime overheads during compilation, and a custom data-parallel operation runtime.
 * [Log4s](http://log4s.org) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
+* [Lamma](http://www.lamma.io) - A Scala date library for date and schedule generation. 
 
 ## Android
 
