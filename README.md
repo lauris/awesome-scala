@@ -114,6 +114,9 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Summingbird](https://github.com/twitter/summingbird) — An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
 * [Scrunch](http://crunch.apache.org/scrunch.html) — A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) which provides a framework for writing, testing, and running MapReduce pipelines.
 * [GridScale](https://github.com/romainreuillon/gridscale) — A Scala API for computing clusters and grids.
+.
+* [Akka](https://github.com/akka/akka) — Akka is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on the JVM.
+.
 * [scoozie](https://github.com/klout/scoozie) — Scala DSL on top of Oozie XML.
 
 ## Functional Reactive Programming
