@@ -184,7 +184,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Spray](http://spray.io/) — Actor-based library for http interaction.
 * [Tubesocks](https://github.com/softprops/tubesocks) — Library supporting bi-directional communication with websocket servers.
 * [scalaj-http](https://github.com/scalaj/scalaj-http) – Simple scala wrapper for HttpURLConnection (including OAuth support).
-* [Finch.io](https://github.com/finagle/finch) - Purely Functional REST API atop of [Finagle](https://github.com/twitter/finagle).
+* [Finch.io](https://github.com/finagle/finch) — Purely Functional REST API atop of [Finagle](https://github.com/twitter/finagle).
 
 
 ## Semantic Web
