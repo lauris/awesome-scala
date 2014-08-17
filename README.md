@@ -21,6 +21,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [HTTP](#http)
     - [Semantic Web](#semantic-web)
     - [Metrics and Monitoring](#metrics-and-monitoring)
+    - [Sbt plugins](#sbt-plugins)
 - [Contributing](#contributing)
 
 ## Database
@@ -164,7 +165,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Resolvable](https://github.com/resolvable/resolvable) — A library to optimize fetching immutable data structures from several endpoints in several formats.
 * [Scala Blitz](http://scala-blitz.github.io/) – A library to speed up Scala collection operations by removing runtime overheads during compilation, and a custom data-parallel operation runtime.
 * [Log4s](http://log4s.org) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
-* [Lamma](https://github.com/maxcellent/lamma) – A Scala date library for date and schedule generation. 
+* [Lamma](https://github.com/maxcellent/lamma) – A Scala date library for date and schedule generation.
 
 ## Android
 
@@ -198,6 +199,20 @@ A community driven list of useful Scala libraries, frameworks and software. This
 *Scala libraries for gathering metrics and monitoring applications.*
 
 * [Kamon](http://kamon.io) - Gathering metrics from applications built with Akka, Spray and Play! with support for user metrics as well.
+
+
+## Sbt plugins
+
+*Sbt plugins to make your life easier*
+
+* [Sbt-Revolver](https://github.com/spray/sbt-revolver) – Fork & Stop processes from sbt.
+* [Sbt-Eclipse](https://github.com/typesafehub/sbteclipse) – Create Eclipse project definitions from sbt builds.
+* [Sbt-Native-Packager](https://github.com/sbt/sbt-native-packager) – Bundle up Scala software for native packaging systems, like deb, rpm, homebrew, msi..
+* [Sbt-Dependency-Graph](https://github.com/jrudolph/sbt-dependency-graph) – Create a dependency graph for your project.
+* [Sbt-One-Jar](https://github.com/sbt/sbt-onejar) – Packages your project using One-JAR™.
+* [Sbt-Start-Script](https://github.com/sbt/sbt-start-script) – Create a "start" script to run the program.
+* [ScalaKata](https://github.com/MasseGuillaume/ScalaKata) – Scala playground & Documentation tool.
+* [WartRemover](https://github.com/typelevel/wartremover) – Flexible Scala code linting tool.
 
 # Contributing
 
