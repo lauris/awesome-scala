@@ -186,6 +186,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Tubesocks](https://github.com/softprops/tubesocks) — Library supporting bi-directional communication with websocket servers.
 * [scalaj-http](https://github.com/scalaj/scalaj-http) – Simple scala wrapper for HttpURLConnection (including OAuth support).
 * [Finch.io](https://github.com/finagle/finch) — Purely Functional REST API atop of [Finagle](https://github.com/twitter/finagle).
+* [Newman](https://github.com/stackmob/newman) — A REST DSL that tries to take the best from Dispatch, Finagle and Apache HttpClient. See [here](https://www.paypal-engineering.com/2014/02/13/hello-newman-a-rest-client-for-scala/) for rationale.
 
 
 ## Semantic Web
