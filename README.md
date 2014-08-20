@@ -135,6 +135,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [scala.frp](https://github.com/dylemma/scala.frp) — Functional Reactive Programming for Scala (event streams).
 * [RxJava-Scala](https://github.com/Netflix/RxJava/tree/master/language-adaptors/rxjava-scala) — Scala Adaptor for RxJava.
 * [Reactive Collections](https://github.com/storm-enroute/reactive-collections) – A library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
+* [Vertx.io](http://vertx.io/) – A polyglot reactive application platform for the JVM which aims to be an alternative to node.js. Its concurrency model resembles actors. It supports [Scala](http://vertx.io/core_manual_scala.html), Clojure, Java, Javascript, Ruby, Groovy and Python.
 
 ## Modularization and Dependency Injection
 
