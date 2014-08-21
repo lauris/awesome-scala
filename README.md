@@ -135,6 +135,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [scala.frp](https://github.com/dylemma/scala.frp) — Functional Reactive Programming for Scala (event streams).
 * [RxJava-Scala](https://github.com/Netflix/RxJava/tree/master/language-adaptors/rxjava-scala) — Scala Adaptor for RxJava.
 * [Reactive Collections](https://github.com/storm-enroute/reactive-collections) – A library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
+* [Vertx.io](http://vertx.io/) – A polyglot reactive application platform for the JVM which aims to be an alternative to node.js. Its concurrency model resembles actors. It supports [Scala](http://vertx.io/core_manual_scala.html), Clojure, Java, Javascript, Ruby, Groovy and Python.
 
 ## Modularization and Dependency Injection
 
@@ -166,6 +167,8 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scala Blitz](http://scala-blitz.github.io/) – A library to speed up Scala collection operations by removing runtime overheads during compilation, and a custom data-parallel operation runtime.
 * [Log4s](http://log4s.org) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
 * [Lamma](https://github.com/maxcellent/lamma) – A Scala date library for date and schedule generation.
+* [Scala Graph](http://www.scala-graph.org/) – A Scala library with basic graph functionality that seamlessly fits into the Scala standard collections library
+* [Cassovary](https://github.com/twitter/cassovary) – A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
 
 ## Android
 
@@ -186,6 +189,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Tubesocks](https://github.com/softprops/tubesocks) — Library supporting bi-directional communication with websocket servers.
 * [scalaj-http](https://github.com/scalaj/scalaj-http) – Simple scala wrapper for HttpURLConnection (including OAuth support).
 * [Finch.io](https://github.com/finagle/finch) — Purely Functional REST API atop of [Finagle](https://github.com/twitter/finagle).
+* [Newman](https://github.com/stackmob/newman) — A REST DSL that tries to take the best from Dispatch, Finagle and Apache HttpClient. See [here](https://www.paypal-engineering.com/2014/02/13/hello-newman-a-rest-client-for-scala/) for rationale.
 
 
 ## Semantic Web
