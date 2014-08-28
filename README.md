@@ -38,7 +38,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Phantom](https://github.com/websudosuk/phantom) — Async type safe Scala DSL for Apache Cassandra.
 * [ReactiveCouchbase](http://reactivecouchbase.org/) — Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
 * [Salat](https://github.com/novus/salat/) — ORM for MongoDB. A related Play-plugin is also available.
-* [Sorm](http://sorm-framework.org/) — A functional boilerplate-free Scala ORM
+* [Sorm](https://github.com/sorm/sorm) — A functional boilerplate-free Scala ORM.
 
 
 ## Web Frameworks
