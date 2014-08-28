@@ -124,6 +124,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Spark](http://spark.apache.org/) — Lightning fast cluster computing — up to 100x faster than Hadoop for iterative algorithms (memory caching) and up to 10x faster than Hadoop for single-pass MapReduce jobs. Compatible with YARN-enabled Hadoop clusters, can run on Mesos and in stand-alone mode as well.
 * [Scalding](https://github.com/twitter/scalding) — A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Summingbird](https://github.com/twitter/summingbird) — An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
+* [Shadoop](https://github.com/adamretter/shadoop) - A Scala DSL for Hadoop MapReduce.
 * [Scrunch](http://crunch.apache.org/scrunch.html) — A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) which provides a framework for writing, testing, and running MapReduce pipelines.
 * [GridScale](https://github.com/romainreuillon/gridscale) — A Scala API for computing clusters and grids.
 * [scoozie](https://github.com/klout/scoozie) — Scala DSL on top of Oozie XML.
