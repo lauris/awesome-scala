@@ -22,6 +22,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Semantic Web](#semantic-web)
     - [Metrics and Monitoring](#metrics-and-monitoring)
     - [Sbt plugins](#sbt-plugins)
+    - [Other](#other)
 - [Contributing](#contributing)
 
 ## Database
@@ -194,7 +195,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 ## Semantic Web
 
-*Scala libraries for interactions with the Web of Data, and other RDF tools*
+*Scala libraries for interactions with the Web of Data, and other RDF tools.*
 
 * [Banana-RDF](https://github.com/w3c/banana-rdf) – Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
 
@@ -207,7 +208,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 ## Sbt plugins
 
-*Sbt plugins to make your life easier*
+*Sbt plugins to make your life easier.*
 
 * [Sbt-Revolver](https://github.com/spray/sbt-revolver) – Fork & Stop processes from sbt.
 * [Sbt-Eclipse](https://github.com/typesafehub/sbteclipse) – Create Eclipse project definitions from sbt builds.
@@ -217,6 +218,12 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Sbt-Start-Script](https://github.com/sbt/sbt-start-script) – Create a "start" script to run the program.
 * [ScalaKata](https://github.com/MasseGuillaume/ScalaKata) – Scala playground & Documentation tool.
 * [WartRemover](https://github.com/typelevel/wartremover) – Flexible Scala code linting tool.
+
+## Other
+
+*something that does not fit in any category.*
+
+* [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
 
 # Contributing
 
