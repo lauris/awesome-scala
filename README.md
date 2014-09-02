@@ -39,6 +39,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [ReactiveCouchbase](http://reactivecouchbase.org/) — Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
 * [Salat](https://github.com/novus/salat/) — ORM for MongoDB. A related Play-plugin is also available.
 * [Sorm](https://github.com/sorm/sorm) — A functional boilerplate-free Scala ORM.
+* [MapperDao](https://code.google.com/p/mapperdao/) - An ORM library for oracle, mysql, mssql, and postgresql
 
 
 ## Web Frameworks
