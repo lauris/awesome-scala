@@ -21,6 +21,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [HTTP](#http)
     - [Semantic Web](#semantic-web)
     - [Metrics and Monitoring](#metrics-and-monitoring)
+    - [Parsing](#parsing)
     - [Sbt plugins](#sbt-plugins)
 - [Contributing](#contributing)
 
@@ -205,10 +206,16 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 * [Kamon](http://kamon.io) - Gathering metrics from applications built with Akka, Spray and Play! with support for user metrics as well.
 
+## Parsing
+
+*Scala libraries for creating parsers.*
+
+* [Scala Parser Combinators](https://github.com/scala/scala-parser-combinators) – Scala Standard Parser Combinator Library.
+* [Parboiled2](https://github.com/sirthias/parboiled2) – A Fast Parser Generator for Scala 2.10.3+.
 
 ## Sbt plugins
 
-*Sbt plugins to make your life easier*
+*Sbt plugins to make your life easier.*
 
 * [Sbt-Revolver](https://github.com/spray/sbt-revolver) – Fork & Stop processes from sbt.
 * [Sbt-Eclipse](https://github.com/typesafehub/sbteclipse) – Create Eclipse project definitions from sbt builds.
