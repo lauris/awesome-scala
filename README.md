@@ -39,7 +39,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [ReactiveCouchbase](http://reactivecouchbase.org/) — Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
 * [Salat](https://github.com/novus/salat/) — ORM for MongoDB. A related Play-plugin is also available.
 * [Sorm](https://github.com/sorm/sorm) — A functional boilerplate-free Scala ORM.
-
+* [jOOQ](http://www.jooq.org) - A Java DSL that emulates standard SQL for 17 RDBMS and that works quite well with Scala as well.
 
 ## Web Frameworks
 
