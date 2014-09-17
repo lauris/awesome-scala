@@ -218,6 +218,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Sbt-Start-Script](https://github.com/sbt/sbt-start-script) – Create a "start" script to run the program.
 * [ScalaKata](https://github.com/MasseGuillaume/ScalaKata) – Scala playground & Documentation tool.
 * [WartRemover](https://github.com/typelevel/wartremover) – Flexible Scala code linting tool.
+* [sbt-pack](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
 
 # Contributing
 
