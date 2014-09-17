@@ -270,6 +270,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [sbt-ide-settings](https://github.com/Jetbrains/sbt-ide-settings) - SBT plugin for tweaking various IDE settings
 * [Sbt-BuildInfo](https://github.com/sbt/sbt-buildinfo) – Generates Scala source from build definition.
 * [Sbt-Updates](https://github.com/rtimush/sbt-updates) – Shows sbt project's dependency updates.
+* [sbt-pack](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
 
 ## Other
 
