@@ -61,8 +61,8 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 *Scala libraries for i18n.*
 
-* [Scaposer](https://github.com/xitrum-framework/scaposer) – GNU Gettext .po file loader for Scala.
-* [scala-xgettext](https://github.com/xitrum-framework/scala-xgettext) – A compiler plugin that acts like GNU xgettext command to extract i18n strings in Scala source code files to Gettext .po file.
+* [Scaposer](https://github.com/xitrum-framework/scaposer) — GNU Gettext .po file loader for Scala.
+* [scala-xgettext](https://github.com/xitrum-framework/scala-xgettext) — A compiler plugin that acts like GNU xgettext command to extract i18n strings in Scala source code files to Gettext .po file.
 
 ## Authentication
 
@@ -79,12 +79,12 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 * [ScalaCheck](https://github.com/rickynils/scalacheck) — Property-based testing for Scala.
 * [ScalaTest](https://github.com/scalatest/scalatest) — A testing tool for Scala and Java developers.
-* [ScalaMeter](https://scalameter.github.io/) - Performance &  memory footprint measuring, regression testing.
+* [ScalaMeter](https://scalameter.github.io/) — Performance & memory footprint measuring, regression testing.
 * [Specs2](https://github.com/etorreborre/specs2) — Software Specifications for Scala.
 * [µTest](https://github.com/lihaoyi/utest) — A tiny, portable testing library for Scala.
 * [Scalive](https://github.com/xitrum-framework/scalive) — Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
-* [Scalastyle](https://github.com/scalastyle/scalastyle) – Scala style checker.
-* [Gatling](http://gatling-tool.org/) – Async Scala-Akka-Netty based Stress Tool.
+* [Scalastyle](https://github.com/scalastyle/scalastyle) — Scala style checker.
+* [Gatling](http://gatling-tool.org/) — Async Scala-Akka-Netty based Stress Tool.
 
 ## JSON Manipulation
 
@@ -112,7 +112,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Algebird](https://github.com/twitter/algebird) — Abstract Algebra for Scala.
 * [Breeze](https://github.com/scalanlp/breeze) — Breeze is a numerical processing library for Scala.
 * [FACTORIE](https://github.com/factorie/factorie) — A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
-* [Figaro](https://github.com/p2t2/figaro) - Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
+* [Figaro](https://github.com/p2t2/figaro) — Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
 * [MGO](https://github.com/romainreuillon/mgo) — Modular multi-objective evolutionary algorithm optimization library enforcing immutability.
 * [MLLib](https://spark.apache.org/mllib/) — Machine Learning framework for Spark
 * [Saddle](https://github.com/saddle/saddle) — A minimalist port of Pandas to Scala
@@ -135,15 +135,16 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scala.Rx](https://github.com/lihaoyi/scala.rx) — An experimental library for Functional Reactive Programming in Scala (reactive variables). Scala.js compatible.
 * [scala.frp](https://github.com/dylemma/scala.frp) — Functional Reactive Programming for Scala (event streams).
 * [RxJava-Scala](https://github.com/Netflix/RxJava/tree/master/language-adaptors/rxjava-scala) — Scala Adaptor for RxJava.
-* [Reactive Collections](https://github.com/storm-enroute/reactive-collections) – A library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
-* [Vertx.io](http://vertx.io/) – A polyglot reactive application platform for the JVM which aims to be an alternative to node.js. Its concurrency model resembles actors. It supports [Scala](http://vertx.io/core_manual_scala.html), Clojure, Java, Javascript, Ruby, Groovy and Python.
+* [Reactive Collections](https://github.com/storm-enroute/reactive-collections) — A library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
+* [Vertx.io](http://vertx.io/) — A polyglot reactive application platform for the JVM which aims to be an alternative to node.js. Its concurrency model resembles actors. It supports [Scala](http://vertx.io/core_manual_scala.html), Clojure, Java, Javascript, Ruby, Groovy and Python.
+* [Monifu](https://github.com/monifu/monifu) — Extensions to Scala’s standard library for multi-threading primitives and functional reactive programming. Scala.js compatible.
 
 ## Modularization and Dependency Injection
 
 *Modularization of applications, dependency injection, etc.*
 
 * [Domino](https://github.com/helgoboss/domino) — Write elegant OSGi bundle activators in Scala.
-* [Sclasner](https://github.com/xitrum-framework/sclasner) - Scala classpath scanner.
+* [Sclasner](https://github.com/xitrum-framework/sclasner) — Scala classpath scanner.
 * [Scaldi](https://github.com/scaldi/scaldi) — Lightweight Scala Dependency Injection Library.
 * [MacWire](https://github.com/adamw/macwire) — Scala Macro to generate wiring code for class instantiation. DI container replacement.
 * [SubCut](https://github.com/dickwall/subcut) — Scala Uniquely Bound Classes Under Traits.
@@ -154,7 +155,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 * [Akka](http://akka.io/) — A toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications.
 * [Finagle](https://twitter.github.io/finagle/) — An extensible, protocol-agnostic RPC system designed for high performance and concurrency.
-* [Glokka](https://github.com/xitrum-framework/glokka) - Library to register and lookup actors by names in an Akka cluster.
+* [Glokka](https://github.com/xitrum-framework/glokka) — Library to register and lookup actors by names in an Akka cluster.
 
 ## Extensions
 
@@ -165,11 +166,11 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Twitter Util](https://github.com/twitter/util) — General-purpose Scala libraries, including a future implementation and other concurrency tools.
 * [Scala Async](https://github.com/scala/async) — An asynchronous programming facility for Scala.
 * [Resolvable](https://github.com/resolvable/resolvable) — A library to optimize fetching immutable data structures from several endpoints in several formats.
-* [Scala Blitz](http://scala-blitz.github.io/) – A library to speed up Scala collection operations by removing runtime overheads during compilation, and a custom data-parallel operation runtime.
-* [Log4s](http://log4s.org) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
-* [Lamma](https://github.com/maxcellent/lamma) – A Scala date library for date and schedule generation.
-* [Scala Graph](http://www.scala-graph.org/) – A Scala library with basic graph functionality that seamlessly fits into the Scala standard collections library
-* [Cassovary](https://github.com/twitter/cassovary) – A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
+* [Scala Blitz](http://scala-blitz.github.io/) — A library to speed up Scala collection operations by removing runtime overheads during compilation, and a custom data-parallel operation runtime.
+* [Log4s](http://log4s.org) — Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
+* [Lamma](https://github.com/maxcellent/lamma) — A Scala date library for date and schedule generation.
+* [Scala Graph](http://www.scala-graph.org/) — A Scala library with basic graph functionality that seamlessly fits into the Scala standard collections library
+* [Cassovary](https://github.com/twitter/cassovary) — A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
 
 ## Android
 
@@ -184,40 +185,40 @@ A community driven list of useful Scala libraries, frameworks and software. This
 *Scala libraries and wrappers for HTTP clients.*
 
 * [Dispatch](https://github.com/dispatch/reboot) — Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
-* [Netcaty](https://github.com/ngocdaothanh/netcaty) - Simple net test client/server for Netty and Scala lovers.
+* [Netcaty](https://github.com/ngocdaothanh/netcaty) — Simple net test client/server for Netty and Scala lovers.
 * [Scalaxb](https://github.com/eed3si9n/scalaxb) — An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
 * [Spray](http://spray.io/) — Actor-based library for http interaction.
 * [Tubesocks](https://github.com/softprops/tubesocks) — Library supporting bi-directional communication with websocket servers.
-* [scalaj-http](https://github.com/scalaj/scalaj-http) – Simple scala wrapper for HttpURLConnection (including OAuth support).
+* [scalaj-http](https://github.com/scalaj/scalaj-http) — Simple scala wrapper for HttpURLConnection (including OAuth support).
 * [Finch.io](https://github.com/finagle/finch) — Purely Functional REST API atop of [Finagle](https://github.com/twitter/finagle).
 * [Newman](https://github.com/stackmob/newman) — A REST DSL that tries to take the best from Dispatch, Finagle and Apache HttpClient. See [here](https://www.paypal-engineering.com/2014/02/13/hello-newman-a-rest-client-for-scala/) for rationale.
 
 
 ## Semantic Web
 
-*Scala libraries for interactions with the Web of Data, and other RDF tools*
+*Scala libraries for interactions with the Web of Data, and other RDF tools.*
 
-* [Banana-RDF](https://github.com/w3c/banana-rdf) – Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
+* [Banana-RDF](https://github.com/w3c/banana-rdf) — Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
 
 ## Metrics and Monitoring
 
 *Scala libraries for gathering metrics and monitoring applications.*
 
-* [Kamon](http://kamon.io) - Gathering metrics from applications built with Akka, Spray and Play! with support for user metrics as well.
+* [Kamon](http://kamon.io) — Gathering metrics from applications built with Akka, Spray and Play! with support for user metrics as well.
 
 
 ## Sbt plugins
 
-*Sbt plugins to make your life easier*
+*Sbt plugins to make your life easier.*
 
-* [Sbt-Revolver](https://github.com/spray/sbt-revolver) – Fork & Stop processes from sbt.
-* [Sbt-Eclipse](https://github.com/typesafehub/sbteclipse) – Create Eclipse project definitions from sbt builds.
-* [Sbt-Native-Packager](https://github.com/sbt/sbt-native-packager) – Bundle up Scala software for native packaging systems, like deb, rpm, homebrew, msi..
-* [Sbt-Dependency-Graph](https://github.com/jrudolph/sbt-dependency-graph) – Create a dependency graph for your project.
-* [Sbt-One-Jar](https://github.com/sbt/sbt-onejar) – Packages your project using One-JAR™.
-* [Sbt-Start-Script](https://github.com/sbt/sbt-start-script) – Create a "start" script to run the program.
-* [ScalaKata](https://github.com/MasseGuillaume/ScalaKata) – Scala playground & Documentation tool.
-* [WartRemover](https://github.com/typelevel/wartremover) – Flexible Scala code linting tool.
+* [Sbt-Revolver](https://github.com/spray/sbt-revolver) — Fork & Stop processes from sbt.
+* [Sbt-Eclipse](https://github.com/typesafehub/sbteclipse) — Create Eclipse project definitions from sbt builds.
+* [Sbt-Native-Packager](https://github.com/sbt/sbt-native-packager) — Bundle up Scala software for native packaging systems, like deb, rpm, homebrew, msi..
+* [Sbt-Dependency-Graph](https://github.com/jrudolph/sbt-dependency-graph) — Create a dependency graph for your project.
+* [Sbt-One-Jar](https://github.com/sbt/sbt-onejar) — Packages your project using One-JAR™.
+* [Sbt-Start-Script](https://github.com/sbt/sbt-start-script) — Create a “start” script to run the program.
+* [ScalaKata](https://github.com/MasseGuillaume/ScalaKata) — Scala playground & Documentation tool.
+* [WartRemover](https://github.com/typelevel/wartremover) — Flexible Scala code linting tool.
 
 # Contributing
 
