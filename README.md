@@ -85,6 +85,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scalive](https://github.com/xitrum-framework/scalive) — Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
 * [Scalastyle](https://github.com/scalastyle/scalastyle) – Scala style checker.
 * [Gatling](http://gatling-tool.org/) – Async Scala-Akka-Netty based Stress Tool.
+* [ScalaMock](http://scalamock.org) – Scala native mocking framework 
 
 ## JSON Manipulation
 
