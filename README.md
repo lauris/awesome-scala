@@ -289,7 +289,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 *Nice books, blogs and other resources to learn Scala*
 
-*[The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
+* [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 
 # Contributing
 
