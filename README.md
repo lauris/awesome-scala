@@ -22,6 +22,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Semantic Web](#semantic-web)
     - [Metrics and Monitoring](#metrics-and-monitoring)
     - [Sbt plugins](#sbt-plugins)
+    - [Learning Scala](#learning-scala)
 - [Contributing](#contributing)
 
 ## Database
@@ -219,6 +220,12 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [ScalaKata](https://github.com/MasseGuillaume/ScalaKata) – Scala playground & Documentation tool.
 * [WartRemover](https://github.com/typelevel/wartremover) – Flexible Scala code linting tool.
 * [sbt-pack](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
+
+## Learning Scala
+
+*Nice books, blogs and other resources to learn Scala*
+
+*[The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 
 # Contributing
 
