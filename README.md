@@ -179,6 +179,10 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Macroid](https://github.com/macroid/macroid) — A modular functional UI language for Android.
 * [Android SDK Plugin for SBT](https://github.com/pfn/android-sdk-plugin) — An sbt plugin that adds tasks for developing Android applications.
 
+
+##WebServer
+* [Socko](http://sockoweb.org/) - Socko enables you to expose your Akka actors as HTTP or WebSocket endpoints.
+
 ## HTTP
 
 *Scala libraries and wrappers for HTTP clients.*
