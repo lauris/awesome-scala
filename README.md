@@ -27,6 +27,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Sbt plugins](#sbt-plugins)
     - [XML / Html](#xml--html)
     - [Other](#other)
+    - [Learning Scala](#learning-scala)
 - [Contributing](#contributing)
 
 ## Database
@@ -283,6 +284,12 @@ A community driven list of useful Scala libraries, frameworks and software. This
 *Xml and Html generation and processing*
 
 * [Scalatags](https://github.com/lihaoyi/scalatags) - Write html as scala code and have your ide syntax check it.
+
+## Learning Scala
+
+*Nice books, blogs and other resources to learn Scala*
+
+*[The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 
 # Contributing
 
