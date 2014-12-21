@@ -55,7 +55,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Chaos](https://github.com/mesosphere/chaos) — A lightweight framework for writing REST services in Scala.
 * [Xitrum](http://xitrum-framework.github.io/) — An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
 * [Unfiltered](https://github.com/unfiltered/unfiltered) — A modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
-
+* [Colossus](http://tumblr.github.io/colossus/) — lightweight framework for building high-performance applications in Scala that require non-blocking network I/O.
 
 ## i18n
 
