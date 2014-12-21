@@ -105,6 +105,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [scodec](https://github.com/scodec/scodec) — A combinator library for working with binary data.
 * [Scrooge](http://twitter.github.io/scrooge/) — An Apache Thrift code generator for Scala.
 * [validation](https://github.com/jto/validation) — Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime.
+* [Chill](https://github.com/twitter/chill) — Extensions for the Kryo serialization library to ease configuration in systems like Hadoop and Storm.
 
 ## Science and Data Analysis
 
