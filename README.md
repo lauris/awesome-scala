@@ -119,6 +119,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Figaro](https://github.com/p2t2/figaro) - Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
 * [MGO](https://github.com/romainreuillon/mgo) — Modular multi-objective evolutionary algorithm optimization library enforcing immutability.
 * [MLLib](https://spark.apache.org/mllib/) — Machine Learning framework for Spark
+* [OpenMOLE](https://github.com/ISCPIF/openmole) — OpenMOLE (Open MOdeL Experiment) is a workflow engine designed to leverage the computing power of distributed execution environments for naturally parallel processes.
 * [Saddle](https://github.com/saddle/saddle) — A minimalist port of Pandas to Scala
 * [Spire](https://github.com/non/spire) — Powerful new number types and numeric abstractions for Scala.
 * [Squants](https://github.com/garyKeorkunian/squants) — The Scala API for Quantities, Units of Measure and Dimensional Analysis.
