@@ -179,10 +179,6 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Macroid](https://github.com/macroid/macroid) — A modular functional UI language for Android.
 * [Android SDK Plugin for SBT](https://github.com/pfn/android-sdk-plugin) — An sbt plugin that adds tasks for developing Android applications.
 
-
-##WebServer
-* [Socko](http://sockoweb.org/) - Socko enables you to expose your Akka actors as HTTP or WebSocket endpoints.
-
 ## HTTP
 
 *Scala libraries and wrappers for HTTP clients.*
@@ -195,7 +191,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [scalaj-http](https://github.com/scalaj/scalaj-http) – Simple scala wrapper for HttpURLConnection (including OAuth support).
 * [Finch.io](https://github.com/finagle/finch) — Purely Functional REST API atop of [Finagle](https://github.com/twitter/finagle).
 * [Newman](https://github.com/stackmob/newman) — A REST DSL that tries to take the best from Dispatch, Finagle and Apache HttpClient. See [here](https://www.paypal-engineering.com/2014/02/13/hello-newman-a-rest-client-for-scala/) for rationale.
-
+* [Socko](http://sockoweb.org/) - Socko enables you to expose your Akka actors as HTTP or WebSocket endpoints.
 
 ## Semantic Web
 
