@@ -23,6 +23,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Metrics and Monitoring](#metrics-and-monitoring)
     - [Parsing](#parsing)
     - [Sbt plugins](#sbt-plugins)
+    - [XML / Html](#xml-html)
 - [Contributing](#contributing)
 
 ## Database
@@ -232,6 +233,12 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [ScalaKata](https://github.com/MasseGuillaume/ScalaKata) – Scala playground & Documentation tool.
 * [WartRemover](https://github.com/typelevel/wartremover) – Flexible Scala code linting tool.
 * [xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin) – Build enterprise J2EE Web applications in Scala.
+ 
+## XML / HTML
+
+*Xml and Html generation and processing*
+
+* [Scalatags](https://github.com/lihaoyi/scalatags) - Write html as scala code and have your ide syntax check it. 
 
 # Contributing
 
