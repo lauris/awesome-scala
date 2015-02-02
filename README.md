@@ -225,7 +225,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 * [Sbt-Revolver](https://github.com/spray/sbt-revolver) – Fork & Stop processes from sbt.
 * [Sbt-Eclipse](https://github.com/typesafehub/sbteclipse) – Create Eclipse project definitions from sbt builds.
-* [Sbt-Idea](https://github.com/mpeltonen/sbt-idea) – Create IntelliJ IDEA project definitions from sbt builds.
+* [Sbt-Idea](https://github.com/mpeltonen/sbt-idea) – Create IntelliJ IDEA project definitions from sbt builds (not needed from IntelliJ 14, it supports sbt/scala projects through the Scala plugin).
 * [Sbt-Native-Packager](https://github.com/sbt/sbt-native-packager) – Bundle up Scala software for native packaging systems, like deb, rpm, homebrew, msi..
 * [Sbt-Dependency-Graph](https://github.com/jrudolph/sbt-dependency-graph) – Create a dependency graph for your project.
 * [Sbt-One-Jar](https://github.com/sbt/sbt-onejar) – Packages your project using One-JAR™.
