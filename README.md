@@ -23,7 +23,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Metrics and Monitoring](#metrics-and-monitoring)
     - [Parsing](#parsing)
     - [Sbt plugins](#sbt-plugins)
-    - [XML / Html](#xml-html)
+    - [XML / Html](#xml--html)
 - [Contributing](#contributing)
 
 ## Database
