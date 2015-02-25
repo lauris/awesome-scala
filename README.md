@@ -17,6 +17,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
     - [Distributed Systems](#distributed-systems)
     - [Extensions](#extensions)
+    - [Misc](#misc)
     - [Android](#android)
     - [HTTP](#http)
     - [Semantic Web](#semantic-web)
@@ -177,6 +178,10 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Lamma](https://github.com/maxcellent/lamma) – A Scala date library for date and schedule generation.
 * [Scala Graph](http://www.scala-graph.org/) – A Scala library with basic graph functionality that seamlessly fits into the Scala standard collections library
 * [Cassovary](https://github.com/twitter/cassovary) – A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
+
+## Misc
+
+* [REPLesent](https://github.com/marconilanna/REPLesent) – A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 
 ## Android
 
