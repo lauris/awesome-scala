@@ -89,6 +89,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scalastyle](https://github.com/scalastyle/scalastyle) – Scala style checker.
 * [Gatling](http://gatling-tool.org/) – Async Scala-Akka-Netty based Stress Tool.
 * [ScalaMock](http://scalamock.org) – Scala native mocking framework 
+* [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
 
 ## JSON Manipulation
 
