@@ -109,6 +109,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scrooge](http://twitter.github.io/scrooge/) — An Apache Thrift code generator for Scala.
 * [validation](https://github.com/jto/validation) — Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime.
 * [Chill](https://github.com/twitter/chill) — Extensions for the Kryo serialization library to ease configuration in systems like Hadoop and Storm.
+* [ScalaPB](http://trueaccord.github.io/ScalaPB/) - A Protocol Buffer generator for Scala.
 
 ## Science and Data Analysis
 
