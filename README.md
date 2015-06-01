@@ -272,6 +272,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Sbt-BuildInfo](https://github.com/sbt/sbt-buildinfo) – Generates Scala source from build definition.
 * [Sbt-Updates](https://github.com/rtimush/sbt-updates) – Shows sbt project's dependency updates.
 * [sbt-pack](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
+* [Ammonite](http://lihaoyi.github.io/Ammonite/) - Ammonite is a collection of Scala libraries intended to improve the experience of using Scala as an system shell.
 
 ## Other
 
