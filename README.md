@@ -128,6 +128,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scrunch](http://crunch.apache.org/scrunch.html) — A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) which provides a framework for writing, testing, and running MapReduce pipelines.
 * [GridScale](https://github.com/romainreuillon/gridscale) — A Scala API for computing clusters and grids.
 * [scoozie](https://github.com/klout/scoozie) — Scala DSL on top of Oozie XML.
+* [Gearpump](https://github.com/intel-hadoop/gearpump) - Lightweight real-time big data streaming engine
 
 ## Functional Reactive Programming
 
@@ -171,6 +172,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Lamma](https://github.com/maxcellent/lamma) – A Scala date library for date and schedule generation.
 * [Scala Graph](http://www.scala-graph.org/) – A Scala library with basic graph functionality that seamlessly fits into the Scala standard collections library
 * [Cassovary](https://github.com/twitter/cassovary) – A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
+* [REPLesent](https://github.com/marconilanna/REPLesent) - A neat little tool to build presentations using the Scala REPL
 
 ## Android
 
