@@ -157,6 +157,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [BIDMach](https://github.com/BIDData/BIDMach) - CPU and GPU machine learning library, using JNI for GPU computation.
 * [scoozie](https://github.com/klout/scoozie) — Scala DSL on top of Oozie XML.
 * [Scoobi] (https://github.com/nicta/scoobi) - Write type-safe Hadoop programs in idiomatic Scala way
+* [Gearpump](https://github.com/intel-hadoop/gearpump) - Lightweight real-time big data streaming engine
 
 ## Functional Reactive Programming
 
