@@ -42,6 +42,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Slick](https://github.com/slick/slick) — Modern database query and access library for Scala.
 * [Sorm](https://github.com/sorm/sorm) — A functional boilerplate-free Scala ORM.
 * [Squeryl](https://github.com/squeryl/squeryl) — A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
+* [Scalding](https://github.com/twitter/scalding) - Scalding is a Scala library that makes it easy to specify Hadoop MapReduce jobs. Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details
 
 ## Web Frameworks
 
@@ -237,6 +238,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [ScalaKata](https://github.com/MasseGuillaume/ScalaKata) – Scala playground & Documentation tool.
 * [WartRemover](https://github.com/typelevel/wartremover) – Flexible Scala code linting tool.
 * [xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin) – Build enterprise J2EE Web applications in Scala.
+* [Ammonite-Ops](http://lihaoyi.github.io/Ammonite/) - Ammonite is a collection of Scala libraries intended to improve the experience of using Scala as an system shell. 
 
 # Contributing
 
