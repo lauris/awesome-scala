@@ -42,6 +42,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Slick](https://github.com/slick/slick) — Modern database query and access library for Scala.
 * [Sorm](https://github.com/sorm/sorm) — A functional boilerplate-free Scala ORM.
 * [Squeryl](https://github.com/squeryl/squeryl) — A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
+* [Scalding](https://github.com/twitter/scalding) - Scalding is a Scala library that makes it easy to specify Hadoop MapReduce jobs. Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details
 
 ## Web Frameworks
 
