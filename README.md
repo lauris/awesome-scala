@@ -38,7 +38,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo) — Reactive Scala Driver for MongoDB.
 * [Salat](https://github.com/novus/salat/) — ORM for MongoDB. A related Play-plugin is also available.
 * [Scala ActiveRecord](https://github.com/aselab/scala-activerecord) — ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
-* [ScalikeJDBC](https://github.com/scalikejdbc/scalikejdbc) — A tidy SQL-based DB access library for Scala developers. 
+* [ScalikeJDBC](https://github.com/scalikejdbc/scalikejdbc) — A tidy SQL-based DB access library for Scala developers.
 * [Slick](https://github.com/slick/slick) — Modern database query and access library for Scala.
 * [Sorm](https://github.com/sorm/sorm) — A functional boilerplate-free Scala ORM.
 * [Squeryl](https://github.com/squeryl/squeryl) — A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
@@ -58,6 +58,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Xitrum](http://xitrum-framework.github.io/) — An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
 * [Unfiltered](https://github.com/unfiltered/unfiltered) — A modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
 * [Colossus](http://tumblr.github.io/colossus/) — lightweight framework for building high-performance applications in Scala that require non-blocking network I/O.
+* [Socko](http://sockoweb.org/) — An embedded Scala web server powered by Netty networking and Akka processing.
 
 ## i18n
 
@@ -88,7 +89,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scalive](https://github.com/xitrum-framework/scalive) — Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
 * [Scalastyle](https://github.com/scalastyle/scalastyle) – Scala style checker.
 * [Gatling](http://gatling-tool.org/) – Async Scala-Akka-Netty based Stress Tool.
-* [ScalaMock](http://scalamock.org) – Scala native mocking framework 
+* [ScalaMock](http://scalamock.org) – Scala native mocking framework
 
 ## JSON Manipulation
 
@@ -116,7 +117,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 * [Algebird](https://github.com/twitter/algebird) — Abstract Algebra for Scala.
 * [Breeze](https://github.com/scalanlp/breeze) — Breeze is a numerical processing library for Scala.
-* [Chalk](https://github.com/scalanlp/chalk) — Chalk is a natural language processing library. 
+* [Chalk](https://github.com/scalanlp/chalk) — Chalk is a natural language processing library.
 * [FACTORIE](https://github.com/factorie/factorie) — A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
 * [Figaro](https://github.com/p2t2/figaro) - Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
 * [MGO](https://github.com/romainreuillon/mgo) — Modular multi-objective evolutionary algorithm optimization library enforcing immutability.
