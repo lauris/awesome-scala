@@ -42,6 +42,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Slick](https://github.com/slick/slick) — Modern database query and access library for Scala.
 * [Sorm](https://github.com/sorm/sorm) — A functional boilerplate-free Scala ORM.
 * [Squeryl](https://github.com/squeryl/squeryl) — A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
+* [doobie](https://github.com/tpolecat/doobie) - Pure functional JDBC layer for Scala.
 
 ## Web Frameworks
 
@@ -223,6 +224,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 * [Scala Parser Combinators](https://github.com/scala/scala-parser-combinators) – Scala Standard Parser Combinator Library.
 * [Parboiled2](https://github.com/sirthias/parboiled2) – A Fast Parser Generator for Scala 2.10.3+.
+* [atto](https://github.com/tpolecat/atto) - Pure functional incremental text parsing library for Scala, based on Attoparsec.
 
 ## Sbt plugins
 
@@ -237,6 +239,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [ScalaKata](https://github.com/MasseGuillaume/ScalaKata) – Scala playground & Documentation tool.
 * [WartRemover](https://github.com/typelevel/wartremover) – Flexible Scala code linting tool.
 * [xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin) – Build enterprise J2EE Web applications in Scala.
+* [tut](https://github.com/tpolecat/tut) - Tool for writing documentation with typechecked examples.
 
 # Contributing
 
