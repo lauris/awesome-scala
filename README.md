@@ -207,6 +207,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scaloid](https://github.com/pocorall/scaloid) — Less painful Android development with Scala.
 * [Macroid](https://github.com/macroid/macroid) — A modular functional UI language for Android.
 * [Android SDK Plugin for SBT](https://github.com/pfn/android-sdk-plugin) — An sbt plugin that adds tasks for developing Android applications.
+* [Gradle Android Scala Plugin](https://github.com/saturday06/gradle-android-scala-plugin) - A gradle plugin that allows you to use Scala with Android
 
 ## HTTP
 
