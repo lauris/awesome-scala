@@ -34,7 +34,8 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 * [Activate](https://github.com/fwbrasil/activate) — Pluggable object persistence in Scala.
 * [Elastic4s](https://github.com/sksamuel/elastic4s) - A scala DSL / reactive client for Elasticsearch
-* [Phantom](https://github.com/websudosuk/phantom) — Async type safe Scala DSL for Apache Cassandra.
+* [Phantom](https://github.com/websudos/phantom) — Reactive type safe Scala driver for Apache Cassandra.
+* [ReactiveNeo](https://github.com/websudos/reactiveneo) - Reactive type-safe Scala driver for Neo4J.
 * [PostgreSQL and MySQL async](https://github.com/mauricio/postgresql-async) — Async database drivers to talk to PostgreSQL and MySQL in Scala.
 * [ReactiveCouchbase](http://reactivecouchbase.org/) — Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
 * [ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo) — Reactive Scala Driver for MongoDB.
