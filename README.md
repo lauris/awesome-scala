@@ -5,6 +5,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 - [Awesome Scala](#awesome-scala)
     - [Database](#database)
+    - [Graphical User Interfaces](#graphical-user-interfaces)
     - [Web Frameworks](#web-frameworks)
     - [i18n](#i18n)
     - [Authentication](#authentication)
@@ -44,6 +45,12 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Sorm](https://github.com/sorm/sorm) — A functional boilerplate-free Scala ORM.
 * [Squeryl](https://github.com/squeryl/squeryl) — A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
 * [doobie](https://github.com/tpolecat/doobie) - Pure functional JDBC layer for Scala.
+
+## Graphical User Interfaces
+
+*Libraries for creation of graphical user interfaces*
+
+* [ScalaFX](http://www.scalafx.org/) - Scala DSL for creating Graphical User Interfaces that sits on top of JavaFX.
 
 ## Web Frameworks
 
