@@ -115,6 +115,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 *Libraries for scientific computing, data analysis and numerical processing.*
 
 * [Algebird](https://github.com/twitter/algebird) — Abstract Algebra for Scala.
+* [Axle](http://axle-lang.org) — Spire-based DSL for scientific cloud computing.
 * [Breeze](https://github.com/scalanlp/breeze) — Breeze is a numerical processing library for Scala.
 * [Chalk](https://github.com/scalanlp/chalk) — Chalk is a natural language processing library. 
 * [FACTORIE](https://github.com/factorie/factorie) — A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
