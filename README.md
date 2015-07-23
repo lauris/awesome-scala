@@ -140,6 +140,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Shadoop](https://github.com/adamretter/shadoop) - A Scala DSL for Hadoop MapReduce.
 * [Scrunch](http://crunch.apache.org/scrunch.html) — A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) which provides a framework for writing, testing, and running MapReduce pipelines.
 * [GridScale](https://github.com/romainreuillon/gridscale) — A Scala API for computing clusters and grids.
+* [BIDMach](https://github.com/BIDData/BIDMach) - CPU and GPU machine learning library, using JNI for GPU computation.
 * [scoozie](https://github.com/klout/scoozie) — Scala DSL on top of Oozie XML.
 * [Scoobi] (https://github.com/nicta/scoobi) - Write type-safe Hadoop programs in idiomatic Scala way
 
