@@ -46,7 +46,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Sorm](https://github.com/sorm/sorm) — A functional boilerplate-free Scala ORM.
 * [Squeryl](https://github.com/squeryl/squeryl) — A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
 * [doobie](https://github.com/tpolecat/doobie) - Pure functional JDBC layer for Scala.
-* [MapperDao](https://code.google.com/p/mapperdao/) - An ORM library for oracle, mysql, mssql, and postgresql
+* [MapperDao](https://github.com/kostaskougios/mapperdao) - An ORM library for oracle, mysql, mssql, and postgresql
 
 ## Graphical User Interfaces
 
