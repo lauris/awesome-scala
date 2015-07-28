@@ -48,6 +48,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Squeryl](https://github.com/squeryl/squeryl) — A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
 * [doobie](https://github.com/tpolecat/doobie) - Pure functional JDBC layer for Scala.
 * [MapperDao](https://github.com/kostaskougios/mapperdao) - An ORM library for oracle, mysql, mssql, and postgresql
+* [Tepkin](https://github.com/fehmicansaglam/tepkin) — Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
 
 ## Graphical User Interfaces
 
