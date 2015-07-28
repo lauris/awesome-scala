@@ -25,6 +25,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Metrics and Monitoring](#metrics-and-monitoring)
     - [Parsing](#parsing)
     - [Sbt plugins](#sbt-plugins)
+    - [XML / Html](#xml--html)
     - [Other](#other)
 - [Contributing](#contributing)
 
@@ -161,7 +162,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 * [Scala.Rx](https://github.com/lihaoyi/scala.rx) — An experimental library for Functional Reactive Programming in Scala (reactive variables). Scala.js compatible.
 * [scala.frp](https://github.com/dylemma/scala.frp) — Functional Reactive Programming for Scala (event streams).
-* [RxScala](https://github.com/ReactiveX/RxScala) — Reactive Extensions for Scala – a library for composing asynchronous and event-based programs using observable sequences 
+* [RxScala](https://github.com/ReactiveX/RxScala) — Reactive Extensions for Scala – a library for composing asynchronous and event-based programs using observable sequences
 * [Reactive Collections](https://github.com/storm-enroute/reactive-collections) – A library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
 * [Vertx.io](http://vertx.io/) – A polyglot reactive application platform for the JVM which aims to be an alternative to node.js. Its concurrency model resembles actors. It supports [Scala](http://vertx.io/core_manual_scala.html), Clojure, Java, Javascript, Ruby, Groovy and Python.
 
@@ -269,6 +270,12 @@ A community driven list of useful Scala libraries, frameworks and software. This
 *something that does not fit in any category.*
 
 * [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
+
+## XML / HTML
+
+*Xml and Html generation and processing*
+
+* [Scalatags](https://github.com/lihaoyi/scalatags) - Write html as scala code and have your ide syntax check it.
 
 # Contributing
 
