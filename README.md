@@ -27,6 +27,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Sbt plugins](#sbt-plugins)
     - [XML / Html](#xml--html)
     - [Other](#other)
+    - [Tools](#tools)
     - [Learning Scala](#learning-scala)
 - [Contributing](#contributing)
 
@@ -101,7 +102,6 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Specs2](https://github.com/etorreborre/specs2) — Software Specifications for Scala.
 * [µTest](https://github.com/lihaoyi/utest) — A tiny, portable testing library for Scala.
 * [Scalive](https://github.com/xitrum-framework/scalive) — Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
-* [Scalastyle](https://github.com/scalastyle/scalastyle) – Scala style checker.
 * [Gatling](http://gatling-tool.org/) – Async Scala-Akka-Netty based Stress Tool.
 * [ScalaMock](http://scalamock.org) – Scala native mocking framework
 * [Scoverage](http://scoverage.org/) - Scala code coverage tool
@@ -145,6 +145,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Saddle](https://github.com/saddle/saddle) — A minimalist port of Pandas to Scala
 * [Spire](https://github.com/non/spire) — Powerful new number types and numeric abstractions for Scala.
 * [Squants](https://github.com/garyKeorkunian/squants) — The Scala API for Quantities, Units of Measure and Dimensional Analysis.
+* [PredictionIO](https://github.com/PredictionIO/PredictionIO) - machine learning server for developers and data scientists. Built on Apache Spark, HBase and Spray
 
 
 ## Big Data
@@ -292,6 +293,17 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [Scala in Depth](http://www.manning.com/suereth/)
+
+## Tools
+
+* [Scalastyle](https://github.com/scalastyle/scalastyle) – Scala style checker.
+* [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
+* [Wartremover](https://github.com/puffnfresh/wartremover) - Wartremover a flexible Scala code linting tool
+* [Abide](https://github.com/scala/scala-abide) - Library for quick scala code checking and validation
+* [Scoverage](https://github.com/scoverage) - Scala Code Coverage tool
+* [Gitbucket](https://github.com/takezoe/gitbucket) - The easily installable GitHub clone powered by Scala
+* [Scapegoat](https://github.com/sksamuel/scalac-scapegoat-plugin) - Scala compiler plugin for static code analysis
+
 
 # Contributing
 
