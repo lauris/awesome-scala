@@ -104,7 +104,6 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scalive](https://github.com/xitrum-framework/scalive) — Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
 * [Gatling](http://gatling-tool.org/) – Async Scala-Akka-Netty based Stress Tool.
 * [ScalaMock](http://scalamock.org) – Scala native mocking framework
-* [Scoverage](http://scoverage.org/) - Scala code coverage tool
 
 ## JSON Manipulation
 
@@ -267,7 +266,6 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Sbt-Sublime](https://github.com/orrsella/sbt-sublime) – Create Sublime Text projects with library dependencies sources
 * [ScalaKata](https://github.com/MasseGuillaume/ScalaKata) – Scala playground & Documentation tool.
 * [Zeppelin](http://zeppelin-project.org/) - Scala and Spark Notebook (like IPython Notebook)
-* [WartRemover](https://github.com/typelevel/wartremover) – Flexible Scala code linting tool.
 * [xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin) – Build enterprise J2EE Web applications in Scala.
 * [tut](https://github.com/tpolecat/tut) - Tool for writing documentation with typechecked examples.
 * [sbt-ide-settings](https://github.com/Jetbrains/sbt-ide-settings) - SBT plugin for tweaking various IDE settings
@@ -303,7 +301,6 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scoverage](https://github.com/scoverage) - Scala Code Coverage tool
 * [Gitbucket](https://github.com/takezoe/gitbucket) - The easily installable GitHub clone powered by Scala
 * [Scapegoat](https://github.com/sksamuel/scalac-scapegoat-plugin) - Scala compiler plugin for static code analysis
-
 
 # Contributing
 
