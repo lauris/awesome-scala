@@ -253,6 +253,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Sbt-Eclipse](https://github.com/typesafehub/sbteclipse) – Create Eclipse project definitions from sbt builds.
 * [Sbt-Native-Packager](https://github.com/sbt/sbt-native-packager) – Bundle up Scala software for native packaging systems, like deb, rpm, homebrew, msi..
 * [Sbt-Dependency-Graph](https://github.com/jrudolph/sbt-dependency-graph) – Create a dependency graph for your project.
+* [Sbt-Versions](https://github.com/sksamuel/sbt-versions) - Plugin that checks for updated versions of your project's dependencies.
 * [Sbt-One-Jar](https://github.com/sbt/sbt-onejar) – Packages your project using One-JAR™.
 * [Sbt-Start-Script](https://github.com/sbt/sbt-start-script) – Create a "start" script to run the program.
 * [Sbt-Sublime](https://github.com/orrsella/sbt-sublime) – Create Sublime Text projects with library dependencies sources
