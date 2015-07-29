@@ -33,7 +33,7 @@ import urllib2
 empty_regex = re.compile(r"^ *\n$")
 section_regex = re.compile(r"^## (.+)\n$")
 #repo_regex = re.compile(r"^\* \[\*?([^*★]+[^ ★])(?: ★ ([^ ]+) ⧗ ([^ *]+))?\*?\]\((.+?)\) - (.+)\n$")
-repo_regex = re.compile(r"^\* \[\*?([^*★]+[^ ★])(?: ★ ([^ ]+) ⧗ ([^ *]+))?\*?\]\((.+?)\) (?:-|—|–) (.+)\n$")
+repo_regex = re.compile(r"^\* \[\*?([^*★]+[^ ★])(?: ★ ([^ ]+) ⧗ ([^ *]+))?\*?\]\((.+?)\)(?: (?:-|—|–) (.+))?\n$")
 end_regex = re.compile(r"^# .+\n$")
 github_regex = re.compile(r"^https://github.com/(.+?)/(.+)$")
 
