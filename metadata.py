@@ -32,8 +32,7 @@ import urllib2
 # we use these regexes when "parsing" README.md
 empty_regex = re.compile(r"^ *\n$")
 section_regex = re.compile(r"^## (.+)\n$")
-#repo_regex = re.compile(r"^\* \[\*?([^*★]+[^ ★])(?: ★ ([^ ]+) ⧗ ([^ *]+))?\*?\]\((.+?)\) - (.+)\n$")
-repo_regex = re.compile(r"^\* \[\*?([^*★]+[^ ★])(?: ★ ([^ ]+) ⧗ ([^ *]+))?\*?\]\((.+?)\)(?: (?:-|—|–) (.+))?\n$")
+repo_regex = re.compile(r"^\* \[(?:\*\*)?([^*★]+[^ ★])(?: ★ ([^ ]+) ⧗ ([^ *]+))?(?:\*\*)?\]\((.+?)\)(?: (?:-|—|–) (.+))?\n$")
 end_regex = re.compile(r"^# .+\n$")
 github_regex = re.compile(r"^https://github.com/(.+?)/(.+)$")
 
@@ -69,9 +68,9 @@ def query(owner, name):
             u = urllib2.urlopen(req)
             j = json.load(u)
             t = datetime.datetime.strptime(j['updated_at'], "%Y-%m-%dT%H:%M:%SZ")
-            days = max((now - t).days, 0)
+            days = max(int((now - t).days), 0)
             print '    %s/%s: ok' % (owner, name)
-            return (j['stargazers_count'], days)
+            return (int(j['stargazers_count']), days)
         except urllib2.HTTPError, e:
             print '    %s/%s: FAILED' % (owner, name)
             return (None, None)
@@ -81,7 +80,7 @@ def output_repo(outf, name, stars, days, link, rdesc):
     if stars is None: stars = '?'
     if days is None: days = '?'
     title = '%s ★ %s ⧗ %s' % (name, stars, days)
-    if popular: title = '*' + title + '*'
+    if popular: title = '**' + title + '**'
     outf.write('* [%s](%s) - %s\n' % (title, link, rdesc))
 
 def flush_section(outf, section, sdesc, repos):
