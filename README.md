@@ -14,6 +14,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Serialization](#serialization)
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Big Data](#big-data)
+    - [Image processing and image analysis](#image-processing-and-image-analysis)
     - [Functional Reactive Programming](#functional-reactive-programming)
     - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
     - [Distributed Systems](#distributed-systems)
@@ -158,6 +159,12 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [scoozie](https://github.com/klout/scoozie) — Scala DSL on top of Oozie XML.
 * [Scoobi] (https://github.com/nicta/scoobi) - Write type-safe Hadoop programs in idiomatic Scala way
 * [Gearpump](https://github.com/intel-hadoop/gearpump) - Lightweight real-time big data streaming engine
+
+## Image processing and image analysis
+
+*2D and 3D image processing and image analysis*
+
+* [scalismo](https://github.com/unibas-gravis/scalismo) - Shape modelling and  model-based image analysis.
 
 ## Functional Reactive Programming
 
