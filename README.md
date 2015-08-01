@@ -30,6 +30,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Other](#other)
     - [Tools](#tools)
     - [Learning Scala](#learning-scala)
+    - [JavaScript](#javascript)
 - [Contributing](#contributing)
 
 ## Database
@@ -52,6 +53,8 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [doobie](https://github.com/tpolecat/doobie) - Pure functional JDBC layer for Scala.
 * [MapperDao](https://github.com/kostaskougios/mapperdao) - An ORM library for oracle, mysql, mssql, and postgresql
 * [Tepkin](https://github.com/fehmicansaglam/tepkin) — Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
+* [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
+* [rediscala](https://github.com/etaty/rediscala) - Non-blocking, Reactive Redis driver for Scala (with Sentinel support)
 
 ## Graphical User Interfaces
 
@@ -128,6 +131,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Chill](https://github.com/twitter/chill) — Extensions for the Kryo serialization library to ease configuration in systems like Hadoop and Storm.
 * [µPickle](http://lihaoyi.github.io/upickle-pprint/upickle/) — A lightweight serialization library for Scala that works in ScalaJS, allowing transfer of structured data between the JVM and JavaScript.
 * [ScalaPB](http://trueaccord.github.io/ScalaPB/) - A Protocol Buffer generator for Scala.
+* [ScalaBuff](https://github.com/SandroGrzicic/ScalaBuff) - a Scala Protocol Buffers (protobuf) compiler
 
 ## Science and Data Analysis
 
@@ -146,9 +150,10 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Spire](https://github.com/non/spire) — Powerful new number types and numeric abstractions for Scala.
 * [Squants](https://github.com/garyKeorkunian/squants) — The Scala API for Quantities, Units of Measure and Dimensional Analysis.
 * [PredictionIO](https://github.com/PredictionIO/PredictionIO) - machine learning server for developers and data scientists. Built on Apache Spark, HBase and Spray
-
+* [OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home) - a Scala toolkit for solving Operations Research problems
 
 ## Big Data
+
 * [Spark](http://spark.apache.org/) — Lightning fast cluster computing — up to 100x faster than Hadoop for iterative algorithms (memory caching) and up to 10x faster than Hadoop for single-pass MapReduce jobs. Compatible with YARN-enabled Hadoop clusters, can run on Mesos and in stand-alone mode as well.
 * [Scalding](https://github.com/twitter/scalding) — A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Summingbird](https://github.com/twitter/summingbird) — An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
@@ -159,6 +164,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [scoozie](https://github.com/klout/scoozie) — Scala DSL on top of Oozie XML.
 * [Scoobi] (https://github.com/nicta/scoobi) - Write type-safe Hadoop programs in idiomatic Scala way
 * [Gearpump](https://github.com/intel-hadoop/gearpump) - Lightweight real-time big data streaming engine
+* [Scoozie](https://github.com/klout/scoozie) - Scala DSL on top of Oozie XML
 
 ## Image processing and image analysis
 
@@ -210,10 +216,16 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scala Graph](http://www.scala-graph.org/) – A Scala library with basic graph functionality that seamlessly fits into the Scala standard collections library.
 * [Cassovary](https://github.com/twitter/cassovary) – A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
 * [Scalactic](http://www.scalactic.org/) - Small library of utilities related to quality that helps keeping code clear and correct.
+* [Monocle](https://github.com/julien-truffaut/Monocle) - An Optics/Lens library for purely functional manipulation of immutable objects.
+* [Rapture](http://rapture.io/) ([repo](https://github.com/propensive/rapture)) - a collection of libraries for common, everyday programming tasks (I/O, JSON, i18n, etc.)
 
 ## Misc
 
+*Projects that don't fit into any specific category.*
+
 * [REPLesent](https://github.com/marconilanna/REPLesent) – A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
+* [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
+* [scala-ssh](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
 
 ## Android
 
@@ -280,12 +292,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Sbt-Updates](https://github.com/rtimush/sbt-updates) – Shows sbt project's dependency updates.
 * [sbt-pack](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
 * [Ammonite](http://lihaoyi.github.io/Ammonite/) - Ammonite is a collection of Scala libraries intended to improve the experience of using Scala as an system shell.
-
-## Other
-
-*something that does not fit in any category.*
-
-* [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
+* [sbt-robovm](https://github.com/roboscala/sbt-robovm) - An sbt plugin for iOS development in Scala
 
 ## XML / HTML
 
@@ -301,8 +308,17 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scala in Depth](http://www.manning.com/suereth/)
 * [Scala Exercises](http://scala-exercises.47deg.com/)
 
+## JavaScript
+
+*JavaScript generation and interop libraries.*
+
+* [Scala.js](http://www.scala-js.org/) ([repo](https://github.com/scala-js/scala-js)) - Scala to JavaScript compiler
+* [js-scala](https://github.com/js-scala/js-scala) - JavaScript as an embedded DSL in Scala
+* [scala-js-fiddle](http://www.scala-js-fiddle.com/) ([repo](https://github.com/lihaoyi/scala-js-fiddle)) - Browser-based Scala.js playground
+
 ## Tools
 
+* [sbt](http://www.scala-sbt.org/) ([repo](https://github.com/sbt/sbt)) - The interactive build tool for Scala
 * [Scalastyle](https://github.com/scalastyle/scalastyle) – Scala style checker.
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
 * [Wartremover](https://github.com/puffnfresh/wartremover) - Wartremover a flexible Scala code linting tool
@@ -310,6 +326,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scoverage](https://github.com/scoverage) - Scala Code Coverage tool
 * [Gitbucket](https://github.com/takezoe/gitbucket) - The easily installable GitHub clone powered by Scala
 * [Scapegoat](https://github.com/sksamuel/scalac-scapegoat-plugin) - Scala compiler plugin for static code analysis
+* [Scalariform](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
 
 # Contributing
 
