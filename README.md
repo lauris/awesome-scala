@@ -221,7 +221,11 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 ## Misc
 
+*Projects that don't fit into any specific category.*
+
 * [REPLesent](https://github.com/marconilanna/REPLesent) – A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
+* [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
+* [scala-ssh](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
 
 ## Android
 
@@ -289,12 +293,6 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [sbt-pack](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
 * [Ammonite](http://lihaoyi.github.io/Ammonite/) - Ammonite is a collection of Scala libraries intended to improve the experience of using Scala as an system shell.
 * [sbt-robovm](https://github.com/roboscala/sbt-robovm) - An sbt plugin for iOS development in Scala
-
-## Other
-
-*something that does not fit in any category.*
-
-* [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
 
 ## XML / HTML
 
