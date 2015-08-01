@@ -53,6 +53,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [doobie](https://github.com/tpolecat/doobie) - Pure functional JDBC layer for Scala.
 * [MapperDao](https://github.com/kostaskougios/mapperdao) - An ORM library for oracle, mysql, mssql, and postgresql
 * [Tepkin](https://github.com/fehmicansaglam/tepkin) — Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
+* [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
 
 ## Graphical User Interfaces
 
