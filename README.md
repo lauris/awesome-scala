@@ -130,6 +130,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Chill](https://github.com/twitter/chill) — Extensions for the Kryo serialization library to ease configuration in systems like Hadoop and Storm.
 * [µPickle](http://lihaoyi.github.io/upickle-pprint/upickle/) — A lightweight serialization library for Scala that works in ScalaJS, allowing transfer of structured data between the JVM and JavaScript.
 * [ScalaPB](http://trueaccord.github.io/ScalaPB/) - A Protocol Buffer generator for Scala.
+* [ScalaBuff](https://github.com/SandroGrzicic/ScalaBuff) - a Scala Protocol Buffers (protobuf) compiler
 
 ## Science and Data Analysis
 
