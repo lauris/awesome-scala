@@ -150,6 +150,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home) - a Scala toolkit for solving Operations Research problems
 
 ## Big Data
+
 * [Spark](http://spark.apache.org/) — Lightning fast cluster computing — up to 100x faster than Hadoop for iterative algorithms (memory caching) and up to 10x faster than Hadoop for single-pass MapReduce jobs. Compatible with YARN-enabled Hadoop clusters, can run on Mesos and in stand-alone mode as well.
 * [Scalding](https://github.com/twitter/scalding) — A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Summingbird](https://github.com/twitter/summingbird) — An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
@@ -315,6 +316,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 ## Tools
 
+* [sbt](http://www.scala-sbt.org/) ([repo](https://github.com/sbt/sbt)) - The interactive build tool for Scala
 * [Scalastyle](https://github.com/scalastyle/scalastyle) – Scala style checker.
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
 * [Wartremover](https://github.com/puffnfresh/wartremover) - Wartremover a flexible Scala code linting tool
