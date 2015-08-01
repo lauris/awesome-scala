@@ -54,6 +54,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [MapperDao](https://github.com/kostaskougios/mapperdao) - An ORM library for oracle, mysql, mssql, and postgresql
 * [Tepkin](https://github.com/fehmicansaglam/tepkin) — Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
+* [rediscala](https://github.com/etaty/rediscala) - Non-blocking, Reactive Redis driver for Scala (with Sentinel support)
 
 ## Graphical User Interfaces
 
