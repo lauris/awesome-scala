@@ -320,6 +320,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scoverage](https://github.com/scoverage) - Scala Code Coverage tool
 * [Gitbucket](https://github.com/takezoe/gitbucket) - The easily installable GitHub clone powered by Scala
 * [Scapegoat](https://github.com/sksamuel/scalac-scapegoat-plugin) - Scala compiler plugin for static code analysis
+* [Scalariform](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
 
 # Contributing
 
