@@ -30,6 +30,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Other](#other)
     - [Tools](#tools)
     - [Learning Scala](#learning-scala)
+    - [JavaScript](#javascript)
 - [Contributing](#contributing)
 
 ## Database
@@ -301,6 +302,14 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [Scala in Depth](http://www.manning.com/suereth/)
 * [Scala Exercises](http://scala-exercises.47deg.com/)
+
+## JavaScript
+
+*JavaScript generation and interop libraries.*
+
+* [Scala.js](http://www.scala-js.org/) ([repo](https://github.com/scala-js/scala-js)) - Scala to JavaScript compiler
+* [js-scala](https://github.com/js-scala/js-scala) - JavaScript as an embedded DSL in Scala
+* [scala-js-fiddle](http://www.scala-js-fiddle.com/) ([repo](https://github.com/lihaoyi/scala-js-fiddle)) - Browser-based Scala.js playground
 
 ## Tools
 
