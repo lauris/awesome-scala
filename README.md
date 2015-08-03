@@ -284,7 +284,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Sbt-One-Jar](https://github.com/sbt/sbt-onejar) – Packages your project using One-JAR™.
 * [Sbt-Start-Script](https://github.com/sbt/sbt-start-script) – Create a "start" script to run the program.
 * [Sbt-Sublime](https://github.com/orrsella/sbt-sublime) – Create Sublime Text projects with library dependencies sources
-* [ScalaKata](https://github.com/MasseGuillaume/ScalaKata) – Scala playground & Documentation tool.
+* [ScalaKata2](https://github.com/MasseGuillaume/ScalaKata2) – Scala playground & Documentation tool.
 * [Zeppelin](http://zeppelin-project.org/) - Scala and Spark Notebook (like IPython Notebook)
 * [xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin) – Build enterprise J2EE Web applications in Scala.
 * [tut](https://github.com/tpolecat/tut) - Tool for writing documentation with typechecked examples.
