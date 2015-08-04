@@ -192,6 +192,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scaldi](https://github.com/scaldi/scaldi) — Lightweight Scala Dependency Injection Library.
 * [MacWire](https://github.com/adamw/macwire) — Scala Macro to generate wiring code for class instantiation. DI container replacement.
 * [SubCut](https://github.com/dickwall/subcut) — Scala Uniquely Bound Classes Under Traits.
+* [Scala-Guice](https://github.com/codingwell/scala-guice) — Scala extensions for Google Guice
 
 ## Distributed Systems
 
