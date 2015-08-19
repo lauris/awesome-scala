@@ -9,6 +9,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
     - [Web Frameworks](#web-frameworks)
     - [i18n](#i18n)
     - [Authentication](#authentication)
+    - [Authorization](#authorization)
     - [Testing](#testing)
     - [JSON Manipulation](#json-manipulation)
     - [Serialization](#serialization)
@@ -95,6 +96,13 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [play2-auth](https://github.com/t2v/play2-auth) — Play2.x Authentication and Authorization module.
 * [play-pac4j](https://github.com/leleuj/play-pac4j) — Profile & Authentication Client in Scala for CAS, OAuth, OpenID, SAML & HTTP protocols and Play 2.x framework.
 * [play-silhouette](https://github.com/mohiva/play-silhouette) — Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
+
+## Authorization
+
+*Libraries for implementing authorization strategies.*
+
+* [deadbolt-2](https://github.com/schaloner/deadbolt-2) — A Play 2.x module supporting role-based and proprietary authorization; idiomatic APIs for Scala and Java APIs are provided.
+
 
 ## Testing
 
