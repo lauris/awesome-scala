@@ -229,6 +229,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scalactic](http://www.scalactic.org/) - Small library of utilities related to quality that helps keeping code clear and correct.
 * [Monocle](https://github.com/julien-truffaut/Monocle) - An Optics/Lens library for purely functional manipulation of immutable objects.
 * [Rapture](http://rapture.io/) ([repo](https://github.com/propensive/rapture)) - a collection of libraries for common, everyday programming tasks (I/O, JSON, i18n, etc.)
+* [refined](https://github.com/fthomas/refined) - Simple refinement types with compile- and runtime checking
 
 ## Misc
 
