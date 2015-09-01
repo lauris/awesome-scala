@@ -191,6 +191,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Reactive Collections](https://github.com/storm-enroute/reactive-collections) – A library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
 * [Vertx.io](http://vertx.io/) – A polyglot reactive application platform for the JVM which aims to be an alternative to node.js. Its concurrency model resembles actors. It supports [Scala](http://vertx.io/core_manual_scala.html), Clojure, Java, Javascript, Ruby, Groovy and Python.
 * [Monifu](https://github.com/monifu/monifu) — Extensions to Scala’s standard library for multi-threading primitives and functional reactive programming. Scala.js compatible.
+* [SynapseGrid](https://github.com/Primetalk/SynapseGrid) — an FRP framework for constructing reactive real-time immutable data flow systems. It implements an original way of running and organizing event-driven systems based on Petri nets. The topology can be viewed as a .dot graph. The library is compatible with Akka and can seamlessly communicate with other actors.
 
 ## Modularization and Dependency Injection
 
