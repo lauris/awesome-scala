@@ -239,6 +239,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [REPLesent](https://github.com/marconilanna/REPLesent) – A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
 * [scala-ssh](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
+* [Scalan](https://github.com/scalan/scalan) - A framework for development of domain-specific compilers in Scala 
 
 ## Android
 
