@@ -217,6 +217,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 *Scala extensions.*
 
+* [Stateless Future](https://github.com/qifun/stateless-future) - Asynchronous programming in fully featured Scala syntax.
 * [Scalaz](https://github.com/scalaz/scalaz) — An extension to the core Scala library for functional programming.
 * [Shapeless](https://github.com/milessabin/shapeless) — A type class and dependent type based generic programming library for Scala.
 * [Twitter Util](https://github.com/twitter/util) — General-purpose Scala libraries, including a future implementation and other concurrency tools.
