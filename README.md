@@ -218,6 +218,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 *Scala extensions.*
 
 * [Scalaz](https://github.com/scalaz/scalaz) — An extension to the core Scala library for functional programming.
+* [Each](https://github.com/ThoughtWorksInc/each) — A macro library that converts native imperative syntax to [Scalaz](https://github.com/scalaz/scalaz)'s monadic expressions.
 * [Shapeless](https://github.com/milessabin/shapeless) — A type class and dependent type based generic programming library for Scala.
 * [Twitter Util](https://github.com/twitter/util) — General-purpose Scala libraries, including a future implementation and other concurrency tools.
 * [Scala Async](https://github.com/scala/async) — An asynchronous programming facility for Scala.
