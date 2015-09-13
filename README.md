@@ -288,6 +288,10 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 *Sbt plugins to make your life easier.*
 
+* [sbt-cppp](https://github.com/Atry/sbt-cppp) – A sbt plugin to support [Protocol Buffers](https://github.com/google/protobuf), especially in multi-project builds.
+* [sbt-haxe](https://github.com/qifun/sbt-haxe) – A Sbt plugin to compile Haxe sources.
+* [sbt-api-mappings](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
+* [Pttrt](https://github.com/Atry/pttrt) - A sbt plugin, designed to pass data from compile-time to run-time.
 * [Sbt-Revolver](https://github.com/spray/sbt-revolver) – Fork & Stop processes from sbt.
 * [Sbt-Eclipse](https://github.com/typesafehub/sbteclipse) – Create Eclipse project definitions from sbt builds.
 * [Sbt-Idea](https://github.com/mpeltonen/sbt-idea) – Create IntelliJ IDEA project definitions from sbt builds (not needed from IntelliJ 14, it supports sbt/scala projects through the Scala plugin).
