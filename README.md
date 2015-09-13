@@ -38,6 +38,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 
 *Database access libraries in Scala.*
 
+* [Memcontinuationed](https://github.com/Atry/memcontinuationed) - Memcached client for Scala.
 * [Activate](https://github.com/fwbrasil/activate) — Pluggable object persistence in Scala.
 * [Elastic4s](https://github.com/sksamuel/elastic4s) - A scala DSL / reactive client for Elasticsearch
 * [Phantom](https://github.com/websudos/phantom) — Reactive type safe Scala driver for Apache Cassandra.
