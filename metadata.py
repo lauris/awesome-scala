@@ -32,9 +32,9 @@ import urllib2
 # we use these regexes when "parsing" README.md
 empty_regex = re.compile(r"^ *\n$")
 section_regex = re.compile(r"^## (.+)\n$")
-repo_regex = re.compile(r"^\* \[(?:\*\*)?([^*★]+[^ ★])(?: ★ ([^ ]+) ⧗ ([^ *]+))?(?:\*\*)?\]\((.+?)\)(?: (?:-|—|–) (.+))?\n$")
+repo_regex = re.compile(r"^\* (?:\*\*)?\[?([^*★]+[^ ★])(?: ★ ([^ ]+) ⧗ ([^ *]+))?\]\((.+?)\)(?:\*\*)?(?: (?:-|—|–) (.+))?\n$")
 end_regex = re.compile(r"^# .+\n$")
-github_regex = re.compile(r"^https://github.com/(.+?)/(.+)$")
+github_regex = re.compile(r"^https://github.com/(.+?)/(.+?)(?:/?)$")
 
 # some paths
 readme_path = 'README.md'
@@ -81,8 +81,10 @@ def output_repo(outf, name, stars, days, link, rdesc):
         title = name
     else:
         title = '%s ★ %s ⧗ %s' % (name, stars, days)
-    if popular: title = '**' + title + '**'
-    outf.write('* [%s](%s) - %s\n' % (title, link, rdesc))
+    if popular:
+        outf.write('* **[%s](%s)** - %s\n' % (title, link, rdesc))
+    else:
+        outf.write('* [%s](%s) - %s\n' % (title, link, rdesc))
 
 def flush_section(outf, section, sdesc, repos):
     print '  ' + section.strip()
