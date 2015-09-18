@@ -77,9 +77,10 @@ def query(owner, name):
 
 def output_repo(outf, name, stars, days, link, rdesc):
     popular = stars is not None and stars != "?" and stars >= 500
-    if stars is None: stars = '?'
-    if days is None: days = '?'
-    title = '%s ★ %s ⧗ %s' % (name, stars, days)
+    if stars is None and days is None:
+        title = name
+    else:
+        title = '%s ★ %s ⧗ %s' % (name, stars, days)
     if popular: title = '**' + title + '**'
     outf.write('* [%s](%s) - %s\n' % (title, link, rdesc))
 
