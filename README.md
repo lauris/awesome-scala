@@ -347,6 +347,7 @@ Projects with over 500 stargazers are in bold.
 * [Scalariform ★ 82 ⧗ 1](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
 * [Scalastyle ★ 309 ⧗ 2](https://github.com/scalastyle/scalastyle) - Scala style checker.
 * [Scapegoat ★ 97 ⧗ 17](https://github.com/sksamuel/scalac-scapegoat-plugin) - Scala compiler plugin for static code analysis
+* [Scaps](http://scala-search.org/) ([repo](https://github.com/scala-search/scaps)) - A search engine for Scala libraries
 * [Scoverage](https://github.com/scoverage) - Scala Code Coverage tool
 * [Wartremover ★ 373 ⧗ 0](https://github.com/puffnfresh/wartremover) - Wartremover a flexible Scala code linting tool
 
