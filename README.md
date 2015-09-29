@@ -243,7 +243,7 @@ Projects with over 500 stargazers are in bold.
 
 * [REPLesent ★ 158 ⧗ 0](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-ssh ★ 136 ⧗ 2](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
-* [Scalan ★ 32 ⧗ 1](https://github.com/scalan/scalan) - A framework for development of domain-specific compilers in Scala 
+* [Scalan ★ 32 ⧗ 1](https://github.com/scalan/scalan) - A framework for development of domain-specific compilers in Scala
 * [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
 
 ## Android
@@ -261,6 +261,7 @@ Projects with over 500 stargazers are in bold.
 
 * [Dispatch ★ 302 ⧗ 1](https://github.com/dispatch/reboot) - Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
 * [Finch.io ★ 405 ⧗ 0](https://github.com/finagle/finch) - Purely Functional REST API atop of [Finagle](https://github.com/twitter/finagle).
+* [Http4s ★ 310 ⧗ 0](https://github.com/http4s/http4s) - A minimal, idiomatic Scala interface for HTTP.
 * [Netcaty ★ 9 ⧗ 81](https://github.com/ngocdaothanh/netcaty) - Simple net test client/server for Netty and Scala lovers.
 * [Newman ★ 216 ⧗ 3](https://github.com/stackmob/newman) - A REST DSL that tries to take the best from Dispatch, Finagle and Apache HttpClient. See [here](https://www.paypal-engineering.com/2014/02/13/hello-newman-a-rest-client-for-scala/) for rationale.
 * [scalaj-http ★ 301 ⧗ 0](https://github.com/scalaj/scalaj-http) - Simple scala wrapper for HttpURLConnection (including OAuth support).
