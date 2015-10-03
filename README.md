@@ -294,7 +294,7 @@ Projects with over 500 stargazers are in bold.
 
 *Sbt plugins to make your life easier.*
 
-* [Pttrt ★ 1 ⧗ 137](https://github.com/Atry/pttrt) - A sbt plugin, designed to pass data from compile-time to run-time.
+* [pttrt ★ 1 ⧗ 137](https://github.com/Atry/pttrt) - A sbt plugin, designed to pass data from compile-time to run-time.
 * [sbt-api-mappings ★ 23 ⧗ 11](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
 * [sbt-buildinfo ★ 162 ⧗ 0](https://github.com/sbt/sbt-buildinfo) - Generates Scala source from build definition.
 * [sbt-cppp ★ 1 ⧗ 63](https://github.com/Atry/sbt-cppp) - A sbt plugin to support [Protocol Buffers](https://github.com/google/protobuf), especially in multi-project builds.
@@ -302,13 +302,10 @@ Projects with over 500 stargazers are in bold.
 * **[sbteclipse ★ 501 ⧗ 1](https://github.com/typesafehub/sbteclipse)** - Create Eclipse project definitions from sbt builds.
 * [sbt-haxe ★ 5 ⧗ 13](https://github.com/qifun/sbt-haxe) - A Sbt plugin to compile Haxe sources.
 * [sbt-ide-settings ★ 17 ⧗ 36](https://github.com/Jetbrains/sbt-ide-settings) - SBT plugin for tweaking various IDE settings
-* **[sbt-idea ★ 959 ⧗ 1](https://github.com/mpeltonen/sbt-idea)** - Create IntelliJ IDEA project definitions from sbt builds (not needed from IntelliJ 14, it supports sbt/scala projects through the Scala plugin).
 * [sbt-native-packager ★ 472 ⧗ 0](https://github.com/sbt/sbt-native-packager) - Bundle up Scala software for native packaging systems, like deb, rpm, homebrew, msi..
-* [sbt-onejar ★ 183 ⧗ 27](https://github.com/sbt/sbt-onejar) - Packages your project using One-JAR™.
 * [sbt-pack ★ 185 ⧗ 2](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
 * [sbt-revolver ★ 375 ⧗ 0](https://github.com/spray/sbt-revolver) - Fork & Stop processes from sbt.
 * [sbt-robovm ★ 87 ⧗ 0](https://github.com/roboscala/sbt-robovm) - An sbt plugin for iOS development in Scala
-* [sbt-start-script ★ 134 ⧗ 36](https://github.com/sbt/sbt-start-script) - Create a "start" script to run the program.
 * [sbt-sublime ★ 115 ⧗ 5](https://github.com/orrsella/sbt-sublime) - Create Sublime Text projects with library dependencies sources
 * [sbt-updates ★ 206 ⧗ 6](https://github.com/rtimush/sbt-updates) - Shows sbt project's dependency updates.
 * [sbt-versions ★ 8 ⧗ 64](https://github.com/sksamuel/sbt-versions) - Plugin that checks for updated versions of your project's dependencies.
