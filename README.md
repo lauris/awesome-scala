@@ -241,6 +241,7 @@ Projects with over 500 stargazers are in bold.
 
 *Projects that don't fit into any specific category.*
 
+* [Ammonite](http://lihaoyi.github.io/Ammonite/) - Ammonite is a collection of Scala libraries intended to improve the experience of using Scala as an system shell.
 * [REPLesent ★ 163 ⧗ 1](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-ssh ★ 139 ⧗ 2](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
 * [Scalan ★ 33 ⧗ 4](https://github.com/scalan/scalan) - A framework for development of domain-specific compilers in Scala
@@ -293,7 +294,6 @@ Projects with over 500 stargazers are in bold.
 
 *Sbt plugins to make your life easier.*
 
-* [Ammonite](http://lihaoyi.github.io/Ammonite/) - Ammonite is a collection of Scala libraries intended to improve the experience of using Scala as an system shell.
 * [Pttrt ★ 1 ⧗ 137](https://github.com/Atry/pttrt) - A sbt plugin, designed to pass data from compile-time to run-time.
 * [sbt-api-mappings ★ 23 ⧗ 11](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
 * [Sbt-BuildInfo ★ 162 ⧗ 0](https://github.com/sbt/sbt-buildinfo) - Generates Scala source from build definition.
