@@ -57,22 +57,22 @@ now = datetime.datetime.now()
 # activity, for the given github project.
 def query(owner, name):
     if fake:
-        print '    %s/%s: ok' % (owner, name)
+        print '    {0}/{1}: ok'.format(owner, name)
         return (random.randint(1, 1000), random.randint(1, 300))
     else:
         try:
-            req = urllib2.Request('https://api.github.com/repos/%s/%s' % (owner, name))
+            req = urllib2.Request('https://api.github.com/repos/{0}/{1}'.format(owner, name))
             if user is not None and token is not None:
-                b64 = base64.encodestring('%s:%s' % (user, token)).replace('\n', '')
-                req.add_header("Authorization", "Basic %s" % b64)
+                b64 = base64.encodestring('{0}:{1}'.format(user, token)).replace('\n', '')
+                req.add_header("Authorization", "Basic {0}".format(b64))
             u = urllib2.urlopen(req)
             j = json.load(u)
             t = datetime.datetime.strptime(j['updated_at'], "%Y-%m-%dT%H:%M:%SZ")
             days = max(int((now - t).days), 0)
-            print '    %s/%s: ok' % (owner, name)
+            print '    {0}/{1}: ok'.format(owner, name)
             return (int(j['stargazers_count']), days)
         except urllib2.HTTPError, e:
-            print '    %s/%s: FAILED' % (owner, name)
+            print '    {0}/{1}: FAILED'.format(owner, name)
             return (None, None)
 
 def output_repo(outf, name, stars, days, link, rdesc):
@@ -82,9 +82,9 @@ def output_repo(outf, name, stars, days, link, rdesc):
     else:
         title = '%s ★ %s ⧗ %s' % (name, stars, days)
     if popular:
-        outf.write('* **[%s](%s)** - %s\n' % (title, link, rdesc))
+        outf.write('* **[{0}]({1})** - {2}\n'.format(title, link, rdesc))
     else:
-        outf.write('* [%s](%s) - %s\n' % (title, link, rdesc))
+        outf.write('* [{0}]({1}) - {2}\n'.format(title, link, rdesc))
 
 def flush_section(outf, section, sdesc, repos):
     print '  ' + section.strip()
@@ -101,7 +101,7 @@ def flush_section(outf, section, sdesc, repos):
 
         m = github_regex.match(link)
         if not m:
-            print '    %s: not a repo' % link
+            print '    {0}: not a repo'.format(link)
             output_repo(outf, name, stars, days, link, rdesc)
             continue
 
@@ -121,14 +121,14 @@ def run():
     if os.path.exists('.access-token'):
         global user, token
         user, token = open('.access-token').read().strip().split(':')
-        print 'using Personal Access Token %s:%s' % (user, token)
+        print 'using Personal Access Token {0}:{1}'.format(user, token)
     else:
         print 'no Personal Access Token found in .access-token'
 
     inf = open(readme_path, 'r')
     lines = list(inf)
     inf.close()
-    print 'read %r' % readme_path
+    print 'read {0}'.format(readme_path)
 
     started = False
     finished = False
@@ -139,7 +139,7 @@ def run():
 
     total_repos = 0
 
-    print 'writing %r' % temp_path
+    print 'writing {0}'.format(temp_path)
     for line in lines:
         if finished:
             outf.write(line)
@@ -165,7 +165,7 @@ def run():
                 elif sdesc is None:
                     sdesc = line
                 else:
-                    raise Exception("cannot parse %r" % line)
+                    raise Exception("cannot parse {0}".format(line))
         else:
             if section_regex.match(line):
                 section = line
@@ -173,9 +173,9 @@ def run():
             else:
                 outf.write(line)
     outf.close()
-    print 'wrote %d repos to %r' % (total_repos, temp_path)
+    print 'wrote {0} repos to {1}'.format(total_repos, temp_path)
 
-    print 'moving %r to %r' % (temp_path, readme_path)
+    print 'moving {0} to {1}'.format(temp_path, readme_path)
     shutil.move(temp_path, readme_path)
 
 if __name__ == "__main__":
