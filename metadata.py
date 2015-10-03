@@ -76,7 +76,7 @@ def query(owner, name):
             return (None, None)
 
 def output_repo(outf, name, stars, days, link, rdesc):
-    popular = stars is not None and stars != "?" and stars >= 500
+    popular = stars is not None and int(stars) >= 500
     if stars is None and days is None:
         title = name
     else:
