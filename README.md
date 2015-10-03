@@ -162,15 +162,15 @@ Projects with over 500 stargazers are in bold.
 * [Saddle ★ 338 ⧗ 1](https://github.com/saddle/saddle) - A minimalist port of Pandas to Scala
 * **[Spire ★ 782 ⧗ 1](https://github.com/non/spire)** - Powerful new number types and numeric abstractions for Scala.
 * [Squants ★ 212 ⧗ 3](https://github.com/garyKeorkunian/squants) - The Scala API for Quantities, Units of Measure and Dimensional Analysis.
+* [Zeppelin](http://zeppelin-project.org/) - Scala and Spark Notebook (like IPython Notebook)
 
 ## Big Data
-
-* [Scoobi] (https://github.com/nicta/scoobi) - Write type-safe Hadoop programs in idiomatic Scala way
 
 * [BIDMach ★ 427 ⧗ 2](https://github.com/BIDData/BIDMach) - CPU and GPU machine learning library, using JNI for GPU computation.
 * [Gearpump ★ 337 ⧗ 4](https://github.com/intel-hadoop/gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 8 ⧗ 42](https://github.com/romainreuillon/gridscale) - A Scala API for computing clusters and grids.
-* **[Scalding ★ 2269 ⧗ 0](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
+* **[Scalding ★ 2270 ⧗ 0](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
+* [Scoobi ★ 473 ⧗ 41](https://github.com/nicta/scoobi) - Write type-safe Hadoop programs in idiomatic Scala way
 * [Scoozie ★ 52 ⧗ 1](https://github.com/klout/scoozie) - Scala DSL on top of Oozie XML
 * [Scrunch](http://crunch.apache.org/scrunch.html) - A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) which provides a framework for writing, testing, and running MapReduce pipelines.
 * [Shadoop ★ 8 ⧗ 29](https://github.com/adamretter/shadoop) - A Scala DSL for Hadoop MapReduce.
@@ -254,7 +254,7 @@ Projects with over 500 stargazers are in bold.
 * [Android SDK Plugin for SBT ★ 376 ⧗ 7](https://github.com/pfn/android-sdk-plugin) - An sbt plugin that adds tasks for developing Android applications.
 * [Gradle Android Scala Plugin ★ 223 ⧗ 3](https://github.com/saturday06/gradle-android-scala-plugin) - A gradle plugin that allows you to use Scala with Android
 * [Macroid ★ 302 ⧗ 2](https://github.com/macroid/macroid) - A modular functional UI language for Android.
-* **[Scaloid ★ 1752 ⧗ 0](https://github.com/pocorall/scaloid)** - Less painful Android development with Scala.
+* **[Scaloid ★ 1753 ⧗ 0](https://github.com/pocorall/scaloid)** - Less painful Android development with Scala.
 
 ## HTTP
 
@@ -268,7 +268,7 @@ Projects with over 500 stargazers are in bold.
 * [scalaj-http ★ 306 ⧗ 3](https://github.com/scalaj/scalaj-http) - Simple scala wrapper for HttpURLConnection (including OAuth support).
 * [Scalaxb ★ 177 ⧗ 10](https://github.com/eed3si9n/scalaxb) - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
 * [Spray](http://spray.io/) - Actor-based library for http interaction.
-* [Tubesocks ★ 7 ⧗ 439](https://github.com/softprops/tubesocks) - Library supporting bi-directional communication with websocket servers.
+* [Tubesocks ★ 7 ⧗ 440](https://github.com/softprops/tubesocks) - Library supporting bi-directional communication with websocket servers.
 
 ## Semantic Web
 
@@ -288,7 +288,7 @@ Projects with over 500 stargazers are in bold.
 
 * [atto ★ 92 ⧗ 5](https://github.com/tpolecat/atto) - Pure functional incremental text parsing library for Scala, based on Attoparsec.
 * [Parboiled2 ★ 364 ⧗ 2](https://github.com/sirthias/parboiled2) - A Fast Parser Generator for Scala 2.10.3+.
-* [Scala Parser Combinators ★ 87 ⧗ 0](https://github.com/scala/scala-parser-combinators) - Scala Standard Parser Combinator Library.
+* [Scala Parser Combinators ★ 87 ⧗ 1](https://github.com/scala/scala-parser-combinators) - Scala Standard Parser Combinator Library.
 
 ## Sbt plugins
 
@@ -299,7 +299,6 @@ Projects with over 500 stargazers are in bold.
 * [sbt-buildinfo ★ 162 ⧗ 0](https://github.com/sbt/sbt-buildinfo) - Generates Scala source from build definition.
 * [sbt-cppp ★ 1 ⧗ 63](https://github.com/Atry/sbt-cppp) - A sbt plugin to support [Protocol Buffers](https://github.com/google/protobuf), especially in multi-project builds.
 * [sbt-dependency-graph ★ 389 ⧗ 1](https://github.com/jrudolph/sbt-dependency-graph) - Create a dependency graph for your project.
-* **[sbteclipse ★ 501 ⧗ 1](https://github.com/typesafehub/sbteclipse)** - Create Eclipse project definitions from sbt builds.
 * [sbt-haxe ★ 5 ⧗ 13](https://github.com/qifun/sbt-haxe) - A Sbt plugin to compile Haxe sources.
 * [sbt-ide-settings ★ 17 ⧗ 36](https://github.com/Jetbrains/sbt-ide-settings) - SBT plugin for tweaking various IDE settings
 * [sbt-native-packager ★ 472 ⧗ 0](https://github.com/sbt/sbt-native-packager) - Bundle up Scala software for native packaging systems, like deb, rpm, homebrew, msi..
@@ -309,10 +308,10 @@ Projects with over 500 stargazers are in bold.
 * [sbt-sublime ★ 115 ⧗ 5](https://github.com/orrsella/sbt-sublime) - Create Sublime Text projects with library dependencies sources
 * [sbt-updates ★ 206 ⧗ 6](https://github.com/rtimush/sbt-updates) - Shows sbt project's dependency updates.
 * [sbt-versions ★ 8 ⧗ 64](https://github.com/sksamuel/sbt-versions) - Plugin that checks for updated versions of your project's dependencies.
+* **[sbteclipse ★ 501 ⧗ 1](https://github.com/typesafehub/sbteclipse)** - Create Eclipse project definitions from sbt builds.
 * [ScalaKata2 ★ 7 ⧗ 9](https://github.com/MasseGuillaume/ScalaKata2) - Scala playground & Documentation tool.
 * [tut ★ 139 ⧗ 0](https://github.com/tpolecat/tut) - Tool for writing documentation with typechecked examples.
 * [xsbt-web-plugin ★ 297 ⧗ 10](https://github.com/earldouglas/xsbt-web-plugin) - Build enterprise J2EE Web applications in Scala.
-* [Zeppelin](http://zeppelin-project.org/) - Scala and Spark Notebook (like IPython Notebook)
 
 ## XML / HTML
 
