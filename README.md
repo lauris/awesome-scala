@@ -43,6 +43,7 @@ Projects with over 500 stargazers are in bold.
 * [Activate ★ 265 ⧗ 2](https://github.com/fwbrasil/activate) - Pluggable object persistence in Scala.
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
 * [doobie ★ 289 ⧗ 0](https://github.com/tpolecat/doobie) - Pure functional JDBC layer for Scala.
+* [Relate](https://github.com/lucidsoftware/relate) - Lightweight, blazing-fast database access layer for Scala that abstracts the idiosyncricies of the JDBC while keeping complete control over the SQL.
 * [Elastic4s ★ 448 ⧗ 0](https://github.com/sksamuel/elastic4s) - A scala DSL / reactive client for Elasticsearch
 * [MapperDao ★ 7 ⧗ 38](https://github.com/kostaskougios/mapperdao) - An ORM library for oracle, mysql, mssql, and postgresql
 * [Memcontinuationed ★ 45 ⧗ 3](https://github.com/Atry/memcontinuationed) - Memcached client for Scala.
