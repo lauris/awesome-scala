@@ -47,6 +47,7 @@ Projects with over 500 stargazers are in bold.
 * [MapperDao ★ 7 ⧗ 38](https://github.com/kostaskougios/mapperdao) - An ORM library for oracle, mysql, mssql, and postgresql
 * [Memcontinuationed ★ 45 ⧗ 3](https://github.com/Atry/memcontinuationed) - Memcached client for Scala.
 * [Phantom ★ 309 ⧗ 1](https://github.com/websudos/phantom) - Reactive type safe Scala driver for Apache Cassandra.
+* [Morpheus](https://github.com/websudos/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
 * **[PostgreSQL and MySQL async ★ 686 ⧗ 1](https://github.com/mauricio/postgresql-async)** - Async database drivers to talk to PostgreSQL and MySQL in Scala.
 * [ReactiveCouchbase](http://reactivecouchbase.org/) - Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
 * **[ReactiveMongo ★ 597 ⧗ 3](https://github.com/ReactiveMongo/ReactiveMongo)** - Reactive Scala Driver for MongoDB.
