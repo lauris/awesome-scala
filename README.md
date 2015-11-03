@@ -279,6 +279,7 @@ Projects with over 500 stargazers are in bold.
 *Scala libraries for interactions with the Web of Data, and other RDF tools.*
 
 * [Banana-RDF ★ 167 ⧗ 0](https://github.com/w3c/banana-rdf) - Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
+* [rdfp](https://github.com/jannvck/rdfp) - RDF stream processing framework in Scala
 
 ## Metrics and Monitoring
 
