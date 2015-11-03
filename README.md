@@ -346,6 +346,7 @@ Projects with over 500 stargazers are in bold.
 * **[Gitbucket ★ 4722 ⧗ 0](https://github.com/takezoe/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [sbt](http://www.scala-sbt.org/) ([repo](https://github.com/sbt/sbt)) - The interactive build tool for Scala
 * [Scalariform ★ 95 ⧗ 1](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
+* [Scalatex ★ 160 ⧗ 14](https://github.com/lihaoyi/Scalatex) - Programmable, Typesafe Document Generation
 * [Scalastyle ★ 320 ⧗ 0](https://github.com/scalastyle/scalastyle) - Scala style checker.
 * [Scapegoat ★ 102 ⧗ 1](https://github.com/sksamuel/scalac-scapegoat-plugin) - Scala compiler plugin for static code analysis
 * [Scaps](http://scala-search.org/) ([repo](https://github.com/scala-search/scaps)) - A search engine for Scala libraries
