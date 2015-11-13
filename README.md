@@ -112,7 +112,7 @@ Projects with over 500 stargazers are in bold.
 
 *Libraries for code testing.*
 
-* [Gatling](http://gatling-tool.org/) - Async Scala-Akka-Netty based Stress Tool.
+* [Gatling](http://gatling.io) - Async Scala-Akka-Netty based Stress Tool.
 * **[ScalaCheck ★ 869 ⧗ 0](https://github.com/rickynils/scalacheck)** - Property-based testing for Scala.
 * [ScalaMeter](https://scalameter.github.io/) - Performance &  memory footprint measuring, regression testing.
 * [ScalaMock](http://scalamock.org) - Scala native mocking framework
@@ -156,7 +156,7 @@ Projects with over 500 stargazers are in bold.
 * [Chalk ★ 174 ⧗ 17](https://github.com/scalanlp/chalk) - Chalk is a natural language processing library.
 * [FACTORIE ★ 350 ⧗ 1](https://github.com/factorie/factorie) - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
 * [Figaro ★ 225 ⧗ 1](https://github.com/p2t2/figaro) - Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
-* [MGO ★ 9 ⧗ 178](https://github.com/romainreuillon/mgo) - Modular multi-objective evolutionary algorithm optimization library enforcing immutability.
+* [MGO ★ 9 ⧗ 178](https://github.com/openmole/mgo) - Modular multi-objective evolutionary algorithm optimization library enforcing immutability.
 * [MLLib](https://spark.apache.org/mllib/) - Machine Learning framework for Spark
 * [OpenMOLE ★ 9 ⧗ 110](https://github.com/ISCPIF/openmole) - OpenMOLE (Open MOdeL Experiment) is a workflow engine designed to leverage the computing power of distributed execution environments for naturally parallel processes.
 * [OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home) - a Scala toolkit for solving Operations Research problems
@@ -169,15 +169,15 @@ Projects with over 500 stargazers are in bold.
 ## Big Data
 
 * [BIDMach ★ 443 ⧗ 0](https://github.com/BIDData/BIDMach) - CPU and GPU machine learning library, using JNI for GPU computation.
-* [Gearpump ★ 342 ⧗ 2](https://github.com/intel-hadoop/gearpump) - Lightweight real-time big data streaming engine
-* [GridScale ★ 8 ⧗ 58](https://github.com/romainreuillon/gridscale) - A Scala API for computing clusters and grids.
+* [Gearpump ★ 342 ⧗ 2](https://github.com/gearpump/gearpump) - Lightweight real-time big data streaming engine
+* [GridScale ★ 8 ⧗ 58](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
 * **[Scalding ★ 2292 ⧗ 0](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Scoobi ★ 471 ⧗ 2](https://github.com/nicta/scoobi) - Write type-safe Hadoop programs in idiomatic Scala way
 * [Scoozie ★ 52 ⧗ 17](https://github.com/klout/scoozie) - Scala DSL on top of Oozie XML
 * [Scrunch](http://crunch.apache.org/scrunch.html) - A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) which provides a framework for writing, testing, and running MapReduce pipelines.
 * [Shadoop ★ 8 ⧗ 46](https://github.com/adamretter/shadoop) - A Scala DSL for Hadoop MapReduce.
 * [Spark](http://spark.apache.org/) - Lightning fast cluster computing — up to 100x faster than Hadoop for iterative algorithms (memory caching) and up to 10x faster than Hadoop for single-pass MapReduce jobs. Compatible with YARN-enabled Hadoop clusters, can run on Mesos and in stand-alone mode as well.
-* [Sparkta](http://github.com/Stratio/sparkta) - Real Time Aggregation based on Spark Streaming.
+* [Sparkta](https://github.com/Stratio/sparkta) - Real Time Aggregation based on Spark Streaming.
 * **[Summingbird ★ 1566 ⧗ 2](https://github.com/twitter/summingbird)** - An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
 
 ## Image processing and image analysis
@@ -227,7 +227,7 @@ Projects with over 500 stargazers are in bold.
 * **[Cassovary ★ 774 ⧗ 0](https://github.com/twitter/cassovary)** - A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
 * [Each ★ 47 ⧗ 3](https://github.com/ThoughtWorksInc/each) - A macro library that converts native imperative syntax to [Scalaz](https://github.com/scalaz/scalaz)'s monadic expressions.
 * [Lamma ★ 44 ⧗ 3](https://github.com/maxcellent/lamma) - A Scala date library for date and schedule generation.
-* [Log4s](http://log4s.org) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
+* [Log4s](http://www.log4s.org/) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
 * [Monocle ★ 433 ⧗ 0](https://github.com/julien-truffaut/Monocle) - An Optics/Lens library for purely functional manipulation of immutable objects.
 * [Rapture](http://rapture.io/) ([repo](https://github.com/propensive/rapture)) - a collection of libraries for common, everyday programming tasks (I/O, JSON, i18n, etc.)
 * [refined ★ 156 ⧗ 0](https://github.com/fthomas/refined) - Simple refinement types with compile- and runtime checking
@@ -278,7 +278,7 @@ Projects with over 500 stargazers are in bold.
 
 *Scala libraries for interactions with the Web of Data, and other RDF tools.*
 
-* [Banana-RDF ★ 167 ⧗ 0](https://github.com/w3c/banana-rdf) - Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
+* [Banana-RDF ★ 167 ⧗ 0](https://github.com/banana-rdf/banana-rdf) - Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
 * [rdfp](https://github.com/jannvck/rdfp) - RDF stream processing framework in Scala
 
 ## Metrics and Monitoring
@@ -330,7 +330,7 @@ Projects with over 500 stargazers are in bold.
 *Nice books, blogs and other resources to learn Scala*
 
 * [Scala Exercises](http://scala-exercises.47deg.com/) - None
-* [Scala in Depth](http://www.manning.com/suereth/) - None
+* [Scala in Depth](https://www.manning.com/books/scala-in-depth) - None
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - None
 
 ## JavaScript
@@ -345,7 +345,7 @@ Projects with over 500 stargazers are in bold.
 
 * [Abide ★ 187 ⧗ 2](https://github.com/scala/scala-abide) - Library for quick scala code checking and validation
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
-* **[Gitbucket ★ 4722 ⧗ 0](https://github.com/takezoe/gitbucket)** - The easily installable GitHub clone powered by Scala
+* **[Gitbucket ★ 4722 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [sbt](http://www.scala-sbt.org/) ([repo](https://github.com/sbt/sbt)) - The interactive build tool for Scala
 * [Scalariform ★ 95 ⧗ 1](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
 * [Scalatex ★ 160 ⧗ 14](https://github.com/lihaoyi/Scalatex) - Programmable, Typesafe Document Generation
