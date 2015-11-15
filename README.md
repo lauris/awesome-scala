@@ -84,6 +84,7 @@ Projects with over 500 stargazers are in bold.
 * **[Spray ★ 2088 ⧗ 0](https://github.com/spray/spray)** - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
 * **[Unfiltered ★ 609 ⧗ 0](https://github.com/unfiltered/unfiltered)** - A modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
 * [Xitrum](http://xitrum-framework.github.io/) - An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
+* [peregine](https://github.com/dvarelap/peregrine) - A simple and async lightweight Scala web framework.
 
 ## i18n
 
