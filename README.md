@@ -13,7 +13,7 @@ Projects with over 500 stargazers are in bold.
     - [Authentication](#authentication)
     - [Authorization](#authorization)
     - [Testing](#testing)
-    - [JSON Manipulation](#json-manipulation)
+    - [JSON](#json)
     - [Serialization](#serialization)
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Big Data](#big-data)
@@ -122,17 +122,22 @@ Projects with over 500 stargazers are in bold.
 * [Specs2 ★ 468 ⧗ 0](https://github.com/etorreborre/specs2) - Software Specifications for Scala.
 * [µTest ★ 124 ⧗ 6](https://github.com/lihaoyi/utest) - A tiny, portable testing library for Scala.
 * [scalaprops](https://github.com/scalaprops/scalaprops) - Another property based testing library for Scala
-## JSON Manipulation
+
+
+## JSON
 
 *Libraries for work with json.*
 
-* [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
-* [circe ★ 173 ⧗ 4](https://github.com/travisbrown/circe) - JSON library based on Argonaut, depends on Cats
-* [jackson-module-scala ★ 229 ⧗ 2](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
-* **[json4s ★ 542 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
+* [argonaut ★ 322](http://argonaut.io/) - Purely Functional JSON in Scala.
+* [circe ★ 216 ⧗ 4](https://github.com/travisbrown/circe) - JSON library based on Argonaut, depends on Cats
+* [jackson-module-scala ★ 235 ⧗ 2](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
+* **[json4s ★ 573 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
 * [play-json](https://github.com/playframework/playframework/tree/master/framework/src/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime.
-* [scalajack ★ 64 ⧗ 46](https://github.com/gzoller/ScalaJack) - Fast 'n easy JSON serialization with optional MongoDB support.  Uses Jackson under the hood.
-* [spray-json ★ 432 ⧗ 3](https://github.com/spray/spray-json) - Lightweight, clean and efficient JSON implementation in Scala.
+* [scalajack ★ 65 ⧗ 46](https://github.com/gzoller/ScalaJack) - Fast 'n easy JSON serialization with optional MongoDB support.  Uses Jackson under the hood.
+* [spray-json ★ 446 ⧗ 3](https://github.com/spray/spray-json) - Lightweight, clean and efficient JSON implementation in Scala.
+* [jawn ★ 172](https://github.com/non/jawn) - Fast json parser (According to them, competetive with java gson/jackson speed).
+* [sonofjson ★ 17](https://github.com/wspringer/sonofjson) - A Scala library for dealing with JSON in a way that makes it almost feel native. 
+
 
 ## Serialization
 
