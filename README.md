@@ -231,6 +231,8 @@ Projects with over 500 stargazers are in bold.
 
 * [better-files ★ 317 ⧗ 12](https://github.com/pathikrit/better-files) - Simple, safe and intuitive Scala I/O. better-files is a dependency-free pragmatic thin Scala wrapper around Java NIO.
 * **[Cassovary ★ 774 ⧗ 0](https://github.com/twitter/cassovary)** - A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
+* **[cats ★ 717 ⧗ 0](https://github.com/non/cats)** - Lightweight, modular, and
+  extensible library for functional programming.
 * [Each ★ 47 ⧗ 3](https://github.com/ThoughtWorksInc/each) - A macro library that converts native imperative syntax to [Scalaz](https://github.com/scalaz/scalaz)'s monadic expressions.
 * [Lamma ★ 44 ⧗ 3](https://github.com/maxcellent/lamma) - A Scala date library for date and schedule generation.
 * [Log4s](http://www.log4s.org/) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
