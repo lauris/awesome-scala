@@ -62,6 +62,10 @@ Projects with over 500 stargazers are in bold.
 * [Squeryl ★ 452 ⧗ 4](https://github.com/squeryl/squeryl) - A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
 * [Tepkin ★ 79 ⧗ 22](https://github.com/fehmicansaglam/tepkin) - Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
 
+## Messaging
+
+* [Op-Rabbit](https://github.com/SpinGo/op-rabbit) - High-level messaging library for Akka and Op-Rabbit.
+
 ## Graphical User Interfaces
 
 *Libraries for creation of graphical user interfaces*
