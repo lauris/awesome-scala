@@ -14,6 +14,7 @@ Projects with over 500 stargazers are in bold.
     - [Authorization](#authorization)
     - [Testing](#testing)
     - [JSON](#json)
+    - [YAML](#yaml)
     - [Serialization](#serialization)
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Big Data](#big-data)
@@ -140,6 +141,12 @@ Projects with over 500 stargazers are in bold.
 * [scalajack ★ 65 ⧗ 27](https://github.com/gzoller/ScalaJack) - Fast 'n easy JSON serialization with optional MongoDB support.  Uses Jackson under the hood.
 * [sonofjson ★ 17 ⧗ 8](https://github.com/wspringer/sonofjson) - A Scala library for dealing with JSON in a way that makes it almost feel native. 
 * [spray-json ★ 446 ⧗ 3](https://github.com/spray/spray-json) - Lightweight, clean and efficient JSON implementation in Scala.
+
+## YAML
+
+*Libraries for work with YAML.*
+
+* [MoultingYAML ★ 6 ⧗ 29](https://github.com/jcazevedo/moultingyaml) - Type-class based YAML serialization and deserialization on top of SnakeYAML.
 
 ## Serialization
 
