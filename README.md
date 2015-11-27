@@ -345,7 +345,7 @@ Projects with over 500 stargazers are in bold.
 
 *Nice books, blogs and other resources to learn Scala*
 
-* [Scala Exercises](http://scala-exercises.47deg.com/) - None
+* [Scala Exercises](http://scala-exercises.47deg.com/) - Brings the popular Scala Koans to the web. Offering hundreds of solvable exercises organized into 42 categories covering the basics of the Scala language.
 * [Scala in Depth](https://www.manning.com/books/scala-in-depth) - None
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - None
 
