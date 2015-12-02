@@ -108,6 +108,7 @@ Projects with over 500 stargazers are in bold.
 * **[play2-auth ★ 525 ⧗ 4](https://github.com/t2v/play2-auth)** - Play2.x Authentication and Authorization module.
 * [scala-oauth2-provider ★ 268 ⧗ 1](https://github.com/nulab/scala-oauth2-provider) - OAuth 2.0 server-side implementation written in Scala.
 * **[SecureSocial ★ 1142 ⧗ 2](https://github.com/jaliss/securesocial)** - A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
+* [akka-http-session ★ 98 ⧗ 0](https://github.com/softwaremill/akka-http-session) - Web&mobile client-side sessions for akka-http based applications, with optional JWT support
 
 ## Authorization
 
@@ -257,6 +258,7 @@ Projects with over 500 stargazers are in bold.
 * **[Shapeless ★ 1283 ⧗ 0](https://github.com/milessabin/shapeless)** - A type class and dependent type based generic programming library for Scala.
 * [Stateless Future ★ 117 ⧗ 0](https://github.com/qifun/stateless-future) - Asynchronous programming in fully featured Scala syntax.
 * **[Twitter Util ★ 1358 ⧗ 0](https://github.com/twitter/util)** - General-purpose Scala libraries, including a future implementation and other concurrency tools.
+* [Quicklens ★ 137 ⧗ 2](https://github.com/adamw/quicklens) - modify deeply nested case class fields with an elegant API
 
 ## Misc
 
