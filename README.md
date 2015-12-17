@@ -30,8 +30,7 @@ Projects with over 500 stargazers are in bold.
     - [Metrics and Monitoring](#metrics-and-monitoring)
     - [Parsing](#parsing)
     - [Sbt plugins](#sbt-plugins)
-    - [XML / Html](#xml--html)
-    - [Other](#other)
+    - [XML / HTML](#xml--html)
     - [Tools](#tools)
     - [Learning Scala](#learning-scala)
     - [JavaScript](#javascript)
@@ -322,6 +321,7 @@ Projects with over 500 stargazers are in bold.
 * [pttrt ★ 1 ⧗ 187](https://github.com/Atry/pttrt) - A sbt plugin, designed to pass data from compile-time to run-time.
 * [sbt-api-mappings ★ 25 ⧗ 24](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
 * [sbt-buildinfo ★ 172 ⧗ 0](https://github.com/sbt/sbt-buildinfo) - Generates Scala source from build definition.
+* [sbt-classfinder ★ 0 ⧗ 331](https://github.com/ruippeixotog/sbt-classfinder) - Retrieves runtime information about the classes and traits in a project.
 * [sbt-cppp ★ 1 ⧗ 112](https://github.com/Atry/sbt-cppp) - A sbt plugin to support [Protocol Buffers](https://github.com/google/protobuf), especially in multi-project builds.
 * [sbt-dependency-graph ★ 417 ⧗ 0](https://github.com/jrudolph/sbt-dependency-graph) - Create a dependency graph for your project.
 * [sbt-haxe ★ 6 ⧗ 40](https://github.com/qifun/sbt-haxe) - A Sbt plugin to compile Haxe sources.
@@ -340,8 +340,9 @@ Projects with over 500 stargazers are in bold.
 
 ## XML / HTML
 
-*Xml and Html generation and processing*
+*XML and HTML generation and processing*
 
+* [scala-scraper ★ 78 ⧗ 0](https://github.com/ruippeixotog/scala-scraper) - A library for scraping content from HTML pages.
 * [Scalatags ★ 347 ⧗ 5](https://github.com/lihaoyi/scalatags) - Write html as scala code and have your ide syntax check it.
 
 ## Learning Scala
