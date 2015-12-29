@@ -351,7 +351,7 @@ Projects with over 500 stargazers are in bold.
 * [Scala Exercises](http://scala-exercises.47deg.com/) - Brings the popular Scala Koans to the web. Offering hundreds of solvable exercises organized into 42 categories covering the basics of the Scala language.
 * [Scala in Depth](https://www.manning.com/books/scala-in-depth) - None
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - None
-* [Demos and Examples in Scala (Chinese)](https://github.com/jacksu/utils4s) - repo of sample Scala
+* [Demos and Examples in Scala (Chinese)](https://github.com/jacksu/utils4s) - repo of sample Scala library usage, written in Chinese
 
 ## JavaScript
 
