@@ -206,7 +206,7 @@ Projects with over 500 stargazers are in bold.
 
 *Event streams, signals, observables, etc.*
 
-* [Monix ★ 262 ⧗ 9](https://github.com/monix/monix) - Extensions to Scala’s standard library for multi-threading primitives and functional reactive programming. Scala.js compatible.
+* [Monix ★ 262 ⧗ 9](https://github.com/monifu/monix) - Extensions to Scala’s standard library for multi-threading primitives and functional reactive programming. Scala.js compatible.
 * [Reactive Collections ★ 0 ⧗ 6](https://github.com/storm-enroute/reactive-collections) - A library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
 * [RxScala ★ 358 ⧗ 0](https://github.com/ReactiveX/RxScala) - Reactive Extensions for Scala – a library for composing asynchronous and event-based programs using observable sequences
 * [scala.frp ★ 18 ⧗ 100](https://github.com/dylemma/scala.frp) - Functional Reactive Programming for Scala (event streams).
