@@ -140,7 +140,7 @@ Projects with over 500 stargazers are in bold.
 * **[json4s ★ 574 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
 * [play-json](https://github.com/playframework/playframework/tree/master/framework/src/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime.
 * [scalajack ★ 65 ⧗ 27](https://github.com/gzoller/ScalaJack) - Fast 'n easy JSON serialization with optional MongoDB support.  Uses Jackson under the hood.
-* [sonofjson ★ 17 ⧗ 8](https://github.com/wspringer/sonofjson) - A Scala library for dealing with JSON in a way that makes it almost feel native. 
+* [sonofjson ★ 17 ⧗ 8](https://github.com/wspringer/sonofjson) - A Scala library for dealing with JSON in a way that makes it almost feel native.
 * [spray-json ★ 446 ⧗ 3](https://github.com/spray/spray-json) - Lightweight, clean and efficient JSON implementation in Scala.
 
 ## YAML
@@ -206,7 +206,7 @@ Projects with over 500 stargazers are in bold.
 
 *Event streams, signals, observables, etc.*
 
-* [Monifu ★ 262 ⧗ 9](https://github.com/monifu/monifu) - Extensions to Scala’s standard library for multi-threading primitives and functional reactive programming. Scala.js compatible.
+* [Monix ★ 262 ⧗ 9](https://github.com/monix/monix) - Extensions to Scala’s standard library for multi-threading primitives and functional reactive programming. Scala.js compatible.
 * [Reactive Collections ★ 0 ⧗ 6](https://github.com/storm-enroute/reactive-collections) - A library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
 * [RxScala ★ 358 ⧗ 0](https://github.com/ReactiveX/RxScala) - Reactive Extensions for Scala – a library for composing asynchronous and event-based programs using observable sequences
 * [scala.frp ★ 18 ⧗ 100](https://github.com/dylemma/scala.frp) - Functional Reactive Programming for Scala (event streams).
