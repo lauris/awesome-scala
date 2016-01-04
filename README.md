@@ -12,6 +12,7 @@ Projects with over 500 stargazers are in bold.
     - [i18n](#i18n)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
+    - [Cryptography](#cryptography)
     - [Testing](#testing)
     - [JSON](#json)
     - [YAML](#yaml)
@@ -114,6 +115,12 @@ Projects with over 500 stargazers are in bold.
 *Libraries for implementing authorization strategies.*
 
 * [deadbolt-2 ★ 370 ⧗ 6](https://github.com/schaloner/deadbolt-2) - A Play 2.x module supporting role-based and proprietary authorization; idiomatic APIs for Scala and Java APIs are provided.
+
+## Cryptography
+
+*Cryptography and Encryption Libraries.*
+
+* [Scrypto](https://github.com/ScorexProject/scrypto) - All-purpose cryptographic framework.
 
 ## Testing
 
