@@ -55,7 +55,7 @@ Projects with over 500 stargazers are in bold.
 * **[ReactiveMongo ★ 615 ⧗ 1](https://github.com/ReactiveMongo/ReactiveMongo)** - Reactive Scala Driver for MongoDB.
 * [ReactiveNeo ★ 41 ⧗ 6](https://github.com/websudos/reactiveneo) - Reactive type-safe Scala driver for Neo4J.
 * [rediscala ★ 465 ⧗ 1](https://github.com/etaty/rediscala) - Non-blocking, Reactive Redis driver for Scala (with Sentinel support)
-* **[scala-redis ★ 581 ⧗ 0](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server with clustering support
+* **[scala-redis ★ 581 ⧗ 0](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
 * [scredis ★ 135 ⧗ 0](https://github.com/Livestream/scredis) - Non-blocking Redis client built on top of Akka IO (used by Livestream)
 * [Relate ★ 82 ⧗ 15](https://github.com/lucidsoftware/relate) - Lightweight, blazing-fast database access layer for Scala that abstracts the idiosyncricies of the JDBC while keeping complete control over the SQL.
 * [Salat ★ 457 ⧗ 18](https://github.com/salat/salat/) - ORM for MongoDB. A related Play-plugin is also available.
