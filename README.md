@@ -9,6 +9,7 @@ Projects with over 500 stargazers are in bold.
     - [Database](#database)
     - [Graphical User Interfaces](#graphical-user-interfaces)
     - [Web Frameworks](#web-frameworks)
+    - [Reactive Web Frameworks](#reactive-web-frameworks)
     - [i18n](#i18n)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
@@ -93,6 +94,13 @@ Projects with over 500 stargazers are in bold.
 * **[Spray ★ 2138 ⧗ 0](https://github.com/spray/spray)** - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
 * **[Unfiltered ★ 613 ⧗ 0](https://github.com/unfiltered/unfiltered)** - A modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
 * [Xitrum](http://xitrum-framework.github.io/) - An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
+
+## Reactive Web Frameworks
+
+*Scala libraries for Reactive Web development*
+
+* [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) - A reactive web framework. It enables you use native XML literal syntax to create reactive DOM nodes, which are able to automatically change whenever the data source changes.
+* [Widok](https://widok.github.io/) - Reactive web framework for the JVM and Scala.js
 
 ## i18n
 
