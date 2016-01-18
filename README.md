@@ -225,7 +225,7 @@ Projects with over 500 stargazers are in bold.
 *Event streams, signals, observables, etc.*
 
 * [Monix ★ 262 ⧗ 9](https://github.com/monifu/monix) - Extensions to Scala’s standard library for multi-threading primitives and functional reactive programming. Scala.js compatible.
-* [Reactive Collections ★ 0 ⧗ 6](https://github.com/storm-enroute/reactive-collections) - A library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
+* [Reactive Collections ★ 0 ⧗ 6](https://github.com/storm-enroute/reactors) - A library that incorporates event streams and signals with specialized collections called reactive containers, and expresses concurrency using isolates and channels.
 * [RxScala ★ 358 ⧗ 0](https://github.com/ReactiveX/RxScala) - Reactive Extensions for Scala – a library for composing asynchronous and event-based programs using observable sequences
 * [scala.frp ★ 18 ⧗ 100](https://github.com/dylemma/scala.frp) - Functional Reactive Programming for Scala (event streams).
 * **[Scala.Rx ★ 567 ⧗ 1](https://github.com/lihaoyi/scala.rx)** - An experimental library for Functional Reactive Programming in Scala (reactive variables). Scala.js compatible.
@@ -294,7 +294,7 @@ Projects with over 500 stargazers are in bold.
 
 * [Android SDK Plugin for SBT ★ 398 ⧗ 1](https://github.com/pfn/android-sdk-plugin) - An sbt plugin that adds tasks for developing Android applications.
 * [Gradle Android Scala Plugin ★ 236 ⧗ 2](https://github.com/saturday06/gradle-android-scala-plugin) - A gradle plugin that allows you to use Scala with Android
-* [Macroid ★ 332 ⧗ 1](https://github.com/macroid/macroid) - A modular functional UI language for Android.
+* [Macroid ★ 332 ⧗ 1](https://github.com/47deg/macroid) - A modular functional UI language for Android.
 * **[Scaloid ★ 1819 ⧗ 1](https://github.com/pocorall/scaloid)** - Less painful Android development with Scala.
 
 ## HTTP
@@ -390,7 +390,7 @@ Projects with over 500 stargazers are in bold.
 * [Scalariform ★ 108 ⧗ 8](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
 * [Scalastyle ★ 325 ⧗ 0](https://github.com/scalastyle/scalastyle) - Scala style checker.
 * [Scalatex ★ 166 ⧗ 0](https://github.com/lihaoyi/Scalatex) - Programmable, Typesafe Document Generation
-* [Scapegoat ★ 109 ⧗ 0](https://github.com/sksamuel/scalac-scapegoat-plugin) - Scala compiler plugin for static code analysis
+* [Scapegoat ★ 109 ⧗ 0](https://github.com/sksamuel/scapegoat) - Scala compiler plugin for static code analysis
 * [Scaps](http://scala-search.org/) ([repo](https://github.com/scala-search/scaps)) - A search engine for Scala libraries
 * [Scoverage](https://github.com/scoverage) - Scala Code Coverage tool
 * [Wartremover ★ 403 ⧗ 0](https://github.com/puffnfresh/wartremover) - Wartremover a flexible Scala code linting tool
