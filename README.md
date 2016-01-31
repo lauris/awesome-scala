@@ -155,6 +155,7 @@ Projects with over 500 stargazers are in bold.
 * [jackson-module-scala ★ 235 ⧗ 3](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
 * [jawn ★ 172 ⧗ 7](https://github.com/non/jawn) - Fast json parser (According to them, competetive with java gson/jackson speed).
 * **[json4s ★ 574 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
+* [persist-json](https://github.com/nestorpersist/json) - Fast json parser.
 * [play-json](https://github.com/playframework/playframework/tree/master/framework/src/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime.
 * [scalajack ★ 65 ⧗ 27](https://github.com/gzoller/ScalaJack) - Fast 'n easy JSON serialization with optional MongoDB support.  Uses Jackson under the hood.
 * [sonofjson ★ 17 ⧗ 8](https://github.com/wspringer/sonofjson) - A Scala library for dealing with JSON in a way that makes it almost feel native.
@@ -197,6 +198,7 @@ Projects with over 500 stargazers are in bold.
 * [Saddle ★ 349 ⧗ 0](https://github.com/saddle/saddle) - A minimalist port of Pandas to Scala
 * **[Spire ★ 832 ⧗ 1](https://github.com/non/spire)** - Powerful new number types and numeric abstractions for Scala.
 * [Squants ★ 223 ⧗ 0](https://github.com/garyKeorkunian/squants) - The Scala API for Quantities, Units of Measure and Dimensional Analysis.
+* [Persist-Units](https://github.com/nestorpersist/units) - Type check units of measure in Scala.
 * [Zeppelin](http://zeppelin-project.org/) - Scala and Spark Notebook (like IPython Notebook)
 
 ## Big Data
@@ -264,6 +266,7 @@ Projects with over 500 stargazers are in bold.
 * [Lamma ★ 47 ⧗ 2](https://github.com/maxcellent/lamma) - A Scala date library for date and schedule generation.
 * [Log4s](http://www.log4s.org/) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
 * [Monocle ★ 467 ⧗ 0](https://github.com/julien-truffaut/Monocle) - An Optics/Lens library for purely functional manipulation of immutable objects.
+* [Persist-Logging](https://github.com/nestorpersist/logging) - Comprehensive logging library for Scala.
 * [Rapture](http://rapture.io/) ([repo](https://github.com/propensive/rapture)) - a collection of libraries for common, everyday programming tasks (I/O, JSON, i18n, etc.)
 * [refined ★ 169 ⧗ 0](https://github.com/fthomas/refined) - Simple refinement types with compile- and runtime checking
 * [Resolvable ★ 26 ⧗ 1](https://github.com/resolvable/resolvable) - A library to optimize fetching immutable data structures from several endpoints in several formats.
@@ -351,6 +354,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-robovm ★ 100 ⧗ 0](https://github.com/roboscala/sbt-robovm) - An sbt plugin for iOS development in Scala
 * [sbt-sublime ★ 122 ⧗ 15](https://github.com/orrsella/sbt-sublime) - Create Sublime Text projects with library dependencies sources
 * [sbt-updates ★ 217 ⧗ 0](https://github.com/rtimush/sbt-updates) - Shows sbt project's dependency updates.
+* [sbt-view](https://github.com/nestorpersist/sbt-view) - View ScalaDoc/JavaDoc in browser window.
 * [sbt-versions ★ 8 ⧗ 113](https://github.com/sksamuel/sbt-versions) - Plugin that checks for updated versions of your project's dependencies.
 * **[sbteclipse ★ 514 ⧗ 1](https://github.com/typesafehub/sbteclipse)** - Create Eclipse project definitions from sbt builds.
 * [ScalaKata2 ★ 11 ⧗ 0](https://github.com/MasseGuillaume/ScalaKata2) - Scala playground & Documentation tool.
