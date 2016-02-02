@@ -258,6 +258,7 @@ Projects with over 500 stargazers are in bold.
 *Scala extensions.*
 
 * [better-files ★ 349 ⧗ 0](https://github.com/pathikrit/better-files) - Simple, safe and intuitive Scala I/O. better-files is a dependency-free pragmatic thin Scala wrapper around Java NIO.
+* [Ammonite-Ops](http://lihaoyi.github.io/Ammonite/#Ammonite-Ops) - Safe, easy, filesystem operations in Scala as convenient as in the Bash shell.
 * **[Cassovary ★ 786 ⧗ 3](https://github.com/twitter/cassovary)** - A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
 * **[cats ★ 717 ⧗ 0](https://github.com/non/cats)** - Lightweight, modular, and extensible library for functional programming.
 * [Each ★ 51 ⧗ 1](https://github.com/ThoughtWorksInc/each) - A macro library that converts native imperative syntax to [Scalaz](https://github.com/scalaz/scalaz)'s monadic expressions.
@@ -281,7 +282,7 @@ Projects with over 500 stargazers are in bold.
 
 *Projects that don't fit into any specific category.*
 
-* [Ammonite](http://lihaoyi.github.io/Ammonite/) - Ammonite is a collection of Scala libraries intended to improve the experience of using Scala as an system shell.
+* [Ammonite-REPL](http://lihaoyi.github.io/Ammonite/#Ammonite-REPL) - An improved Scala REPL: syntax highlighting, output formatting, multi-line input, and more.
 * [REPLesent ★ 177 ⧗ 0](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-ssh ★ 145 ⧗ 0](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
 * [Scalan ★ 43 ⧗ 2](https://github.com/scalan/scalan) - A framework for development of domain-specific compilers in Scala
