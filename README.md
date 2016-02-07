@@ -372,6 +372,7 @@ Projects with over 500 stargazers are in bold.
 * [Scala in Depth](https://www.manning.com/books/scala-in-depth) - None
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - None
 * [Demos and Examples in Scala (Chinese)](https://github.com/jacksu/utils4s) - repo of sample Scala library usage, written in Chinese
+* [Scala school](https://twitter.github.io/scala_school/) - Scala school started as a series of lectures at Twitter to prepare experienced engineers to be productive Scala programmers.
 
 ## JavaScript
 
