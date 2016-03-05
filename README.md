@@ -291,6 +291,7 @@ Projects with over 500 stargazers are in bold.
 * [Scalan ★ 43 ⧗ 2](https://github.com/scalan/scalan) - A framework for development of domain-specific compilers in Scala
 * [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
 * [Miniboxing ★ 73 ⧗ 0](https://github.com/miniboxing/miniboxing-plugin)- A Scala compiler plugin that improves program performance -- [see the project web site](http://scala-miniboxing.org).
+* [Openquant](https://github.com/openquant) - A Scala open source quantitative trading platform
 
 ## Android
 
