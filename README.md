@@ -215,7 +215,7 @@ Projects with over 500 stargazers are in bold.
 * [Spark](http://spark.apache.org/) - Lightning fast cluster computing — up to 100x faster than Hadoop for iterative algorithms (memory caching) and up to 10x faster than Hadoop for single-pass MapReduce jobs. Compatible with YARN-enabled Hadoop clusters, can run on Mesos and in stand-alone mode as well.
 * [Sparkta ★ 137 ⧗ 1](https://github.com/Stratio/sparkta) - Real Time Aggregation based on Spark Streaming.
 * **[Summingbird ★ 1600 ⧗ 1](https://github.com/twitter/summingbird)** - An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
-* [spark-deployer](https://github.com/KKBOX/spark-deployer) - A Scala tool which helps deploying Apache Spark stand-alone cluster and submitting job on cloud system like AWS EC2.
+* [spark-deployer](https://github.com/KKBOX/spark-deployer) - A sbt plugin which helps deploying Apache Spark stand-alone cluster and submitting job on cloud system like AWS EC2.
 
 ## Image processing and image analysis
 
