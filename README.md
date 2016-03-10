@@ -51,7 +51,7 @@ Projects with over 500 stargazers are in bold.
 * [Morpheus ★ 6 ⧗ 39](https://github.com/websudos/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
 * [Phantom ★ 335 ⧗ 0](https://github.com/websudos/phantom) - Reactive type safe Scala driver for Apache Cassandra.
 * **[PostgreSQL and MySQL async ★ 709 ⧗ 1](https://github.com/mauricio/postgresql-async)** - Async database drivers to talk to PostgreSQL and MySQL in Scala.
-* [Quill](http://getquill.io) - Compile-time Language Integrated Query for Scala
+* [Quill ★ 405 ⧗ 0](https://github.com/getquill/quill) - Compile-time Language Integrated Query for Scala
 * [ReactiveCouchbase](http://reactivecouchbase.org/) - Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
 * **[ReactiveMongo ★ 615 ⧗ 1](https://github.com/ReactiveMongo/ReactiveMongo)** - Reactive Scala Driver for MongoDB.
 * [ReactiveNeo ★ 41 ⧗ 6](https://github.com/websudos/reactiveneo) - Reactive type-safe Scala driver for Neo4J.
@@ -81,6 +81,7 @@ Projects with over 500 stargazers are in bold.
 
 *Scala frameworks for web development.*
 
+* [Analogweb](http://analogweb.org/) - Tiny, simple, and pluggable web framework in Scala.
 * [Chaos ★ 170 ⧗ 1](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 * [Colossus](http://tumblr.github.io/colossus/) - lightweight framework for building high-performance applications in Scala that require non-blocking network I/O.
 * **[Finatra ★ 999 ⧗ 1](https://github.com/twitter/finatra)** - A sinatra-inspired web framework for scala, running on top of Finagle.
@@ -94,7 +95,6 @@ Projects with over 500 stargazers are in bold.
 * **[Spray ★ 2138 ⧗ 0](https://github.com/spray/spray)** - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
 * **[Unfiltered ★ 613 ⧗ 0](https://github.com/unfiltered/unfiltered)** - A modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
 * [Xitrum](http://xitrum-framework.github.io/) - An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
-* [Analogweb](http://analogweb.org/) - Tiny, simple, and pluggable web framework in Scala.
 
 ## Reactive Web Frameworks
 
@@ -213,9 +213,9 @@ Projects with over 500 stargazers are in bold.
 * [Scrunch](http://crunch.apache.org/scrunch.html) - A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) which provides a framework for writing, testing, and running MapReduce pipelines.
 * [Shadoop ★ 8 ⧗ 79](https://github.com/adamretter/shadoop) - A Scala DSL for Hadoop MapReduce.
 * [Spark](http://spark.apache.org/) - Lightning fast cluster computing — up to 100x faster than Hadoop for iterative algorithms (memory caching) and up to 10x faster than Hadoop for single-pass MapReduce jobs. Compatible with YARN-enabled Hadoop clusters, can run on Mesos and in stand-alone mode as well.
+* [spark-deployer ★ 38 ⧗ 0](https://github.com/KKBOX/spark-deployer) - A sbt plugin which helps deploying Apache Spark stand-alone cluster and submitting job on cloud system like AWS EC2.
 * [Sparkta ★ 137 ⧗ 1](https://github.com/Stratio/sparkta) - Real Time Aggregation based on Spark Streaming.
 * **[Summingbird ★ 1600 ⧗ 1](https://github.com/twitter/summingbird)** - An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
-* [spark-deployer](https://github.com/KKBOX/spark-deployer) - A sbt plugin which helps deploying Apache Spark stand-alone cluster and submitting job on cloud system like AWS EC2.
 
 ## Image processing and image analysis
 
