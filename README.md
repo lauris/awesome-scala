@@ -198,6 +198,7 @@ Projects with over 500 stargazers are in bold.
 * [Persist-Units ★ 4 ⧗ 1](https://github.com/nestorpersist/units) - Type check units of measure in Scala.
 * **[PredictionIO ★ 8054 ⧗ 0](https://github.com/PredictionIO/PredictionIO)** - machine learning server for developers and data scientists. Built on Apache Spark, HBase and Spray
 * [Saddle ★ 349 ⧗ 0](https://github.com/saddle/saddle) - A minimalist port of Pandas to Scala
+* [Smile](http://haifengl.github.io/smile/) - Statistical Machine Intelligence and Learning Engine. Smile is a fast and comprehensive machine learning system.
 * **[Spire ★ 832 ⧗ 1](https://github.com/non/spire)** - Powerful new number types and numeric abstractions for Scala.
 * [Squants ★ 223 ⧗ 0](https://github.com/garyKeorkunian/squants) - The Scala API for Quantities, Units of Measure and Dimensional Analysis.
 * [Zeppelin](http://zeppelin-project.org/) - Scala and Spark Notebook (like IPython Notebook)
