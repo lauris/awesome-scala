@@ -208,6 +208,7 @@ Projects with over 500 stargazers are in bold.
 * [BIDMach ★ 458 ⧗ 0](https://github.com/BIDData/BIDMach) - CPU and GPU machine learning library, using JNI for GPU computation.
 * [Gearpump ★ 354 ⧗ 1](https://github.com/gearpump/gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 8 ⧗ 91](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
+* [Kafka](https://github.com/apache/kafka) - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
 * **[Scalding ★ 2336 ⧗ 0](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Scoobi ★ 475 ⧗ 2](https://github.com/nicta/scoobi) - Write type-safe Hadoop programs in idiomatic Scala way
 * [Scoozie ★ 54 ⧗ 14](https://github.com/klout/scoozie) - Scala DSL on top of Oozie XML
