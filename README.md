@@ -370,6 +370,7 @@ Projects with over 500 stargazers are in bold.
 * [ScalaKata2 ★ 11 ⧗ 0](https://github.com/MasseGuillaume/ScalaKata2) - Scala playground & Documentation tool.
 * [tut ★ 152 ⧗ 3](https://github.com/tpolecat/tut) - Tool for writing documentation with typechecked examples.
 * [xsbt-web-plugin ★ 299 ⧗ 2](https://github.com/earldouglas/xsbt-web-plugin) - Build enterprise J2EE Web applications in Scala.
+* [sbt-groll ★ 69 ⧗ 4](https://github.com/sbt/sbt-groll) - sbt plugin to roll the Git history.
 
 ## XML / HTML
 
