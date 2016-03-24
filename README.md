@@ -226,6 +226,10 @@ Projects with over 500 stargazers are in bold.
 * [scalismo ★ 15 ⧗ 21](https://github.com/unibas-gravis/scalismo) - Shape modelling and  model-based image analysis.
 * [scrimage ★ 303 ⧗ 21](https://github.com/sksamuel/scrimage) - Image io, resize, manipulation and thumbnails.
 
+## Sound processing and music
+
+* [ScalaCollider](https://github.com/Sciss/ScalaCollider) - Sound synthesis and signal processing client for SuperCollider.
+
 ## Functional Reactive Programming
 
 *Event streams, signals, observables, etc.*
