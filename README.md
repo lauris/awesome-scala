@@ -57,6 +57,7 @@ Projects with over 500 stargazers are in bold.
 * [ReactiveNeo ★ 41 ⧗ 6](https://github.com/websudos/reactiveneo) - Reactive type-safe Scala driver for Neo4J.
 * [rediscala ★ 465 ⧗ 1](https://github.com/etaty/rediscala) - Non-blocking, Reactive Redis driver for Scala (with Sentinel support)
 * [Relate ★ 82 ⧗ 15](https://github.com/lucidsoftware/relate) - Lightweight, blazing-fast database access layer for Scala that abstracts the idiosyncricies of the JDBC while keeping complete control over the SQL.
+* [rethink-scala ★ 85 ⧗ 52 ](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB
 * [Salat ★ 457 ⧗ 18](https://github.com/salat/salat/) - ORM for MongoDB. A related Play-plugin is also available.
 * [Scala ActiveRecord ★ 244 ⧗ 2](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
 * **[scala-redis ★ 581 ⧗ 0](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
