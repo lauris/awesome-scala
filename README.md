@@ -302,6 +302,7 @@ Projects with over 500 stargazers are in bold.
 * [scala-ssh ★ 164 ⧗ 2](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
 * [Scalan ★ 58 ⧗ 10](https://github.com/scalan/scalan) - A framework for development of domain-specific compilers in Scala
 * [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
+* [YahooFinanceScala ★ 3 ⧗ 2](https://github.com/openquant/YahooFinanceScala) - Get stock data from Yahoo Finance using Akka http.
 
 ## Android
 
