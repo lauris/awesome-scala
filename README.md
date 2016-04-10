@@ -302,6 +302,7 @@ Projects with over 500 stargazers are in bold.
 * [scala-ssh ★ 164 ⧗ 2](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
 * [Scalan ★ 58 ⧗ 10](https://github.com/scalan/scalan) - A framework for development of domain-specific compilers in Scala
 * [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
+* [YahooFinanceScala ★ 3 ⧗ 2](https://github.com/openquant/YahooFinanceScala) - Get stock data from Yahoo Finance using Akka http.
 
 ## Android
 
@@ -386,6 +387,7 @@ Projects with over 500 stargazers are in bold.
 *Nice books, blogs and other resources to learn Scala*
 
 * [Demos and Examples in Scala (Chinese) ★ 112 ⧗ 3](https://github.com/jacksu/utils4s) - repo of sample Scala library usage, written in Chinese
+* [Deploying Scala libraries to Sonatype for dummies ★ 0 ⧗ 0](https://github.com/larroy/deployingScalaLibrariesToSonatype) - None
 * [Scala Exercises](http://scala-exercises.47deg.com/) - Brings the popular Scala Koans to the web. Offering hundreds of solvable exercises organized into 42 categories covering the basics of the Scala language.
 * [Scala in Depth](https://www.manning.com/books/scala-in-depth) - None
 * [Scala school](https://twitter.github.io/scala_school/) - Scala school started as a series of lectures at Twitter to prepare experienced engineers to be productive Scala programmers.
