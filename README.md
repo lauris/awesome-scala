@@ -248,6 +248,7 @@ Projects with over 500 stargazers are in bold.
 
 *Modularization of applications, dependency injection, etc.*
 
+* [Cableguy] (https://github.com/akozhemiakin/cableguy) - Macro based compile time Dependency Injection library.
 * [Domino ★ 2 ⧗ 87](https://github.com/helgoboss/domino) - Write elegant OSGi bundle activators in Scala.
 * [MacWire ★ 466 ⧗ 0](https://github.com/adamw/macwire) - Scala Macro to generate wiring code for class instantiation. DI container replacement.
 * [Scala-Guice ★ 146 ⧗ 0](https://github.com/codingwell/scala-guice) - Scala extensions for Google Guice
