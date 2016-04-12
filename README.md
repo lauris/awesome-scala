@@ -411,6 +411,7 @@ Projects with over 500 stargazers are in bold.
 * [Scalariform ★ 122 ⧗ 22](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
 * [Scalastyle ★ 361 ⧗ 0](https://github.com/scalastyle/scalastyle) - Scala style checker.
 * [Scalatex ★ 184 ⧗ 4](https://github.com/lihaoyi/Scalatex) - Programmable, Typesafe Document Generation
+* [scala-trace-debug ★ 17 ⧗ 0](https://github.com/JohnReedLOL/scala-trace-debug) - Multithreaded print debug tool
 * [Scapegoat ★ 133 ⧗ 4](https://github.com/sksamuel/scapegoat) - Scala compiler plugin for static code analysis
 * [Scaps](http://scala-search.org/) ([repo](https://github.com/scala-search/scaps)) - A search engine for Scala libraries
 * [Scoverage](https://github.com/scoverage) - Scala Code Coverage tool
