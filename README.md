@@ -367,6 +367,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-pack ★ 237 ⧗ 0](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
 * [sbt-revolver ★ 420 ⧗ 1](https://github.com/spray/sbt-revolver) - Fork & Stop processes from sbt.
 * [sbt-robovm ★ 107 ⧗ 23](https://github.com/roboscala/sbt-robovm) - An sbt plugin for iOS development in Scala
+* [sbt-scala-js-map](https://github.com/ThoughtWorksInc/sbt-scala-js-map) - A sbt plugin that configures source mapping for Scala.js projects hosted on Github
 * [sbt-sublime ★ 129 ⧗ 36](https://github.com/orrsella/sbt-sublime) - Create Sublime Text projects with library dependencies sources
 * [sbt-updates ★ 248 ⧗ 0](https://github.com/rtimush/sbt-updates) - Shows sbt project's dependency updates.
 * [sbt-versions ★ 11 ⧗ 122](https://github.com/sksamuel/sbt-versions) - Plugin that checks for updated versions of your project's dependencies.
