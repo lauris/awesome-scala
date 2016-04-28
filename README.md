@@ -266,6 +266,7 @@ Projects with over 500 stargazers are in bold.
 * [CurioDB ★ 408 ⧗ 1](https://github.com/stephenmcd/curiodb) - Distributed & Persistent Redis Clone built with Scala & Akka.
 * [Finagle](https://twitter.github.io/finagle/) - An extensible, protocol-agnostic RPC system designed for high performance and concurrency.
 * [Glokka ★ 44 ⧗ 25](https://github.com/xitrum-framework/glokka) - Library to register and lookup actors by names in an Akka cluster.
+* [Lagom](https://www.lightbend.com/lagom) - Framework for creating microservice-based systems.
 
 ## Extensions
 
