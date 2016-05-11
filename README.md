@@ -51,7 +51,7 @@ Projects with over 500 stargazers are in bold.
 * [Morpheus ★ 12 ⧗ 2](https://github.com/websudos/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
 * [Phantom ★ 406 ⧗ 0](https://github.com/websudos/phantom) - Reactive type safe Scala driver for Apache Cassandra.
 * **[PostgreSQL and MySQL async ★ 787 ⧗ 0](https://github.com/mauricio/postgresql-async)** - Async database drivers to talk to PostgreSQL and MySQL in Scala.
-* [Quill ★ 471 ⧗ 0](https://github.com/getquill/quill) - Compile-time Language Integrated Query for Scala
+* **[Quill ★ 501 ⧗ 0](https://github.com/getquill/quill)** - Compile-time Language Integrated Query for Scala
 * [ReactiveCouchbase](http://reactivecouchbase.org/) - Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
 * **[ReactiveMongo ★ 643 ⧗ 0](https://github.com/ReactiveMongo/ReactiveMongo)** - Reactive Scala Driver for MongoDB.
 * [ReactiveNeo ★ 45 ⧗ 7](https://github.com/websudos/reactiveneo) - Reactive type-safe Scala driver for Neo4J.
@@ -159,10 +159,10 @@ Projects with over 500 stargazers are in bold.
 * **[json4s ★ 654 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
 * [persist-json ★ 7 ⧗ 60](https://github.com/nestorpersist/json) - Fast json parser.
 * [play-json](https://github.com/playframework/playframework/tree/master/framework/src/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime.
+* [qbproject ★ 10 ⧗ 7](https://github.com/qb-project/qbproject) - Scala Libs around JSON and API developement for Play Framework.
 * [scalajack ★ 73 ⧗ 5](https://github.com/gzoller/ScalaJack) - Fast 'n easy JSON serialization with optional MongoDB support.  Uses Jackson under the hood.
 * [sonofjson ★ 19 ⧗ 110](https://github.com/wspringer/sonofjson) - A Scala library for dealing with JSON in a way that makes it almost feel native.
 * [spray-json ★ 494 ⧗ 0](https://github.com/spray/spray-json) - Lightweight, clean and efficient JSON implementation in Scala.
-* [qbproject](https://github.com/qb-project/qbproject) - Scala Libs around JSON and API developement for Play Framework.
 
 ## YAML
 
@@ -249,7 +249,7 @@ Projects with over 500 stargazers are in bold.
 
 *Modularization of applications, dependency injection, etc.*
 
-* [Cableguy] (https://github.com/akozhemiakin/cableguy) - Macro based compile time Dependency Injection library.
+* [Cableguy ★ 0 ⧗ 23](https://github.com/akozhemiakin/cableguy) - Macro based compile time Dependency Injection library.
 * [Domino ★ 2 ⧗ 87](https://github.com/helgoboss/domino) - Write elegant OSGi bundle activators in Scala.
 * [MacWire ★ 466 ⧗ 0](https://github.com/adamw/macwire) - Scala Macro to generate wiring code for class instantiation. DI container replacement.
 * [Scala-Guice ★ 146 ⧗ 0](https://github.com/codingwell/scala-guice) - Scala extensions for Google Guice
@@ -277,7 +277,7 @@ Projects with over 500 stargazers are in bold.
 * **[Cassovary ★ 808 ⧗ 3](https://github.com/twitter/cassovary)** - A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
 * **[cats ★ 971 ⧗ 0](https://github.com/non/cats)** - Lightweight, modular, and extensible library for functional programming.
 * [Each ★ 72 ⧗ 7](https://github.com/ThoughtWorksInc/each) - A macro library that converts native imperative syntax to [Scalaz](https://github.com/scalaz/scalaz)'s monadic expressions.
-* [enableIf.scala](https://github.com/ThoughtWorksInc/enableIf.scala) - A library that switches Scala code at compile-time, like `#if` in C/C++.
+* [enableIf.scala ★ 24 ⧗ 6](https://github.com/ThoughtWorksInc/enableIf.scala) - A library that switches Scala code at compile-time, like `#if` in C/C++.
 * [Lamma ★ 51 ⧗ 3](https://github.com/maxcellent/lamma) - A Scala date library for date and schedule generation.
 * [Log4s](http://www.log4s.org/) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
 * **[Monocle ★ 547 ⧗ 0](https://github.com/julien-truffaut/Monocle)** - An Optics/Lens library for purely functional manipulation of immutable objects.
@@ -370,7 +370,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-pack ★ 237 ⧗ 0](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
 * [sbt-revolver ★ 420 ⧗ 1](https://github.com/spray/sbt-revolver) - Fork & Stop processes from sbt.
 * [sbt-robovm ★ 107 ⧗ 23](https://github.com/roboscala/sbt-robovm) - An sbt plugin for iOS development in Scala
-* [sbt-scala-js-map](https://github.com/ThoughtWorksInc/sbt-scala-js-map) - A sbt plugin that configures source mapping for Scala.js projects hosted on Github
+* [sbt-scala-js-map ★ 7 ⧗ 18](https://github.com/ThoughtWorksInc/sbt-scala-js-map) - A sbt plugin that configures source mapping for Scala.js projects hosted on Github
 * [sbt-sublime ★ 129 ⧗ 36](https://github.com/orrsella/sbt-sublime) - Create Sublime Text projects with library dependencies sources
 * [sbt-updates ★ 248 ⧗ 0](https://github.com/rtimush/sbt-updates) - Shows sbt project's dependency updates.
 * [sbt-versions ★ 11 ⧗ 122](https://github.com/sksamuel/sbt-versions) - Plugin that checks for updated versions of your project's dependencies.
@@ -411,13 +411,13 @@ Projects with over 500 stargazers are in bold.
 
 * [Abide ★ 209 ⧗ 7](https://github.com/scala/scala-abide) - Library for quick scala code checking and validation
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
-* [Fastring](https://github.com/Atry/fastring) - Extremely fast string formatting
+* [Fastring ★ 73 ⧗ 4](https://github.com/Atry/fastring) - Extremely fast string formatting
 * **[Gitbucket ★ 5478 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [sbt](http://www.scala-sbt.org/) ([repo](https://github.com/sbt/sbt)) - The interactive build tool for Scala
+* [scala-trace-debug ★ 17 ⧗ 0](https://github.com/JohnReedLOL/scala-trace-debug) - Multithreaded print debug tool
 * [Scalariform ★ 122 ⧗ 22](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
 * [Scalastyle ★ 361 ⧗ 0](https://github.com/scalastyle/scalastyle) - Scala style checker.
 * [Scalatex ★ 184 ⧗ 4](https://github.com/lihaoyi/Scalatex) - Programmable, Typesafe Document Generation
-* [scala-trace-debug ★ 17 ⧗ 0](https://github.com/JohnReedLOL/scala-trace-debug) - Multithreaded print debug tool
 * [Scapegoat ★ 133 ⧗ 4](https://github.com/sksamuel/scapegoat) - Scala compiler plugin for static code analysis
 * [Scaps](http://scala-search.org/) ([repo](https://github.com/scala-search/scaps)) - A search engine for Scala libraries
 * [Scoverage](https://github.com/scoverage) - Scala Code Coverage tool
