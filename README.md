@@ -196,6 +196,7 @@ Projects with over 500 stargazers are in bold.
 * [Figaro ★ 289 ⧗ 0](https://github.com/p2t2/figaro) - Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
 * [MGO ★ 12 ⧗ 85](https://github.com/openmole/mgo) - Modular multi-objective evolutionary algorithm optimization library enforcing immutability.
 * [MLLib](https://spark.apache.org/mllib/) - Machine Learning framework for Spark
+* [ND4S](https://github.com/deeplearning4j/nd4s) - N-Dimensional arrays and linear algebra for Scala with an API similar to Numpy.  ND4S is a scala wrapper around [ND4J](http://nd4j.org/).
 * [OpenMOLE ★ 11 ⧗ 137](https://github.com/ISCPIF/openmole) - OpenMOLE (Open MOdeL Experiment) is a workflow engine designed to leverage the computing power of distributed execution environments for naturally parallel processes.
 * [OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home) - a Scala toolkit for solving Operations Research problems
 * [Persist-Units ★ 6 ⧗ 29](https://github.com/nestorpersist/units) - Type check units of measure in Scala.
