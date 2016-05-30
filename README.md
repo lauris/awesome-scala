@@ -423,7 +423,7 @@ Projects with over 500 stargazers are in bold.
 * [Fastring ★ 73 ⧗ 4](https://github.com/Atry/fastring) - Extremely fast string formatting
 * **[Gitbucket ★ 5478 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [sbt](http://www.scala-sbt.org/) ([repo](https://github.com/sbt/sbt)) - The interactive build tool for Scala
-* [scala-trace-debug ★ 17 ⧗ 0](https://github.com/JohnReedLOL/scala-trace-debug) - Multithreaded print debug tool
+* [scala-trace-debug ★ 39 ⧗ 0](https://github.com/JohnReedLOL/scala-trace-debug) - Multithreaded print debug tool
 * [Scalariform ★ 122 ⧗ 22](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
 * [Scalastyle ★ 361 ⧗ 0](https://github.com/scalastyle/scalastyle) - Scala style checker.
 * [Scalatex ★ 184 ⧗ 4](https://github.com/lihaoyi/Scalatex) - Programmable, Typesafe Document Generation
