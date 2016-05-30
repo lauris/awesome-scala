@@ -104,6 +104,7 @@ Projects with over 500 stargazers are in bold.
 *Scala libraries for Reactive Web development*
 
 * [Binding.scala ★ 79 ⧗ 0](https://github.com/ThoughtWorksInc/Binding.scala) - A reactive web framework. It enables you use native XML literal syntax to create reactive DOM nodes, which are able to automatically change whenever the data source changes.
+* [Udash](http://udash.io/) - a web framework based on Scala.js with support for property bindings, frontend routing, i18n and much more. It also provides strongly typed client<->server RPC system based on WebSockets. 
 * [Widok](https://widok.github.io/) - Reactive web framework for the JVM and Scala.js
 
 ## i18n
