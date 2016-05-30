@@ -63,6 +63,7 @@ Projects with over 500 stargazers are in bold.
 * [Scala ActiveRecord ★ 263 ⧗ 0](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
 * **[scala-redis ★ 623 ⧗ 3](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
 * **[ScalikeJDBC ★ 583 ⧗ 0](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
+* [scala-sql](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
 * [scredis ★ 141 ⧗ 0](https://github.com/Livestream/scredis) - Non-blocking Redis client built on top of Akka IO (used by Livestream)
 * **[Slick ★ 1499 ⧗ 0](https://github.com/slick/slick)** - Modern database query and access library for Scala.
 * [Sorm ★ 209 ⧗ 0](https://github.com/sorm/sorm) - A functional boilerplate-free Scala ORM.
