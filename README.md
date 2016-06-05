@@ -395,6 +395,7 @@ Projects with over 500 stargazers are in bold.
 
 * [scala-scraper ★ 137 ⧗ 0](https://github.com/ruippeixotog/scala-scraper) - A library for scraping content from HTML pages.
 * [Scalatags ★ 384 ⧗ 5](https://github.com/lihaoyi/scalatags) - Write html as scala code and have your ide syntax check it.
+* [xs4s](https://github.com/ScalaWilliam/xs4s) - XML Streaming for Scala for processing large (gigabytes and over) XML files.
 
 ## Learning Scala
 
