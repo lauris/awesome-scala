@@ -420,6 +420,7 @@ Projects with over 500 stargazers are in bold.
 ## Tools
 
 * [Abide ★ 209 ⧗ 7](https://github.com/scala/scala-abide) - Library for quick scala code checking and validation
+* [Scala @LibHunt](https://scala.libhunt.com) - The go-to Scala Toolbox.
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
 * [Fastring ★ 73 ⧗ 4](https://github.com/Atry/fastring) - Extremely fast string formatting
 * **[Gitbucket ★ 5478 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
