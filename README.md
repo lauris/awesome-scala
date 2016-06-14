@@ -10,6 +10,7 @@ Projects with over 500 stargazers are in bold.
     - [Graphical User Interfaces](#graphical-user-interfaces)
     - [Web Frameworks](#web-frameworks)
     - [Reactive Web Frameworks](#reactive-web-frameworks)
+    - [Data Binding and Validation](#data-binding-and-validation)
     - [i18n](#i18n)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
@@ -106,6 +107,12 @@ Projects with over 500 stargazers are in bold.
 * [Binding.scala ★ 79 ⧗ 0](https://github.com/ThoughtWorksInc/Binding.scala) - A reactive web framework. It enables you use native XML literal syntax to create reactive DOM nodes, which are able to automatically change whenever the data source changes.
 * [Udash](http://udash.io/) - a web framework based on Scala.js with support for property bindings, frontend routing, i18n and much more. It also provides strongly typed client<->server RPC system based on WebSockets. 
 * [Widok](https://widok.github.io/) - Reactive web framework for the JVM and Scala.js
+
+## Data Binding and Validation
+
+*Scala libraries for data binding and validation*
+
+* [form-binder ★ 15 ⧗ 0](https://github.com/tminglei/form-binder) - A micro data binding and validating framework, very easy to use and hack
 
 ## i18n
 
