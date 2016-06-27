@@ -418,6 +418,7 @@ Projects with over 500 stargazers are in bold.
 * [Scala school](https://twitter.github.io/scala_school/) - Scala school started as a series of lectures at Twitter to prepare experienced engineers to be productive Scala programmers.
 * [Scalera Blog](http://www.scalera.es) - Blog about Scala language and its environment (howto's, good practices, tips,...). Weekly posts written in both spanish and english
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - None
+* [Reactive Programming with Scala and Akka](http://www.foxebook.net/reactive-programming-with-scala-and-akka/) - Use the concepts of reactive programming to build distributed systems running on multiple nodes
 
 ## JavaScript
 
