@@ -171,6 +171,7 @@ Projects with over 500 stargazers are in bold.
 * [play-json](https://github.com/playframework/playframework/tree/master/framework/src/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime.
 * [qbproject ★ 10 ⧗ 7](https://github.com/qb-project/qbproject) - Scala Libs around JSON and API developement for Play Framework.
 * [scalajack ★ 73 ⧗ 5](https://github.com/gzoller/ScalaJack) - Fast 'n easy JSON serialization with optional MongoDB support.  Uses Jackson under the hood.
+* [scala-jsonapi ★ 45 ⧗ 11](https://github.com/zalando/scala-jsonapi) - Support library for integrating the JSON API spec with Scala and Spray JSON, Play! JSON or Circe.
 * [sonofjson ★ 19 ⧗ 110](https://github.com/wspringer/sonofjson) - A Scala library for dealing with JSON in a way that makes it almost feel native.
 * [spray-json ★ 494 ⧗ 0](https://github.com/spray/spray-json) - Lightweight, clean and efficient JSON implementation in Scala.
 
