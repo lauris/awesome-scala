@@ -327,6 +327,7 @@ Projects with over 500 stargazers are in bold.
 * [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
 * [YahooFinanceScala ★ 3 ⧗ 2](https://github.com/openquant/YahooFinanceScala) - Get stock data from Yahoo Finance using Akka http.
 * [Play Swagger](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
+* [Simple Scala Config](https://github.com/ElderResearch/ssc) - Thin, idiomatic Scala wrapper around [Typesafe Config](https://github.com/typesafehub/config) with custom `Reader[T]` suppport.
 
 ## Android
 
