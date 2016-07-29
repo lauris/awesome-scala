@@ -48,6 +48,7 @@ Projects with over 500 stargazers are in bold.
 * [CouchDB-Scala ★ 52 ⧗ 29](https://github.com/beloglazov/couchdb-scala) - Purely functional Scala client for CouchDB
 * **[doobie ★ 521 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
 * **[Elastic4s ★ 664 ⧗ 0](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
+* [longevity ★ 29 ⧗ 0](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL with a Domain Driven Design Orientation
 * [MapperDao ★ 10 ⧗ 15](https://github.com/kostaskougios/mapperdao) - An ORM library for oracle, mysql, mssql, and postgresql
 * [Memcontinuationed ★ 50 ⧗ 10](https://github.com/Atry/memcontinuationed) - Memcached client for Scala.
 * [Morpheus ★ 15 ⧗ 23](https://github.com/websudos/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
