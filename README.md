@@ -416,6 +416,7 @@ Projects with over 500 stargazers are in bold.
 
 * [Demos and Examples in Scala (Chinese) ★ 342 ⧗ 0](https://github.com/jacksu/utils4s) - repo of sample Scala library usage, written in Chinese
 * [Deploying Scala libraries to Sonatype for dummies ★ 18 ⧗ 23](https://github.com/larroy/deployingScalaLibrariesToSonatype) - None
+* [Functional Programming in Scala](https://www.coursera.org/specializations/scala) - Coursera Specialization (4 courses) created by  Martin Odersky et al. at the EPFL (Ecole polytechnique fédérale de Lausanne).
 * [Reactive Programming with Scala and Akka](http://www.foxebook.net/reactive-programming-with-scala-and-akka/) - Use the concepts of reactive programming to build distributed systems running on multiple nodes
 * [Scala Exercises](http://scala-exercises.47deg.com/) - Brings the popular Scala Koans to the web. Offering hundreds of solvable exercises organized into 42 categories covering the basics of the Scala language.
 * [Scala in Depth](https://www.manning.com/books/scala-in-depth) - None
