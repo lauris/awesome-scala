@@ -329,6 +329,7 @@ Projects with over 500 stargazers are in bold.
 * [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
 * [Simple Scala Config ★ 20 ⧗ 0](https://github.com/ElderResearch/ssc) - Thin, idiomatic Scala wrapper around [Typesafe Config](https://github.com/typesafehub/config) with custom `Reader[T]` suppport.
 * [YahooFinanceScala ★ 5 ⧗ 0](https://github.com/openquant/YahooFinanceScala) - Get stock data from Yahoo Finance using Akka http.
+* [GoogleApiScala](https://github.com/EckerdCollege/google-api-scala) - A simple scala library offering control of Google Drive, Calendar, and the Admin SDK.
 
 ## Android
 
