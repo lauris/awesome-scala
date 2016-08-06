@@ -54,7 +54,7 @@ Projects with over 500 stargazers are in bold.
 * [Morpheus ★ 15 ⧗ 23](https://github.com/websudos/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
 * [Phantom ★ 443 ⧗ 3](https://github.com/websudos/phantom) - Reactive type safe Scala driver for Apache Cassandra.
 * **[PostgreSQL and MySQL async ★ 840 ⧗ 1](https://github.com/mauricio/postgresql-async)** - Async database drivers to talk to PostgreSQL and MySQL in Scala.
-* **[Quill ★ 607 ⧗ 0](https://github.com/getquill/quill)** - Compile-time Language Integrated Query for Scala
+* **[Quill ★ 631 ⧗ 77](https://github.com/getquill/quill)** - Compile-time Language Integrated Query for Scala
 * [ReactiveCouchbase](http://reactivecouchbase.org/) - Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
 * **[ReactiveMongo ★ 661 ⧗ 3](https://github.com/ReactiveMongo/ReactiveMongo)** - Reactive Scala Driver for MongoDB.
 * [ReactiveNeo ★ 47 ⧗ 31](https://github.com/websudos/reactiveneo) - Reactive type-safe Scala driver for Neo4J.
