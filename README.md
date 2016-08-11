@@ -63,6 +63,7 @@ Projects with over 500 stargazers are in bold.
 * [rethink-scala ★ 94 ⧗ 21](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB
 * [Salat ★ 477 ⧗ 10](https://github.com/salat/salat/) - ORM for MongoDB. A related Play-plugin is also available.
 * [Scala ActiveRecord ★ 273 ⧗ 0](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
+* [Scala-Forklift](https://github.com/lastland/scala-forklift) - Type-safe database migration for Slick, Git, etc.
 * **[scala-redis ★ 656 ⧗ 1](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
 * [scala-sql ★ 11 ⧗ 36](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
 * **[ScalikeJDBC ★ 633 ⧗ 0](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
