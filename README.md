@@ -337,6 +337,7 @@ Projects with over 500 stargazers are in bold.
 * [ScalaKata2 ★ 11 ⧗ 0](https://github.com/MasseGuillaume/ScalaKata2) - Scala playground & Documentation tool.
 * [tut ★ 152 ⧗ 3](https://github.com/tpolecat/tut) - Tool for writing documentation with typechecked examples.
 * [xsbt-web-plugin ★ 299 ⧗ 2](https://github.com/earldouglas/xsbt-web-plugin) - Build enterprise J2EE Web applications in Scala.
+* [coursier](https://github.com/alexarchambault/coursier) - A Scala library to fetch dependencies from Maven / Ivy repositories
 
 ## XML / HTML
 
