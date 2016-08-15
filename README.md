@@ -54,7 +54,7 @@ Projects with over 500 stargazers are in bold.
 * [Morpheus ★ 15 ⧗ 23](https://github.com/websudos/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
 * [Phantom ★ 443 ⧗ 3](https://github.com/websudos/phantom) - Reactive type safe Scala driver for Apache Cassandra.
 * **[PostgreSQL and MySQL async ★ 840 ⧗ 1](https://github.com/mauricio/postgresql-async)** - Async database drivers to talk to PostgreSQL and MySQL in Scala.
-* **[Quill ★ 607 ⧗ 0](https://github.com/getquill/quill)** - Compile-time Language Integrated Query for Scala
+* **[Quill ★ 631 ⧗ 77](https://github.com/getquill/quill)** - Compile-time Language Integrated Query for Scala
 * [ReactiveCouchbase](http://reactivecouchbase.org/) - Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
 * **[ReactiveMongo ★ 661 ⧗ 3](https://github.com/ReactiveMongo/ReactiveMongo)** - Reactive Scala Driver for MongoDB.
 * [ReactiveNeo ★ 47 ⧗ 31](https://github.com/websudos/reactiveneo) - Reactive type-safe Scala driver for Neo4J.
@@ -89,7 +89,7 @@ Projects with over 500 stargazers are in bold.
 
 * [Analogweb](http://analogweb.org/) - Tiny, simple, and pluggable web framework in Scala.
 * [Chaos ★ 200 ⧗ 9](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
-* [Colossus](http://tumblr.github.io/colossus/) - lightweight framework for building high-performance applications in Scala that require non-blocking network I/O.
+* **[Colossus ★ 811 ⧗ 70](http://tumblr.github.io/colossus/)** - lightweight framework for building high-performance applications in Scala that require non-blocking network I/O.
 * **[Finatra ★ 1313 ⧗ 0](https://github.com/twitter/finatra)** - A sinatra-inspired web framework for scala, running on top of Finagle.
 * **[Lift ★ 1022 ⧗ 4](https://github.com/lift/framework)** - Secure and powerful full stack web framework ([discussion](https://github.com/lauris/awesome-scala/pull/19)).
 * [peregine ★ 10 ⧗ 3](https://github.com/dvarelap/peregrine) - A simple and async lightweight Scala web framework.
@@ -98,7 +98,7 @@ Projects with over 500 stargazers are in bold.
 * **[Scalatra ★ 1997 ⧗ 2](https://github.com/scalatra/scalatra)** - Tiny Scala high-performance, async web framework, inspired by Sinatra.
 * **[Skinny Framework ★ 570 ⧗ 1](https://github.com/skinny-framework/skinny-framework)** - A full-stack web app framework upon Scalatra for rapid Development in Scala.
 * [Socko](http://sockoweb.org/) - An embedded Scala web server powered by Netty networking and Akka processing.
-* **[Spray ★ 2375 ⧗ 0](https://github.com/spray/spray)** - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
+* **[Spray ★ 2380 ⧗ 566](https://github.com/spray/spray)** - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
 * **[Unfiltered ★ 642 ⧗ 3](https://github.com/unfiltered/unfiltered)** - A modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
 * [Xitrum](http://xitrum-framework.github.io/) - An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
 
