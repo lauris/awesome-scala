@@ -39,6 +39,7 @@ Projects with over 500 stargazers are in bold.
     - [Tools](#tools)
     - [Learning Scala](#learning-scala)
     - [JavaScript](#javascript)
+    - [Templating](#templating)
 - [Contributing](#contributing)
 
 ## Database
@@ -438,6 +439,12 @@ Projects with over 500 stargazers are in bold.
 * [js-scala ★ 151 ⧗ 81](https://github.com/js-scala/js-scala) - JavaScript as an embedded DSL in Scala
 * [scala-js-fiddle](http://www.scala-js-fiddle.com/) ([repo](https://github.com/lihaoyi/scala-js-fiddle)) - Browser-based Scala.js playground
 * [Scala.js](http://www.scala-js.org/) ([repo](https://github.com/scala-js/scala-js)) - Scala to JavaScript compiler
+
+## Templating
+
+*Web templating engines.*
+
+* [Beard ★ 35 ⧗ 13](https://github.com/zalando/beard) - lightweight logicless templating engine inspired by Mustache
 
 ## Tools
 
