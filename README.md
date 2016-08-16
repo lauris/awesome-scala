@@ -117,6 +117,7 @@ Projects with over 500 stargazers are in bold.
 *Scala libraries for data binding and validation*
 
 * [form-binder ★ 15 ⧗ 44](https://github.com/tminglei/form-binder) - A micro data binding and validating framework, very easy to use and hack
+* [Accord](https://github.com/wix/accord) - A sane validation library for Scala
 
 ## i18n
 
