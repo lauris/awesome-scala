@@ -444,7 +444,9 @@ Projects with over 500 stargazers are in bold.
 
 *Web templating engines.*
 
-* [Beard ★ 35 ⧗ 13](https://github.com/zalando/beard) - lightweight logicless templating engine inspired by Mustache
+* [Beard ★ 35 ⧗ 12](https://github.com/zalando/beard) - lightweight logicless templating engine inspired by Mustache
+* [Scalatags ★ 415 ⧗ 0](https://github.com/lihaoyi/scalatags) - Write html as scala code and have your IDE syntax check it.
+* [Twirl ★ 281 ⧗ 0](https://github.com/playframework/twirl) - The Play Scala Template Compiler
 
 ## Tools
 
