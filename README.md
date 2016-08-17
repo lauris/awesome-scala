@@ -133,6 +133,7 @@ Projects with over 500 stargazers are in bold.
 
 * [akka-http-session ★ 191 ⧗ 4](https://github.com/softwaremill/akka-http-session) - Web&mobile client-side sessions for akka-http based applications, with optional JWT support
 * [AWS Request Signer ★ 1 ⧗ 60](https://github.com/ticofab/aws-request-signer) - Helper to evaluate the signing headers for HTTP requests to Amazon Web Services.
+* [OAuth2-mock-play ★ 5 ⧗ 2](https://github.com/zalando/OAuth2-mock-play) - Implementation of an OAuth2 server designed for mocking/testing and configurable by environment variables (by use of the Typesafe config).
 * [play-pac4j ★ 227 ⧗ 8](https://github.com/pac4j/play-pac4j) - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
 * **[play-silhouette ★ 508 ⧗ 0](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
 * **[play2-auth ★ 587 ⧗ 1](https://github.com/t2v/play2-auth)** - Play2.x Authentication and Authorization module.
