@@ -169,7 +169,7 @@ Projects with over 500 stargazers are in bold.
 ## JSON
 
 *Libraries for work with json.*
-* [rapture-json](https://github.com/propensive/rapture/blob/dev/doc/json.md) - Clean, intuitive, unintrusive, boilerplate-free Scala API
+* **[rapture-json ★ 117 ⧗ 27](https://github.com/propensive/rapture/blob/dev/doc/json.md)** - Clean, intuitive, unintrusive, boilerplate-free Scala API
 * [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
 * **[circe ★ 527 ⧗ 0](https://github.com/travisbrown/circe)** - JSON library based on Argonaut, depends on Cats
 * [jackson-module-scala ★ 280 ⧗ 0](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
