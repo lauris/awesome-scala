@@ -332,10 +332,10 @@ Projects with over 500 stargazers are in bold.
 * [Openquant ★ 73 ⧗ 0](https://github.com/openquant) - A Scala open source quantitative trading platform
 * [Play Swagger ★ 108 ⧗ 0](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [REPLesent ★ 273 ⧗ 7](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
+* [scala-debugger](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
 * [scala-ssh ★ 171 ⧗ 7](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
 * [Scalan ★ 75 ⧗ 7](https://github.com/scalan/scalan) - A framework for development of domain-specific compilers in Scala
 * [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
-* [Scala Debugger](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
 * [Simple Scala Config ★ 23 ⧗ 5](https://github.com/ElderResearch/ssc) - Thin, idiomatic Scala wrapper around [Typesafe Config](https://github.com/typesafehub/config) with custom `Reader[T]` suppport.
 * [YahooFinanceScala ★ 6 ⧗ 14](https://github.com/openquant/YahooFinanceScala) - Get stock data from Yahoo Finance using Akka http.
 
