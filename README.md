@@ -395,6 +395,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-classfinder ★ 3 ⧗ 89](https://github.com/ruippeixotog/sbt-classfinder) - Retrieves runtime information about the classes and traits in a project.
 * [sbt-cppp ★ 4 ⧗ 25](https://github.com/Atry/sbt-cppp) - A sbt plugin to support [Protocol Buffers](https://github.com/google/protobuf), especially in multi-project builds.
 * **[sbt-dependency-graph ★ 598 ⧗ 0](https://github.com/jrudolph/sbt-dependency-graph)** - Create a dependency graph for your project.
+* [sbt-docker ★ 330 ⧗ 38](https://github.com/marcuslonnberg/sbt-docker) - Create Docker images directly from sbt
 * [sbt-groll ★ 81 ⧗ 6](https://github.com/sbt/sbt-groll) - sbt plugin to roll the Git history.
 * [sbt-haxe ★ 9 ⧗ 26](https://github.com/qifun/sbt-haxe) - A Sbt plugin to compile Haxe sources.
 * [sbt-ide-settings ★ 26 ⧗ 12](https://github.com/Jetbrains/sbt-ide-settings) - SBT plugin for tweaking various IDE settings
@@ -411,7 +412,6 @@ Projects with over 500 stargazers are in bold.
 * [ScalaKata2 ★ 58 ⧗ 9](https://github.com/MasseGuillaume/ScalaKata2) - Scala playground & Documentation tool.
 * [tut ★ 267 ⧗ 0](https://github.com/tpolecat/tut) - Tool for writing documentation with typechecked examples.
 * [xsbt-web-plugin ★ 316 ⧗ 9](https://github.com/earldouglas/xsbt-web-plugin) - Build enterprise J2EE Web applications in Scala.
-* [sbt-docker ★ 330 ⧗ 38](https://github.com/marcuslonnberg/sbt-docker) - Create Docker images directly from sbt
 
 ## XML / HTML
 
