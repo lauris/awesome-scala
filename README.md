@@ -411,6 +411,7 @@ Projects with over 500 stargazers are in bold.
 * [ScalaKata2 ★ 58 ⧗ 9](https://github.com/MasseGuillaume/ScalaKata2) - Scala playground & Documentation tool.
 * [tut ★ 267 ⧗ 0](https://github.com/tpolecat/tut) - Tool for writing documentation with typechecked examples.
 * [xsbt-web-plugin ★ 316 ⧗ 9](https://github.com/earldouglas/xsbt-web-plugin) - Build enterprise J2EE Web applications in Scala.
+* [sbt-docker ★ 330 ⧗ 38](https://github.com/marcuslonnberg/sbt-docker) - Create Docker images directly from sbt
 
 ## XML / HTML
 
