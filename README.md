@@ -53,7 +53,7 @@ Projects with over 500 stargazers are in bold.
 * **[Elastic4s ★ 686 ⧗ 0](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
 * [longevity ★ 34 ⧗ 4](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL with a Domain Driven Design Orientation
 * [MapperDao ★ 10 ⧗ 34](https://github.com/kostaskougios/mapperdao) - An ORM library for oracle, mysql, mssql, and postgresql
-* [Shade ★ 64 ⧗ 15 ](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
+* [Shade ★ 64 ⧗ 15](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
 * [Memcontinuationed ★ 50 ⧗ 29](https://github.com/Atry/memcontinuationed) - Memcached client for Scala.
 * [Morpheus ★ 16 ⧗ 7](https://github.com/websudos/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
 * [Phantom ★ 451 ⧗ 7](https://github.com/websudos/phantom) - Reactive type safe Scala driver for Apache Cassandra.
