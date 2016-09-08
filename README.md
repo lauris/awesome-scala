@@ -299,7 +299,7 @@ Projects with over 500 stargazers are in bold.
 * [Ammonite-Ops](http://lihaoyi.github.io/Ammonite/#Ammonite-Ops) - Safe, easy, filesystem operations in Scala as convenient as in the Bash shell.
 * **[better-files ★ 598 ⧗ 0](https://github.com/pathikrit/better-files)** - Simple, safe and intuitive Scala I/O. better-files is a dependency-free pragmatic thin Scala wrapper around Java NIO.
 * **[Cassovary ★ 840 ⧗ 5](https://github.com/twitter/cassovary)** - A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
-* [cats ★ 4 ⧗ 7](https://github.com/non/cats) - Lightweight, modular, and extensible library for functional programming.
+* [cats ★ 4 ⧗ 7](https://github.com/typelevel/cats) - Lightweight, modular, and extensible library for functional programming.
 * [Each ★ 96 ⧗ 0](https://github.com/ThoughtWorksInc/each) - A macro library that converts native imperative syntax to [Scalaz](https://github.com/scalaz/scalaz)'s monadic expressions.
 * [enableIf.scala ★ 26 ⧗ 0](https://github.com/ThoughtWorksInc/enableIf.scala) - A library that switches Scala code at compile-time, like `#if` in C/C++.
 * [Enumeratum ★ 201 ⧗ 0](https://github.com/lloydmeta/enumeratum) - A macro to replace Scala enumerations with a sealed family of case objects. This allows additional checks for the compiler, e.g. for missing cases in a match statement. Has additinal support for Json libraries and the Play framework.
