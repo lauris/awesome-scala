@@ -209,7 +209,7 @@ Projects with over 500 stargazers are in bold.
 *Libraries for scientific computing, data analysis and numerical processing.*
 
 * **[Algebird ★ 1302 ⧗ 0](https://github.com/twitter/algebird)** - Abstract Algebra for Scala.
-* [Axle](http://axle-lang.org) - Spire-based DSL for scientific cloud computing.
+* [Axle ★ 46 ⧗ 0](https://github.com/axlelang/axle) - A Spire-based DSL for scientific cloud computing.
 * **[Breeze ★ 1668 ⧗ 0](https://github.com/scalanlp/breeze)** - Breeze is a numerical processing library for Scala.
 * [Chalk ★ 205 ⧗ 12](https://github.com/scalanlp/chalk) - Chalk is a natural language processing library.
 * [FACTORIE ★ 441 ⧗ 0](https://github.com/factorie/factorie) - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
