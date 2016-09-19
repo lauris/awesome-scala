@@ -170,6 +170,7 @@ Projects with over 500 stargazers are in bold.
 ## JSON
 
 *Libraries for work with json.*
+
 * **[rapture-json ★ 117 ⧗ 27](https://github.com/propensive/rapture/blob/dev/doc/json.md)** - Clean, intuitive, unintrusive, boilerplate-free Scala API
 * [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
 * **[circe ★ 527 ⧗ 0](https://github.com/travisbrown/circe)** - JSON library based on Argonaut, depends on Cats
@@ -286,6 +287,7 @@ Projects with over 500 stargazers are in bold.
 
 * [Akka](http://akka.io/) - A toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications.
 * [Akka-tracing ★ 223 ⧗ 1](https://github.com/levkhomich/akka-tracing) - A distributed tracing extension for Akka. Provides integration with Play framework, Spray and Akka HTTP.
+* [autobreaker](https://github.com/lucastorri/autobreaker) - Automatically wrap classes that return Futures with a [Circuit Breaker](http://martinfowler.com/bliki/CircuitBreaker.html).
 * [Clump](http://getclump.io) - A library for expressive and efficient service composition
 * [CurioDB ★ 431 ⧗ 0](https://github.com/stephenmcd/curiodb) - Distributed & Persistent Redis Clone built with Scala & Akka.
 * [Finagle](https://twitter.github.io/finagle/) - An extensible, protocol-agnostic RPC system designed for high performance and concurrency.
@@ -304,6 +306,7 @@ Projects with over 500 stargazers are in bold.
 * [enableIf.scala ★ 26 ⧗ 0](https://github.com/ThoughtWorksInc/enableIf.scala) - A library that switches Scala code at compile-time, like `#if` in C/C++.
 * [Enumeratum ★ 201 ⧗ 0](https://github.com/lloydmeta/enumeratum) - A macro to replace Scala enumerations with a sealed family of case objects. This allows additional checks for the compiler, e.g. for missing cases in a match statement. Has additinal support for Json libraries and the Play framework.
 * [Hamsters ★ 101 ⧗ 1](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library. Compatible with functional programming beginners. Featuring validation, monad transformers, HLists, Union types.
+* [idid](https://github.com/lucastorri/idid) - A library to define common interfaces for different Id types.
 * [Lamma ★ 58 ⧗ 7](https://github.com/maxcellent/lamma) - A Scala date library for date and schedule generation.
 * [Log4s](http://www.log4s.org/) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
 * **[Monocle ★ 605 ⧗ 3](https://github.com/julien-truffaut/Monocle)** - An Optics/Lens library for purely functional manipulation of immutable objects.
@@ -338,6 +341,7 @@ Projects with over 500 stargazers are in bold.
 * [Scalan ★ 75 ⧗ 7](https://github.com/scalan/scalan) - A framework for development of domain-specific compilers in Scala
 * [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
 * [Simple Scala Config ★ 23 ⧗ 5](https://github.com/ElderResearch/ssc) - Thin, idiomatic Scala wrapper around [Typesafe Config](https://github.com/typesafehub/config) with custom `Reader[T]` suppport.
+* [settler](https://github.com/lucastorri/settler) - Boilerplate-free typed settings generation in Scala.
 * [YahooFinanceScala ★ 6 ⧗ 14](https://github.com/openquant/YahooFinanceScala) - Get stock data from Yahoo Finance using Akka http.
 
 ## Android
