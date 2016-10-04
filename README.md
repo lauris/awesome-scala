@@ -204,7 +204,7 @@ Projects with over 500 stargazers are in bold.
 * [Scrooge](http://twitter.github.io/scrooge/) - An Apache Thrift code generator for Scala.
 * [validation ★ 152 ⧗ 4](https://github.com/jto/validation) - Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime.
 * [µPickle](http://lihaoyi.github.io/upickle-pprint/upickle/) - A lightweight serialization library for Scala that works in ScalaJS, allowing transfer of structured data between the JVM and JavaScript.
-
+* [msgpack](https://github.com/msgpack/msgpack-scala) - A efficient binary serialization library.
 ## Science and Data Analysis
 
 *Libraries for scientific computing, data analysis and numerical processing.*
