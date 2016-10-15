@@ -52,9 +52,11 @@ Projects with over 500 stargazers are in bold.
 * **[doobie ★ 530 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
 * **[Elastic4s ★ 686 ⧗ 0](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
 * [longevity ★ 34 ⧗ 4](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL with a Domain Driven Design Orientation
+* [lucene4s ★ 1 ⧗ 0](https://github.com/outr/lucene4s) - Light-weight convenience wrapper around Lucene to simplify complex tasks and add Scala sugar.
 * [MapperDao ★ 10 ⧗ 34](https://github.com/kostaskougios/mapperdao) - An ORM library for oracle, mysql, mssql, and postgresql
 * [Memcontinuationed ★ 50 ⧗ 29](https://github.com/Atry/memcontinuationed) - Memcached client for Scala.
 * [Morpheus ★ 16 ⧗ 7](https://github.com/websudos/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
+* [neo4akka ★ 1 ⧗ 0](https://github.com/outr/neo4akka) - Neo4j Scala client using Akka HTTP with compile-time query interpolation, case class support, true non-blocking IO, and much more.
 * [Phantom ★ 451 ⧗ 7](https://github.com/websudos/phantom) - Reactive type safe Scala driver for Apache Cassandra.
 * **[PostgreSQL and MySQL async ★ 850 ⧗ 4](https://github.com/mauricio/postgresql-async)** - Async database drivers to talk to PostgreSQL and MySQL in Scala.
 * **[Quill ★ 642 ⧗ 0](https://github.com/getquill/quill)** - Compile-time Language Integrated Query for Scala
@@ -70,6 +72,7 @@ Projects with over 500 stargazers are in bold.
 * **[scala-redis ★ 663 ⧗ 0](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
 * [scala-sql ★ 12 ⧗ 14](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
 * **[ScalikeJDBC ★ 640 ⧗ 0](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
+* [ScalaRelational ★ 41 ⧗ 0](https://github.com/outr/scalarelational) - Type-Safe framework for defining, modifying, and querying SQL databases.
 * [scredis ★ 148 ⧗ 5](https://github.com/Livestream/scredis) - Non-blocking Redis client built on top of Akka IO (used by Livestream)
 * [Shade ★ 64 ⧗ 15](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
 * **[Slick ★ 1622 ⧗ 0](https://github.com/slick/slick)** - Modern database query and access library for Scala.
@@ -105,6 +108,7 @@ Projects with over 500 stargazers are in bold.
 * **[Spray ★ 2391 ⧗ 0](https://github.com/spray/spray)** - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
 * **[Unfiltered ★ 644 ⧗ 2](https://github.com/unfiltered/unfiltered)** - A modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
 * [Xitrum](http://xitrum-framework.github.io/) - An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
+* [youi](https://github.com/outr/youi) - Next generation user interface framework and server engine for Scala and Scala.js.
 
 ## Reactive Web Frameworks
 
@@ -322,6 +326,7 @@ Projects with over 500 stargazers are in bold.
 * [scala.meta](http://scalameta.org/) - A clean-room implementation of a metaprogramming toolkit for Scala.
 * [Scalactic](http://www.scalactic.org/) - Small library of utilities related to quality that helps keeping code clear and correct.
 * **[Scalaz ★ 2683 ⧗ 0](https://github.com/scalaz/scalaz)** - An extension to the core Scala library for functional programming.
+* [scribe ★ 7 ⧗ 0](https://github.com/outr/scribe) - Practical logging framework that doesn't depend on any other logging framework and can be completely configured programmatically.
 * **[Shapeless ★ 1669 ⧗ 0](https://github.com/milessabin/shapeless)** - A type class and dependent type based generic programming library for Scala.
 * [Stateless Future ★ 147 ⧗ 0](https://github.com/qifun/stateless-future) - Asynchronous programming in fully featured Scala syntax.
 * **[Twitter Util ★ 1613 ⧗ 0](https://github.com/twitter/util)** - General-purpose Scala libraries, including a future implementation and other concurrency tools.
@@ -333,9 +338,13 @@ Projects with over 500 stargazers are in bold.
 * [Ammonite-REPL](http://lihaoyi.github.io/Ammonite/#Ammonite-REPL) - An improved Scala REPL: syntax highlighting, output formatting, multi-line input, and more.
 * [Fansi ★ 74 ⧗ 13](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
 * [GoogleApiScala ★ 2 ⧗ 15](https://github.com/EckerdCollege/google-api-scala) - A simple scala library offering control of Google Drive, Calendar, and the Admin SDK.
+* [mailgun4s](https://github.com/outr/mailgun4s) - Simplified wrapper to create PDFs in Scala.
+* [media4s](https://github.com/outr/media4s)- Scala command-line wrapper around ffmpeg, ffprobe, ImageMagick, and other tools relating to media.
 * [Miniboxing](https://github.com/miniboxing/miniboxing-plugin)- A Scala compiler plugin that improves program performance -- [see the project web site](http://scala-miniboxing.org) - Less boxes
 * [Openquant ★ 73 ⧗ 0](https://github.com/openquant) - A Scala open source quantitative trading platform
+* [pdf4s](https://github.com/outr/pdf4s) - A Scala open source quantitative trading platform
 * [Play Swagger ★ 108 ⧗ 0](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
+* [powerscala ★ 9 ⧗ 0](https://github.com/outr/powerscala) - Powerful framework providing many useful utilities and features on top of the Scala language.
 * [PureConfig ★ 177 ⧗ 0](https://github.com/melrief/pureconfig) - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 273 ⧗ 7](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 28 ⧗ 6](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
@@ -362,6 +371,7 @@ Projects with over 500 stargazers are in bold.
 * [Dispatch ★ 348 ⧗ 4](https://github.com/dispatch/reboot) - Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
 * **[Finch.io ★ 768 ⧗ 0](https://github.com/finagle/finch)** - Purely Functional REST API atop of [Finagle](https://github.com/twitter/finagle).
 * **[Http4s ★ 527 ⧗ 0](https://github.com/http4s/http4s)** - A minimal, idiomatic Scala interface for HTTP.
+* [jefe ★ 1 ⧗ 0](https://github.com/outr/jefe) - Manages installation, updating, downloading, launching, error reporting, proxying, multi-server management, and much more for your stand-alone and web applications.
 * [Netcaty ★ 11 ⧗ 197](https://github.com/ngocdaothanh/netcaty) - Simple net test client/server for Netty and Scala lovers.
 * [Newman ★ 239 ⧗ 60](https://github.com/stackmob/newman) - A REST DSL that tries to take the best from Dispatch, Finagle and Apache HttpClient. See [here](https://www.paypal-engineering.com/2014/02/13/hello-newman-a-rest-client-for-scala/) for rationale.
 * [scalaj-http ★ 446 ⧗ 0](https://github.com/scalaj/scalaj-http) - Simple scala wrapper for HttpURLConnection (including OAuth support).
