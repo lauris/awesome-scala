@@ -401,6 +401,7 @@ Projects with over 500 stargazers are in bold.
 * [Fast Parse ★ 386 ⧗ 0](https://github.com/lihaoyi/fastparse) - Fast to write, Fast running Parsers in Scala
 * [Parboiled2 ★ 455 ⧗ 0](https://github.com/sirthias/parboiled2) - A Fast Parser Generator for Scala 2.10.3+.
 * [Scala Parser Combinators ★ 161 ⧗ 7](https://github.com/scala/scala-parser-combinators) - Scala Standard Parser Combinator Library.
+* [Scopt](https://github.com/scopt/scopt) - Simple scala command line options parsing.
 
 ## Sbt plugins
 
