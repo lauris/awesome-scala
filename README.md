@@ -319,6 +319,7 @@ Projects with over 500 stargazers are in bold.
 * **[Monocle ★ 605 ⧗ 3](https://github.com/julien-truffaut/Monocle)** - An Optics/Lens library for purely functional manipulation of immutable objects.
 * [Persist-Logging ★ 23 ⧗ 0](https://github.com/nestorpersist/logging) - Comprehensive logging library for Scala.
 * [Quicklens ★ 198 ⧗ 0](https://github.com/adamw/quicklens) - modify deeply nested case class fields with an elegant API
+* [Sauron](https://github.com/pathikrit/sauron) - Lightweight lens library in less than 50-lines of Scala.
 * [Rapture](http://rapture.io/) ([repo](https://github.com/propensive/rapture)) - a collection of libraries for common, everyday programming tasks (I/O, JSON, i18n, etc.)
 * [Records for Scala](https://github.com/scala-records/scala-records) - Labeled records for Scala based on structural refinement types and macros.
 * [refined ★ 298 ⧗ 3](https://github.com/fthomas/refined) - Simple refinement types with compile- and runtime checking
