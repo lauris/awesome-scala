@@ -332,6 +332,7 @@ Projects with over 500 stargazers are in bold.
 * **[Shapeless ★ 1669 ⧗ 0](https://github.com/milessabin/shapeless)** - A type class and dependent type based generic programming library for Scala.
 * [Stateless Future ★ 147 ⧗ 0](https://github.com/qifun/stateless-future) - Asynchronous programming in fully featured Scala syntax.
 * **[Twitter Util ★ 1613 ⧗ 0](https://github.com/twitter/util)** - General-purpose Scala libraries, including a future implementation and other concurrency tools.
+* [wvlet-log](https://github.com/wvlet/log) - A library for enhancing your application logs with colors and source code locations.
 
 ## Misc
 
