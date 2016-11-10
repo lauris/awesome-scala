@@ -178,6 +178,7 @@ Projects with over 500 stargazers are in bold.
 
 * [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
 * **[circe ★ 527 ⧗ 0](https://github.com/travisbrown/circe)** - JSON library based on Argonaut, depends on Cats
+* [diffson ★ 63](https://github.com/gnieh/diffson) - A scala diff/patch library for Json
 * [jackson-module-scala ★ 280 ⧗ 0](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
 * [jawn ★ 206 ⧗ 13](https://github.com/non/jawn) - Fast json parser (According to them, competetive with java gson/jackson speed).
 * **[json4s ★ 726 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
