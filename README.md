@@ -50,6 +50,7 @@ Projects with over 500 stargazers are in bold.
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
 * [CouchDB-Scala ★ 52 ⧗ 11](https://github.com/beloglazov/couchdb-scala) - Purely functional Scala client for CouchDB
 * **[doobie ★ 530 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
+* **[Flyway](https://flywaydb.org/documentation/api/)** - Database migration compatible with SBT
 * **[Elastic4s ★ 686 ⧗ 0](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
 * [longevity ★ 34 ⧗ 4](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL with a Domain Driven Design Orientation
 * [lucene4s ★ 1 ⧗ 0](https://github.com/outr/lucene4s) - Light-weight convenience wrapper around Lucene to simplify complex tasks and add Scala sugar.
