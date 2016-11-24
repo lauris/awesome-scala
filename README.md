@@ -363,6 +363,7 @@ Projects with over 500 stargazers are in bold.
 * [settler ★ 2 ⧗ 0](https://github.com/lucastorri/settler) - Boilerplate-free typed settings generation in Scala.
 * [Simple Scala Config ★ 23 ⧗ 5](https://github.com/ElderResearch/ssc) - Thin, idiomatic Scala wrapper around [Typesafe Config](https://github.com/typesafehub/config) with custom `Reader[T]` suppport.
 * [YahooFinanceScala ★ 6 ⧗ 14](https://github.com/openquant/YahooFinanceScala) - Get stock data from Yahoo Finance using Akka http.
+* [BootZook ★ 308 ⧗ 76](https://github.com/softwaremill/bootzooka) - Simple project to quickly start developing a web application using AngularJS and Akka HTTP, without the need to write login, user registration etc.
 
 ## Android
 
