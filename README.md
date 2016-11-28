@@ -55,14 +55,14 @@ Projects with over 500 stargazers are in bold.
 * [lucene4s ★ 1 ⧗ 0](https://github.com/outr/lucene4s) - Light-weight convenience wrapper around Lucene to simplify complex tasks and add Scala sugar.
 * [MapperDao ★ 10 ⧗ 34](https://github.com/kostaskougios/mapperdao) - An ORM library for oracle, mysql, mssql, and postgresql
 * [Memcontinuationed ★ 50 ⧗ 29](https://github.com/Atry/memcontinuationed) - Memcached client for Scala.
-* [Morpheus ★ 16 ⧗ 7](https://github.com/websudos/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
+* [Morpheus ★ 45 ⧗ 7](https://github.com/outworkers/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
 * [neo4akka ★ 1 ⧗ 0](https://github.com/outr/neo4akka) - Neo4j Scala client using Akka HTTP with compile-time query interpolation, case class support, true non-blocking IO, and much more.
-* [Phantom ★ 451 ⧗ 7](https://github.com/websudos/phantom) - Reactive type safe Scala driver for Apache Cassandra.
+* **[Phantom ★ 517 ⧗ 7](https://github.com/outworkers/phantom)** - Reactive typed Scala driver for Apache Cassandra.
 * **[PostgreSQL and MySQL async ★ 850 ⧗ 4](https://github.com/mauricio/postgresql-async)** - Async database drivers to talk to PostgreSQL and MySQL in Scala.
 * **[Quill ★ 642 ⧗ 0](https://github.com/getquill/quill)** - Compile-time Language Integrated Query for Scala
 * [ReactiveCouchbase](http://reactivecouchbase.org/) - Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
 * **[ReactiveMongo ★ 665 ⧗ 5](https://github.com/ReactiveMongo/ReactiveMongo)** - Reactive Scala Driver for MongoDB.
-* [ReactiveNeo ★ 47 ⧗ 50](https://github.com/websudos/reactiveneo) - Reactive type-safe Scala driver for Neo4J.
+* [ReactiveNeo ★ 70 ⧗ 50](https://github.com/outworkers/reactiveneo) - Reactive type-safe Scala driver for Neo4J.
 * **[rediscala ★ 562 ⧗ 3](https://github.com/etaty/rediscala)** - Non-blocking, Reactive Redis driver for Scala (with Sentinel support)
 * [Relate ★ 95 ⧗ 14](https://github.com/lucidsoftware/relate) - Lightweight, blazing-fast database access layer for Scala that abstracts the idiosyncricies of the JDBC while keeping complete control over the SQL.
 * [rethink-scala ★ 94 ⧗ 39](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB
