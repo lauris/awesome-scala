@@ -429,6 +429,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-cppp ★ 4 ⧗ 25](https://github.com/Atry/sbt-cppp) - A sbt plugin to support [Protocol Buffers](https://github.com/google/protobuf), especially in multi-project builds.
 * **[sbt-dependency-graph ★ 598 ⧗ 0](https://github.com/jrudolph/sbt-dependency-graph)** - Create a dependency graph for your project.
 * [sbt-docker ★ 330 ⧗ 38](https://github.com/marcuslonnberg/sbt-docker) - Create Docker images directly from sbt
+* [sbt-ensime ★ 186](https://github.com/ensime/ensime-sbt) - Generates .ensime config files for SBT projects [http://ensime.org/build_tools/sbt](http://ensime.org/build_tools/sbt)
 * [sbt-groll ★ 81 ⧗ 6](https://github.com/sbt/sbt-groll) - sbt plugin to roll the Git history.
 * [sbt-haxe ★ 9 ⧗ 26](https://github.com/qifun/sbt-haxe) - A Sbt plugin to compile Haxe sources.
 * [sbt-ide-settings ★ 26 ⧗ 12](https://github.com/Jetbrains/sbt-ide-settings) - SBT plugin for tweaking various IDE settings
