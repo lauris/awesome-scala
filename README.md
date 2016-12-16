@@ -322,6 +322,7 @@ Projects with over 500 stargazers are in bold.
 * [Hamsters ★ 101 ⧗ 1](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library. Compatible with functional programming beginners. Featuring validation, monad transformers, HLists, Union types.
 * [idid ★ 2 ⧗ 0](https://github.com/lucastorri/idid) - A library to define common interfaces for different Id types.
 * [Lamma ★ 58 ⧗ 7](https://github.com/maxcellent/lamma) - A Scala date library for date and schedule generation.
+* [LArray ★ 210 ⧗ 21](https://github.com/xerial/larray) - Large off-heap arrays (> 2GB) and mmap files.
 * [Log4s](http://www.log4s.org/) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
 * **[Monocle ★ 605 ⧗ 3](https://github.com/julien-truffaut/Monocle)** - An Optics/Lens library for purely functional manipulation of immutable objects.
 * [Persist-Logging ★ 23 ⧗ 0](https://github.com/nestorpersist/logging) - Comprehensive logging library for Scala.
