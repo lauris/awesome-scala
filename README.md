@@ -289,6 +289,7 @@ Projects with over 500 stargazers are in bold.
 * [Airframe](https://github.com/wvlet/airframe) - Dependency injection library tailored to Scala.
 * [Cableguy ★ 1 ⧗ 22](https://github.com/akozhemiakin/cableguy) - Macro based compile time Dependency Injection library.
 * [Domino ★ 2 ⧗ 216](https://github.com/helgoboss/domino) - Write elegant OSGi bundle activators in Scala.
+* [Grafter ★ 88 ⧗ 14](https://github.com/zalando/grafter) - Grafter is a library to configure and wire Scala applications.
 * **[MacWire ★ 522 ⧗ 0](https://github.com/adamw/macwire)** - Scala Macro to generate wiring code for class instantiation. DI container replacement.
 * [Scala-Guice ★ 172 ⧗ 10](https://github.com/codingwell/scala-guice) - Scala extensions for Google Guice
 * [Scaldi ★ 220 ⧗ 0](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library.
