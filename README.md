@@ -419,6 +419,7 @@ Projects with over 500 stargazers are in bold.
 *Scala libraries for creating parsers.*
 
 * [atto ★ 121 ⧗ 50](https://github.com/tpolecat/atto) - Pure functional incremental text parsing library for Scala, based on Attoparsec.
+* [CLIST](https://github.com/backuity/clist) - Command Line Interface Scala Toolkit 
 * [Fast Parse ★ 386 ⧗ 0](https://github.com/lihaoyi/fastparse) - Fast to write, Fast running Parsers in Scala
 * [Parboiled2 ★ 455 ⧗ 0](https://github.com/sirthias/parboiled2) - A Fast Parser Generator for Scala 2.10.3+.
 * [Scala Parser Combinators ★ 161 ⧗ 7](https://github.com/scala/scala-parser-combinators) - Scala Standard Parser Combinator Library.
