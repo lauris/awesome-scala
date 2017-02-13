@@ -451,6 +451,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-versions ★ 11 ⧗ 42](https://github.com/sksamuel/sbt-versions) - Plugin that checks for updated versions of your project's dependencies.
 * [sbt-view ★ 6 ⧗ 1](https://github.com/nestorpersist/sbt-view) - View ScalaDoc/JavaDoc in browser window.
 * **[sbteclipse ★ 586 ⧗ 2](https://github.com/typesafehub/sbteclipse)** - Create Eclipse project definitions from sbt builds.
+* [scala-clippy ★ 180 ⧗ 3](https://github.com/softwaremill/scala-clippy) - Good advice and coloring for Scala compiler errors
 * [ScalaKata2 ★ 58 ⧗ 9](https://github.com/MasseGuillaume/ScalaKata2) - Scala playground & Documentation tool.
 * [tut ★ 267 ⧗ 0](https://github.com/tpolecat/tut) - Tool for writing documentation with typechecked examples.
 * [xsbt-web-plugin ★ 316 ⧗ 9](https://github.com/earldouglas/xsbt-web-plugin) - Build enterprise J2EE Web applications in Scala.
