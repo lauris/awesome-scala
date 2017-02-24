@@ -20,6 +20,7 @@ Projects with over 500 stargazers are in bold.
     - [Testing](#testing)
     - [JSON](#json)
     - [YAML](#yaml)
+    - [CSV](#csv)
     - [Serialization](#serialization)
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Big Data](#big-data)
@@ -202,6 +203,12 @@ Projects with over 500 stargazers are in bold.
 *Libraries for work with YAML.*
 
 * [MoultingYAML ★ 22 ⧗ 4](https://github.com/jcazevedo/moultingyaml) - Type-class based YAML serialization and deserialization on top of SnakeYAML.
+
+## CSV
+
+*Libraries for work with CSV.*
+
+* [Scala-CSV ★ 354 ⧗ 87](https://github.com/tototoshi/scala-csv) - CSV Reader/Writer for Scala.
 
 ## Serialization
 
