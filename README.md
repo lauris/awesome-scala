@@ -209,6 +209,7 @@ Projects with over 500 stargazers are in bold.
 *Libraries for work with CSV.*
 
 * [Scala-CSV ★ 354 ⧗ 87](https://github.com/tototoshi/scala-csv) - CSV Reader/Writer for Scala.
+* [kantan.csv](https://github.com/nrinaudo/kantan.csv) - CSV handling library for Scala with multiple backends.
 
 ## Serialization
 
