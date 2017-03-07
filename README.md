@@ -339,6 +339,7 @@ Projects with over 500 stargazers are in bold.
 * [LArray ★ 210 ⧗ 21](https://github.com/xerial/larray) - Large off-heap arrays (> 2GB) and mmap files.
 * [Log4s](http://www.log4s.org/) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
 * **[Monocle ★ 605 ⧗ 3](https://github.com/julien-truffaut/Monocle)** - An Optics/Lens library for purely functional manipulation of immutable objects.
+* **[n-scala ★ 646 ⧗ 0](https://github.com/nscala-time/nscala-time)** - Scala wrapper for Joda Time.
 * [Persist-Logging ★ 23 ⧗ 0](https://github.com/nestorpersist/logging) - Comprehensive logging library for Scala.
 * [Quicklens ★ 198 ⧗ 0](https://github.com/adamw/quicklens) - modify deeply nested case class fields with an elegant API
 * [Sauron](https://github.com/pathikrit/sauron) - Lightweight lens library in less than 50-lines of Scala.
