@@ -41,6 +41,7 @@ Projects with over 500 stargazers are in bold.
     - [Learning Scala](#learning-scala)
     - [JavaScript](#javascript)
     - [Templating](#templating)
+    - [Geospatial](#geospatial)
 - [Contributing](#contributing)
 
 ## Database
@@ -519,6 +520,14 @@ Projects with over 500 stargazers are in bold.
 * [Scaps](http://scala-search.org/) ([repo](https://github.com/scala-search/scaps)) - A search engine for Scala libraries
 * [Scoverage](https://github.com/scoverage) - Scala Code Coverage tool
 * **[Wartremover ★ 537 ⧗ 0](https://github.com/puffnfresh/wartremover)** - Wartremover a flexible Scala code linting tool
+
+## Geospatial
+
+*Libraries to aid with geospatial calculations and artifacts.*
+
+* [Geotrellis ★ 539](https://github.com/locationtech/geotrellis) - Scalable raster toolkit for GIS processing
+* [sfcurve ★ 19](https://github.com/locationtech/sfcurve) - Space filling curves in Scala for geospatial indexing and query
+* [osm4scala ★ 8](https://github.com/angelcervera/osm4scala) - OpenStreetMap PBF2 file parser
 
 # Contributing
 
