@@ -366,7 +366,7 @@ Projects with over 500 stargazers are in bold.
 * [Ammonite-REPL](http://lihaoyi.github.io/Ammonite/#Ammonite-REPL) - An improved Scala REPL: syntax highlighting, output formatting, multi-line input, and more.
 * [Fansi ★ 74 ⧗ 13](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
 * [GoogleApiScala ★ 2 ⧗ 15](https://github.com/EckerdCollege/google-api-scala) - A simple scala library offering control of Google Drive, Calendar, and the Admin SDK.
-* [mailgun4s](https://github.com/outr/mailgun4s) - Simplified wrapper to create PDFs in Scala.
+* [mailgun4s](https://github.com/outr/mailgun4s) - Scala wrapper around the Mailgun API
 * [media4s](https://github.com/outr/media4s)- Scala command-line wrapper around ffmpeg, ffprobe, ImageMagick, and other tools relating to media.
 * [Miniboxing](https://github.com/miniboxing/miniboxing-plugin)- A Scala compiler plugin that improves program performance -- [see the project web site](http://scala-miniboxing.org) - Less boxes
 * [Openquant ★ 73 ⧗ 0](https://github.com/openquant) - A Scala open source quantitative trading platform
