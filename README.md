@@ -417,6 +417,7 @@ Projects with over 500 stargazers are in bold.
 
 * [Banana-RDF ★ 185 ⧗ 15](https://github.com/banana-rdf/banana-rdf) - Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
 * [rdfp ★ 1 ⧗ 356](https://github.com/jannvck/rdfp) - RDF stream processing framework in Scala
+* [Scowl ★ 15](https://github.com/phenoscape/scowl) - Scala DSL allowing a declarative approach to composing OWL expressions and axioms using the OWL API.
 
 ## Metrics and Monitoring
 
