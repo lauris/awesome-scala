@@ -148,7 +148,7 @@ Projects with over 500 stargazers are in bold.
 * [play-pac4j ★ 227 ⧗ 8](https://github.com/pac4j/play-pac4j) - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
 * **[play-silhouette ★ 508 ⧗ 0](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
 * **[play2-auth ★ 587 ⧗ 1](https://github.com/t2v/play2-auth)** - Play2.x Authentication and Authorization module.
-* [Play Google Auth Module * 12 ⧗ 4](https://github.com/guardian/play-googleauth) - A very simple implementation of Google OpenID Connect authentication for Play 2 applications.
+* [Play Google Auth Module ★ 12 ⧗ 4](https://github.com/guardian/play-googleauth) - A very simple implementation of Google OpenID Connect authentication for Play 2 applications.
 * [scala-oauth2-provider ★ 360 ⧗ 0](https://github.com/nulab/scala-oauth2-provider) - OAuth 2.0 server-side implementation written in Scala.
 * **[SecureSocial ★ 1182 ⧗ 0](https://github.com/jaliss/securesocial)** - A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
 
@@ -185,7 +185,7 @@ Projects with over 500 stargazers are in bold.
 
 * [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
 * **[circe ★ 527 ⧗ 0](https://github.com/travisbrown/circe)** - JSON library based on Argonaut, depends on Cats
-* [diffson ★ 63](https://github.com/gnieh/diffson) - A scala diff/patch library for Json
+* [diffson ★ 63 ⧗ 54](https://github.com/gnieh/diffson) - A scala diff/patch library for Json
 * [jackson-module-scala ★ 280 ⧗ 0](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
 * [jawn ★ 206 ⧗ 13](https://github.com/non/jawn) - Fast json parser (According to them, competetive with java gson/jackson speed).
 * **[json4s ★ 726 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
@@ -370,8 +370,8 @@ Projects with over 500 stargazers are in bold.
 * [Fansi ★ 74 ⧗ 13](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
 * [GoogleApiScala ★ 2 ⧗ 15](https://github.com/EckerdCollege/google-api-scala) - A simple scala library offering control of Google Drive, Calendar, and the Admin SDK.
 * [mailgun4s](https://github.com/outr/mailgun4s) - Scala wrapper around the Mailgun API
-* [media4s](https://github.com/outr/media4s)- Scala command-line wrapper around ffmpeg, ffprobe, ImageMagick, and other tools relating to media.
-* [Miniboxing](https://github.com/miniboxing/miniboxing-plugin)- A Scala compiler plugin that improves program performance -- [see the project web site](http://scala-miniboxing.org) - Less boxes
+* [media4s](https://github.com/outr/media4s) - Scala command-line wrapper around ffmpeg, ffprobe, ImageMagick, and other tools relating to media.
+* [Miniboxing](https://github.com/miniboxing/miniboxing-plugin) - A Scala compiler plugin that improves program performance -- [see the project web site](http://scala-miniboxing.org) - Less boxes
 * [Openquant ★ 73 ⧗ 0](https://github.com/openquant) - A Scala open source quantitative trading platform
 * [Ostinato](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [pdf4s](https://github.com/outr/pdf4s) - A Scala open source quantitative trading platform
@@ -420,7 +420,7 @@ Projects with over 500 stargazers are in bold.
 
 * [Banana-RDF ★ 185 ⧗ 15](https://github.com/banana-rdf/banana-rdf) - Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
 * [rdfp ★ 1 ⧗ 356](https://github.com/jannvck/rdfp) - RDF stream processing framework in Scala
-* [Scowl ★ 15](https://github.com/phenoscape/scowl) - Scala DSL allowing a declarative approach to composing OWL expressions and axioms using the OWL API.
+* [Scowl ★ 15 ⧗ 20](https://github.com/phenoscape/scowl) - Scala DSL allowing a declarative approach to composing OWL expressions and axioms using the OWL API.
 
 ## Metrics and Monitoring
 
@@ -451,7 +451,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-cppp ★ 4 ⧗ 25](https://github.com/Atry/sbt-cppp) - A sbt plugin to support [Protocol Buffers](https://github.com/google/protobuf), especially in multi-project builds.
 * **[sbt-dependency-graph ★ 598 ⧗ 0](https://github.com/jrudolph/sbt-dependency-graph)** - Create a dependency graph for your project.
 * [sbt-docker ★ 330 ⧗ 38](https://github.com/marcuslonnberg/sbt-docker) - Create Docker images directly from sbt
-* [sbt-ensime ★ 186](https://github.com/ensime/ensime-sbt) - Generates .ensime config files for SBT projects [http://ensime.org/build_tools/sbt](http://ensime.org/build_tools/sbt)
+* [sbt-ensime ★ 186 ⧗ 21](https://github.com/ensime/ensime-sbt) - Generates .ensime config files for SBT projects [http://ensime.org/build_tools/sbt](http://ensime.org/build_tools/sbt)
 * [sbt-groll ★ 81 ⧗ 6](https://github.com/sbt/sbt-groll) - sbt plugin to roll the Git history.
 * [sbt-haxe ★ 9 ⧗ 26](https://github.com/qifun/sbt-haxe) - A Sbt plugin to compile Haxe sources.
 * [sbt-ide-settings ★ 26 ⧗ 12](https://github.com/Jetbrains/sbt-ide-settings) - SBT plugin for tweaking various IDE settings
@@ -529,9 +529,9 @@ Projects with over 500 stargazers are in bold.
 
 *Libraries to aid with geospatial calculations and artifacts.*
 
-* [Geotrellis ★ 539](https://github.com/locationtech/geotrellis) - Scalable raster toolkit for GIS processing
-* [sfcurve ★ 19](https://github.com/locationtech/sfcurve) - Space filling curves in Scala for geospatial indexing and query
-* [osm4scala ★ 8](https://github.com/angelcervera/osm4scala) - OpenStreetMap PBF2 file parser
+* [Geotrellis ★ 539 ⧗ 0](https://github.com/locationtech/geotrellis) - Scalable raster toolkit for GIS processing
+* [sfcurve ★ 19 ⧗ 195](https://github.com/locationtech/sfcurve) - Space filling curves in Scala for geospatial indexing and query
+* [osm4scala ★ 8 ⧗ 18](https://github.com/angelcervera/osm4scala) - OpenStreetMap PBF2 file parser
 
 # Contributing
 
