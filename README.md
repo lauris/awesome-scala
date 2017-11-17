@@ -501,6 +501,7 @@ Projects with over 500 stargazers are in bold.
 *Nice books, blogs and other resources to learn Scala*
 
 * **[Demos and Examples in Scala (Chinese) ★ 525 ⧗ 2](https://github.com/jacksu/utils4s)** - repo of sample Scala library usage, written in Chinese
+* [A Tour of Scala](http://docs.scala-lang.org/tour/tour-of-scala.html) - Bite-sized introductions to some of the core language concepts.
 * [Deploying Scala libraries to Sonatype for dummies ★ 23 ⧗ 25](https://github.com/larroy/deployingScalaLibrariesToSonatype) - None
 * [Functional Programming in Scala](https://www.coursera.org/specializations/scala) - Coursera Specialization (4 courses) created by  Martin Odersky et al. at the EPFL (Ecole polytechnique fédérale de Lausanne).
 * [Reactive Programming with Scala and Akka](http://www.foxebook.net/reactive-programming-with-scala-and-akka/) - Use the concepts of reactive programming to build distributed systems running on multiple nodes
@@ -508,9 +509,13 @@ Projects with over 500 stargazers are in bold.
 * [Scala Exercises](http://scala-exercises.47deg.com/) - Brings the popular Scala Koans to the web. Offering hundreds of solvable exercises organized into 42 categories covering the basics of the Scala language.
 * [Scala in Depth](https://www.manning.com/books/scala-in-depth) - None
 * [Scala school](https://twitter.github.io/scala_school/) - Scala school started as a series of lectures at Twitter to prepare experienced engineers to be productive Scala programmers.
+* [Essential Scala](https://underscore.io/books/essential-scala/) - 
 * [Scalera Blog](http://www.scalera.es) - Blog about Scala language and its environment (howto's, good practices, tips,...). Weekly posts written in both spanish and english
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - None
 * Resources by [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
+* [Advanced Scala With Cats](https://underscore.io/books/advanced-scala/)
+* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read)
+* [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/)
 
 ## JavaScript
 
