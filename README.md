@@ -7,7 +7,10 @@ Also awesome is [Scaladex](https://index.scala-lang.org/), the searchable, tagge
 
 Projects with over 500 stargazers are in bold.
 
-- [Awesome Scala](#awesome-scala)
+## Table of Contents
+
+- [Learning Scala](#learning-scala)
+- [Projects](#projects)
     - [Database](#database)
     - [Graphical User Interfaces](#graphical-user-interfaces)
     - [Web Frameworks](#web-frameworks)
@@ -38,7 +41,6 @@ Projects with over 500 stargazers are in bold.
     - [Sbt plugins](#sbt-plugins)
     - [XML / HTML](#xml--html)
     - [Tools](#tools)
-    - [Learning Scala](#learning-scala)
     - [JavaScript](#javascript)
     - [Templating](#templating)
     - [Geospatial](#geospatial)
