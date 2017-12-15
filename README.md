@@ -51,7 +51,7 @@ Projects with over 500 stargazers are in bold.
 *Database access libraries in Scala.*
 
 * [Activate ★ 311 ⧗ 8](https://github.com/fwbrasil/activate) - Pluggable object persistence in Scala.
-* [Anorm ★ 135]() - Simple SQL data access.
+* [Anorm ★ 135](https://github.com/playframework/anorm) - Simple SQL data access.
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
 * [CouchDB-Scala ★ 59 ⧗ 21](https://github.com/beloglazov/couchdb-scala) - Purely functional Scala client for CouchDB
 * **[doobie ★ 812 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
