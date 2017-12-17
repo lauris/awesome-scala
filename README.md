@@ -11,39 +11,40 @@ Projects with over 500 stargazers are in bold.
 
 - [Learning Scala](#learning-scala)
 - [Projects](#projects)
-    - [Database](#database)
-    - [Graphical User Interfaces](#graphical-user-interfaces)
-    - [Web Frameworks](#web-frameworks)
-    - [Reactive Web Frameworks](#reactive-web-frameworks)
-    - [Data Binding and Validation](#data-binding-and-validation)
-    - [i18n](#i18n)
+    - [Android](#android)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
-    - [Cryptography](#cryptography)
-    - [Testing](#testing)
-    - [JSON](#json)
-    - [YAML](#yaml)
-    - [CSV](#csv)
-    - [Serialization](#serialization)
-    - [Science and Data Analysis](#science-and-data-analysis)
     - [Big Data](#big-data)
-    - [Image processing and image analysis](#image-processing-and-image-analysis)
-    - [Functional Reactive Programming](#functional-reactive-programming)
-    - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
+    - [Cryptography](#cryptography)
+    - [CSV](#csv)
+    - [Data Binding and Validation](#data-binding-and-validation)
+    - [Database](#database)
     - [Distributed Systems](#distributed-systems)
     - [Extensions](#extensions)
-    - [Misc](#misc)
-    - [Android](#android)
-    - [HTTP](#http)
-    - [Semantic Web](#semantic-web)
-    - [Metrics and Monitoring](#metrics-and-monitoring)
-    - [Parsing](#parsing)
-    - [Sbt plugins](#sbt-plugins)
-    - [XML / HTML](#xml--html)
-    - [Tools](#tools)
-    - [JavaScript](#javascript)
-    - [Templating](#templating)
+    - [Functional Reactive Programming](#functional-reactive-programming)
     - [Geospatial](#geospatial)
+    - [Graphical User Interfaces](#graphical-user-interfaces)
+    - [HTTP](#http)
+    - [i18n](#i18n)
+    - [Image processing and image analysis](#image-processing-and-image-analysis)
+    - [JavaScript](#javascript)
+    - [JSON](#json)
+    - [Markdown](#markdown)
+    - [Metrics and Monitoring](#metrics-and-monitoring)
+    - [Misc](#misc)
+    - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
+    - [Parsing](#parsing)
+    - [Reactive Web Frameworks](#reactive-web-frameworks)
+    - [Sbt plugins](#sbt-plugins)
+    - [Science and Data Analysis](#science-and-data-analysis)
+    - [Semantic Web](#semantic-web)
+    - [Serialization](#serialization)
+    - [Templating](#templating)
+    - [Testing](#testing)
+    - [Tools](#tools)
+    - [Web Frameworks](#web-frameworks)
+    - [XML / HTML](#xml--html)
+    - [YAML](#yaml)
 - [Contributing](#contributing)
 
 ## Database
@@ -501,6 +502,10 @@ Projects with over 500 stargazers are in bold.
 
 * [scala-scraper ★ 316 ⧗ 1](https://github.com/ruippeixotog/scala-scraper) - A library for scraping content from HTML pages.
 * [xs4s ★ 29 ⧗ 47](https://github.com/ScalaWilliam/xs4s) - XML Streaming for Scala for processing large (gigabytes and over) XML files.
+
+## Markdown
+
+* [Laika ★ 161](https://github.com/planet42/Laika) - Text Markup Transformer for sbt and Scala applications, transforming Markdown and reStructuredText to HTML and PDF.
 
 ## Learning Scala
 
