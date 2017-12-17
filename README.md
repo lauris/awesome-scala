@@ -37,6 +37,7 @@ Projects with over 500 stargazers are in bold.
     - [Reactive Web Frameworks](#reactive-web-frameworks)
     - [Sbt plugins](#sbt-plugins)
     - [Science and Data Analysis](#science-and-data-analysis)
+    - [Scheduling](#scheduling)
     - [Semantic Web](#semantic-web)
     - [Serialization](#serialization)
     - [Templating](#templating)
@@ -535,6 +536,10 @@ Projects with over 500 stargazers are in bold.
 * [js-scala ★ 155 ⧗ 9](https://github.com/js-scala/js-scala) - JavaScript as an embedded DSL in Scala
 * [scala-js-fiddle](http://www.scala-js-fiddle.com/) ([repo](https://github.com/lihaoyi/scala-js-fiddle)) - Browser-based Scala.js playground
 * [Scala.js](http://www.scala-js.org/) ([repo](https://github.com/scala-js/scala-js)) - Scala to JavaScript compiler
+
+## Scheduling
+
+* [akka-quartz-scheduler ★ 365](https://github.com/enragedginger/akka-quartz-scheduler)
 
 ## Templating
 
