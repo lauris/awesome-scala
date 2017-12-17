@@ -40,6 +40,7 @@ Projects with over 500 stargazers are in bold.
     - [Parsing](#parsing)
     - [Sbt plugins](#sbt-plugins)
     - [XML / HTML](#xml--html)
+    - [Markdown](#markdown)
     - [Tools](#tools)
     - [JavaScript](#javascript)
     - [Templating](#templating)
@@ -499,6 +500,10 @@ Projects with over 500 stargazers are in bold.
 
 * [scala-scraper ★ 316 ⧗ 1](https://github.com/ruippeixotog/scala-scraper) - A library for scraping content from HTML pages.
 * [xs4s ★ 29 ⧗ 47](https://github.com/ScalaWilliam/xs4s) - XML Streaming for Scala for processing large (gigabytes and over) XML files.
+
+## Markdown
+
+* [Laika ★ 161](https://github.com/planet42/Laika) - Text Markup Transformer for sbt and Scala applications, transforming Markdown and reStructuredText to HTML and PDF.
 
 ## Learning Scala
 
