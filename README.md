@@ -529,6 +529,7 @@ Projects with over 500 stargazers are in bold.
 * Resources by [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - None
 * [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/) - None
+* [Learn-by-doing functional programming course on Scala](https://github.com/dehun/learn-fp/) - Covers type classes, functors, applicatives, monads, monad transformers, free monad
 * [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) - Tutorial-driven introduction to Scala
 
 ## JavaScript
