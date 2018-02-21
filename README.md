@@ -574,6 +574,7 @@ Projects with over 500 stargazers are in bold.
 * [Scaps](http://scala-search.org/) ([repo](https://github.com/scala-search/scaps)) - A search engine for Scala libraries
 * [Scoverage](https://github.com/scoverage) - Scala Code Coverage tool
 * **[Wartremover ★ 662 ⧗ 1](https://github.com/puffnfresh/wartremover)** - Wartremover a flexible Scala code linting tool
+* [Giter8](http://www.foundweekends.org/giter8/) command line tool to generate files and directories from templates published on Github
 
 ## Geospatial
 
