@@ -19,6 +19,7 @@ Projects with over 500 stargazers are in bold.
     - [CSV](#csv)
     - [Data Binding and Validation](#data-binding-and-validation)
     - [Database](#database)
+    - [DevOps](#devops)
     - [Distributed Systems](#distributed-systems)
     - [Extensions](#extensions)
     - [Functional Reactive Programming](#functional-reactive-programming)
@@ -587,6 +588,12 @@ Projects with over 500 stargazers are in bold.
 * **[Geotrellis ★ 553 ⧗ 0](https://github.com/locationtech/geotrellis)** - Scalable raster toolkit for GIS processing
 * [osm4scala ★ 8 ⧗ 40](https://github.com/angelcervera/osm4scala) - OpenStreetMap PBF2 file parser
 * [sfcurve ★ 20 ⧗ 1](https://github.com/locationtech/sfcurve) - Space filling curves in Scala for geospatial indexing and query
+
+## Devops
+
+*DevOps related tools and libraries.*
+
+* [Skuber ★ 85 ⧗ 0](https://github.com/doriordan/skuber) - Kubernetes client in Scala
 
 # Contributing
 
