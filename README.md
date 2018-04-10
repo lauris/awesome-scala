@@ -564,6 +564,7 @@ Projects with over 500 stargazers are in bold.
 
 ## Tools
 
+* [Mill](http://www.lihaoyi.com/mill/) - A better Scala build tool
 * [Abide ★ 243 ⧗ 3](https://github.com/scala/scala-abide) - Library for quick scala code checking and validation
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
 * [Fastring ★ 97 ⧗ 2](https://github.com/Atry/fastring) - Extremely fast string formatting
