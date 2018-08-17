@@ -552,6 +552,7 @@ Projects with over 500 stargazers are in bold.
 * [Learn-by-doing functional programming course on Scala](https://github.com/dehun/learn-fp/) - Covers type classes, functors, applicatives, monads, monad transformers, free monad
 * [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) - Tutorial-driven introduction to Scala
 * [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
+* [Functional Works / Learn](https://functional.works-hub.com/learn/) - Quality resources maintained by functional works
 
 ## JavaScript
 
