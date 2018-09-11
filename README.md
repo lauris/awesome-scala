@@ -47,6 +47,9 @@ Projects with over 500 stargazers are in bold.
     - [Web Frameworks](#web-frameworks)
     - [XML / HTML](#xml--html)
     - [YAML](#yaml)
+- [Resources](#resources)   
+    - [Newsletters](#newsletters)
+    - [Podcasts](#podcasts)    
 - [Contributing](#contributing)
 
 ## Database
@@ -594,6 +597,18 @@ Projects with over 500 stargazers are in bold.
 *DevOps related tools and libraries.*
 
 * [Skuber ★ 85 ⧗ 0](https://github.com/doriordan/skuber) - Kubernetes client in Scala
+
+# Resources
+
+Where to discover new Scala libraries.
+
+## Podcasts
+
+* [CoRecursive Interviews](https://corecursive.com/) - In-depth Interviews with software developers, often on the subject of scala libraries and functional programming.
+
+## Newsletters
+
+* [Scala Times](https://scalatimes.com/) - Weekly newsletter about scala
 
 # Contributing
 
