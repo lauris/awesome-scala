@@ -57,6 +57,7 @@ Projects with over 500 stargazers are in bold.
 ## Artificial Intelligence
 
 * [CIlib ★ 82](https://github.com/cirg-up/cilib) - Typesafe, purely functional Computational Intelligence.
+* [CIlib-tutorial ★ 2](https://github.com/cirg-up/cilib-tutorial) - A tutorial book for cilib.
 
 ## Database
 
