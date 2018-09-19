@@ -1,3 +1,4 @@
+
 Awesome Scala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
 
@@ -12,6 +13,7 @@ Projects with over 500 stargazers are in bold.
 - [Learning Scala](#learning-scala)
 - [Projects](#projects)
     - [Android](#android)
+    - [Artificial Intelligence](#artificial-intelligence)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
     - [Big Data](#big-data)
@@ -47,10 +49,15 @@ Projects with over 500 stargazers are in bold.
     - [Web Frameworks](#web-frameworks)
     - [XML / HTML](#xml--html)
     - [YAML](#yaml)
-- [Resources](#resources)   
+- [Resources](#resources)
     - [Newsletters](#newsletters)
-    - [Podcasts](#podcasts)    
+    - [Podcasts](#podcasts)
 - [Contributing](#contributing)
+
+## Artificial Intelligence
+
+* [CIlib ★ 82](https://github.com/cirg-up/cilib) - Typesafe, purely functional Computational Intelligence.
+* [CIlib-tutorial ★ 2](https://github.com/cirg-up/cilib-tutorial) - A tutorial book for cilib.
 
 ## Database
 
