@@ -197,7 +197,7 @@ Projects with over 500 stargazers are in bold.
 * **[Specs2 ★ 570 ⧗ 1](https://github.com/etorreborre/specs2)** - Software Specifications for Scala.
 * [µTest ★ 197 ⧗ 0](https://github.com/lihaoyi/utest) - A tiny, portable testing library for Scala.
 * [testcontainers-scala ★ 52 ⧗ 2](https://github.com/testcontainers/testcontainers-scala) - Docker containers for testing in Scala.
-* [Stryker4s ★ 14](https://github.com/stryker-mutator/stryker4s) - Test your tests with mutation testing.
+* [Stryker4s ★ 21](https://github.com/stryker-mutator/stryker4s) - Test your tests with mutation testing.
 
 ## JSON
 
