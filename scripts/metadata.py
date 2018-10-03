@@ -3,8 +3,9 @@
 #
 # by Erik Osheim
 #
-# Reads README.md, and writes a README.md.new. If the format of
-# README.md changes, this script may need modifications.
+# Reads README.md, writes a README.md.new. 
+# Then overwrites README.md with new version, README.md.new.
+# If the format of README.md changes, this script may need modifications.
 #
 # Currently it rewrites each section, doing the following:
 #  1. alphabetizing
@@ -15,9 +16,9 @@
 # Once README.md has the stars/days info in the links, the
 # repo_regex will need slight modification.
 #
-# In order to use GH authentication, create a file in this directory
-# called .access-token, whose contents are: "$user:$token" where $user
-# is your github username, and $token is a Personal Access Token.
+# In order to use GH authentication, create an environment variable
+# called GITHUB_TOKEN, whose contents are: "$user:$token" 
+# where $user is your Github username, and $token is a Personal Access Token.
 
 import base64
 import datetime
@@ -118,9 +119,8 @@ def run():
     if fake:
         print 'running in fake mode -- no GH queries will be made'
 
-    if 'GITHUB_TOKEN' in os.environ: #os.path.exists('.access-token'):
+    if 'GITHUB_TOKEN' in os.environ:
         global user, token
-        #user, token = open('.access-token').read().strip().split(':')
         user, token = os.environ['GITHUB_TOKEN'].strip().split(':')
         print 'using Personal Access Token...'
     else:
