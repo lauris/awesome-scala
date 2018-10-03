@@ -22,7 +22,7 @@
 import base64
 import datetime
 import json
-import os.path
+import os
 import random
 import re
 import shutil
@@ -37,7 +37,7 @@ end_regex = re.compile(r"^# .+\n$")
 github_regex = re.compile(r"^https://github.com/(.+?)/(.+?)(?:/?)$")
 
 # some paths
-readme_path = 'README.md'
+readme_path = '../README.md'
 temp_path = 'README.md.new'
 
 # these will be updated if .access-token exists.
@@ -118,12 +118,13 @@ def run():
     if fake:
         print 'running in fake mode -- no GH queries will be made'
 
-    if os.path.exists('.access-token'):
+    if os.environ['GITHUB_TOKEN'] is not None: #os.path.exists('.access-token'):
         global user, token
-        user, token = open('.access-token').read().strip().split(':')
-        print 'using Personal Access Token {0}:{1}'.format(user, token)
+        #user, token = open('.access-token').read().strip().split(':')
+        user, token = os.environ['GITHUB_TOKEN'].strip().split(':')
+        print 'using Personal Access Token...'
     else:
-        print 'no Personal Access Token found in .access-token'
+        print 'no Personal Access Token found in $GITHUB_TOKEN'
 
     inf = open(readme_path, 'r')
     lines = list(inf)

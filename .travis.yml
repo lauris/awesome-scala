@@ -1,0 +1,10 @@
+language: python
+
+python:
+  - "2.7"
+
+deploy:
+  provider: script
+  script: bash scripts/deploy.sh
+  on:
+    branch: master
