@@ -118,7 +118,7 @@ def run():
     if fake:
         print 'running in fake mode -- no GH queries will be made'
 
-    if os.environ['GITHUB_TOKEN'] is not None: #os.path.exists('.access-token'):
+    if 'GITHUB_TOKEN' in os.environ: #os.path.exists('.access-token'):
         global user, token
         #user, token = open('.access-token').read().strip().split(':')
         user, token = os.environ['GITHUB_TOKEN'].strip().split(':')
