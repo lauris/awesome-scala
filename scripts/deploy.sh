@@ -3,8 +3,8 @@ echo "RUNNING DEPLOY.sh ..."
 ls
 
 echo "RUNNING metadata.py ..."
-chmod +x metadata.py
-./metadata.py
+chmod +x scripts/metadata.py
+scripts/metadata.py
 
 ls
 
