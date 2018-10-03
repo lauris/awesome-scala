@@ -1,9 +1,6 @@
-echo "RUNNING DEPLOY.sh ..."
 
-ls
+chmod +x scripts/metadata.py
+scripts/metadata.py
 
-chmod +x metadata.py
-./metadata.py
-
-ls
-
+chmod +x scripts/push.sh
+scripts/push.sh

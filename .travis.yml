@@ -1,10 +1,10 @@
-language: python
 
-python:
-  - "2.7"
+language: generic
+
+script: bash scripts/deploy.sh
 
 deploy:
   provider: script
   script: bash scripts/deploy.sh
-  on:
-    branch: master
+#  on:
+#    branch: master
