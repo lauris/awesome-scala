@@ -12,8 +12,8 @@ commit_files() {
 }
 
 upload_files() {
-  git remote add origin-pages https://${GITHUB_TOKEN}@github.com/MVSE-outreach/resources.git > /dev/null 2>&1
-  git push --quiet master
+  git remote add origin-repo https://${GITHUB_TOKEN}@github.com/sake92/awesome-scala.git > /dev/null 2>&1
+  git push --quiet origin-repo master
 }
 
 setup_git
