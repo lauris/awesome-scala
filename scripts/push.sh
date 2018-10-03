@@ -12,7 +12,7 @@ commit_files() {
  echo "commit START"
   git config core.filemode false # ignore chmod changes
   #git checkout master
-  git add README.md
+  git add .
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
   echo "commit END"
 }
@@ -20,7 +20,7 @@ commit_files() {
 upload_files() {
  echo "upload_files START"
   git remote add origin-repo https://${GITHUB_TOKEN}@github.com/sake92/awesome-scala.git > /dev/null 2>&1
-  git push --quiet origin-repo test-travis 
+  git push --quiet --set-upstream origin-repo test-travis 
   #git push --quiet origin-repo master 
   echo "upload_files END"
 }
