@@ -1,10 +1,7 @@
-echo "RUNNING DEPLOY.sh ..."
 
-ls
-
-echo "RUNNING metadata.py ..."
 chmod +x scripts/metadata.py
 scripts/metadata.py
 
-ls
+mv -f README.md.new README.md
 
+scripts/push.sh
