@@ -10,6 +10,7 @@ echo "Set git config START"
 
 commit_files() {
  echo "commit START"
+ git diff
   git checkout master
   git add README.md
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
