@@ -37,7 +37,7 @@ end_regex = re.compile(r"^# .+\n$")
 github_regex = re.compile(r"^https://github.com/(.+?)/(.+?)(?:/?)$")
 
 # some paths
-readme_path = '../README.md'
+readme_path = 'README.md'
 temp_path = 'README.md.new'
 
 # these will be updated if .access-token exists.
