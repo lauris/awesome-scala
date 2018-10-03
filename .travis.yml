@@ -1,6 +1,8 @@
 
 language: generic
 
+script: bash scripts/deploy.sh
+
 deploy:
   provider: script
   script: bash scripts/deploy.sh
