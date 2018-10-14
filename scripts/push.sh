@@ -12,7 +12,7 @@ commit_files() {
 }
 
 upload_files() {
-  git remote add origin-repo https://${GITHUB_TOKEN}@github.com/sake92/awesome-scala.git > /dev/null 2>&1
+  git remote add origin-repo https://${GITHUB_TOKEN}@github.com/awesome-scala/awesome-scala.git > /dev/null 2>&1
   git push --quiet origin-repo HEAD:$TRAVIS_BRANCH
 }
 
