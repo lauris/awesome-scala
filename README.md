@@ -69,6 +69,8 @@ Projects with over 500 stargazers are in bold.
 * **[doobie ★ 812 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
 * **[Elastic4s ★ 1049 ⧗ 0](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
 * [Finagle ★ 42 ⧗ 71](https://github.com/finagle/finagle-postgres) - PostgreSQL protocol support for Finagle
+* [Gogle4s-GStorage](https://github.com/toknapp/google4s/tree/develop/gstorage) - Google
+Cloud Storage client
 * [longevity ★ 78 ⧗ 21](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL with a Domain Driven Design Orientation
 * [lucene4s ★ 3 ⧗ 56](https://github.com/outr/lucene4s) - Light-weight convenience wrapper around Lucene to simplify complex tasks and add Scala sugar.
 * [MapperDao ★ 12 ⧗ 36](https://github.com/kostaskougios/mapperdao) - An ORM library for oracle, mysql, mssql, and postgresql
@@ -178,6 +180,8 @@ Projects with over 500 stargazers are in bold.
 
 *Cryptography and Encryption Libraries.*
 
+* [Gogle4s-GKMS](https://github.com/toknapp/google4s/tree/develop/gkms) - Google
+Cloud Key Management Service client.
 * [Scrypto ★ 50 ⧗ 4](https://github.com/ScorexProject/scrypto) - All-purpose cryptographic framework.
 * [TSec ★ 27 ⧗ 0](https://github.com/jmcardon/tsec) - Type-safe, functional, general-cryptography library
 
@@ -288,6 +292,7 @@ Projects with over 500 stargazers are in bold.
 * **[BIDMach ★ 745 ⧗ 0](https://github.com/BIDData/BIDMach)** - CPU and GPU machine learning library, using JNI for GPU computation.
 * **[Flink ★ 2414 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * **[Gearpump ★ 619 ⧗ 5](https://github.com/apache/incubator-gearpump)** - Lightweight real-time big data streaming engine
+* [Gogle4s-GPubSub](https://github.com/toknapp/google4s/tree/develop/gpubsub) - Reactive Google PubSub client with Akka Streams support.
 * [GridScale ★ 15 ⧗ 5](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
 * **[Kafka ★ 5035 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
 * **[Reactive-kafka ★ 753 ⧗ 0](https://github.com/akka/reactive-kafka)** - Reactive Streams API for Apache Kafka.
