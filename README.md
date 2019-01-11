@@ -580,7 +580,7 @@ Projects with over 500 stargazers are in bold.
 ## Tools
 
 * [Mill](http://www.lihaoyi.com/mill/) - A better Scala build tool
-* [Scalafix]https://github.com/scalacenter/scalafix) - Refactoring and linting tool
+* [Scalafix](https://github.com/scalacenter/scalafix) - Refactoring and linting tool
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
 * [Fastring ★ 97 ⧗ 2](https://github.com/Atry/fastring) - Extremely fast string formatting
 * [fast-string-interpolator ★ 24 ⧗ 0](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
