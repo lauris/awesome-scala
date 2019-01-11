@@ -559,6 +559,7 @@ Projects with over 500 stargazers are in bold.
 * [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
 * [Functional Works / Learn](https://functional.works-hub.com/learn/) - Quality resources maintained by functional works
 * [Scala for the Impatient 2nd Edition](https://horstmann.com/scala/) - Covers most Scala features with short and easy to understand explainations.
+* [CA Art](https://github.com/makingthematrix/ca_art) - A small project aimed at learning Scala on intermediate level by experimenting with Cellular Automata
 
 ## JavaScript
 
