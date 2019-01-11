@@ -97,6 +97,7 @@ Projects with over 500 stargazers are in bold.
 * [Sorm ★ 239 ⧗ 2](https://github.com/sorm/sorm) - A functional boilerplate-free Scala ORM.
 * [Squeryl ★ 484 ⧗ 1](https://github.com/squeryl/squeryl) - A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
 * [Tepkin ★ 86 ⧗ 251](https://github.com/fehmicansaglam/tepkin) - Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
+* [Sangria](https://sangria-graphql.org/) - Scala GraphQL Implementation
 * [Scruid ★ 48](https://github.com/ing-bank/scruid) - Scruid (Scala+Druid) is an open source library that allows you to compose Druid queries easily in Scala.
 * [neotypes ★ 22 ⧗ 2](https://github.com/neotypes/neotypes) - Pure functional driver for neo4j.
 
@@ -536,6 +537,45 @@ Projects with over 500 stargazers are in bold.
 
 *Nice books, blogs and other resources to learn Scala*
 
+### Community Members' Blogs
+* http://degoes.net/articles/
+* http://blog.higher-order.com/
+* https://pchiusano.github.io/
+* http://www.warski.org/blog/
+* http://www.lihaoyi.com/
+* https://blog.bruchez.name/search/label/scala
+* http://eed3si9n.com/category/tags/scala
+* http://danielwestheide.com/scala/neophytes.html
+* http://ktoso.github.io/scala-types-of-types/
+* https://kubuszok.com/tags/#scala
+* http://appliedscala.com/
+* http://debasishg.blogspot.com/
+* http://blog.tmorris.net/tags/Scala/index.html
+* https://www.beyondthelines.net/
+* https://alvinalexander.com/fpbook
+* https://naildrivin5.com/scalatour/
+* https://manuel.bernhardt.io/blog/
+* https://janzhou.org/scala/
+* http://torre.me.uk/docs/scala/
+* http://www.rabbitonweb.com/
+* http://scalaprof.blogspot.com/
+* http://aperiodic.net/phil/scala/s-99/
+* http://scalacookbook.com/
+
+### Company Blogs
+* [Functional Works / Learn](https://functional.works-hub.com/learn/) - Quality resources maintained by functional works
+* https://blog.softwaremill.com/tagged/scala
+* http://allaboutscala.com/
+* https://www.codacy.com/blog/
+* https://medium.com/disney-streaming/tagged/thisweekinscala
+* https://blog.knoldus.com/tag/scala/
+* http://enear.github.io/
+* https://blog.scalac.io/tags/Scala/
+* [Scala Times](https://scalatimes.com/) - Weekly newsletter about scala
+
+
+
+### Misc.
 * **[Demos and Examples in Scala (Chinese) ★ 525 ⧗ 2](https://github.com/jacksu/utils4s)** - repo of sample Scala library usage, written in Chinese
 * [A Tour of Scala](http://docs.scala-lang.org/tour/tour-of-scala.html) - Bite-sized introductions to some of the core language concepts.
 * [Deploying Scala libraries to Sonatype for dummies ★ 23 ⧗ 25](https://github.com/larroy/deployingScalaLibrariesToSonatype) - None
@@ -550,14 +590,12 @@ Projects with over 500 stargazers are in bold.
 * [Scala school](https://twitter.github.io/scala_school/) - Scala school started as a series of lectures at Twitter to prepare experienced engineers to be productive Scala programmers.
 * [Essential Scala](https://underscore.io/books/essential-scala/) - None
 * [Scalera Blog](http://www.scalera.es) - Blog about Scala language and its environment (howto's, good practices, tips,...). Weekly posts written in both spanish and english
-* [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - None
 * Resources by [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - None
 * [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/) - None
 * [Learn-by-doing functional programming course on Scala](https://github.com/dehun/learn-fp/) - Covers type classes, functors, applicatives, monads, monad transformers, free monad
 * [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) - Tutorial-driven introduction to Scala
 * [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
-* [Functional Works / Learn](https://functional.works-hub.com/learn/) - Quality resources maintained by functional works
 * [Scala for the Impatient 2nd Edition](https://horstmann.com/scala/) - Covers most Scala features with short and easy to understand explainations.
 * [CA Art](https://github.com/makingthematrix/ca_art) - A small project aimed at learning Scala on intermediate level by experimenting with Cellular Automata
 
@@ -623,10 +661,6 @@ Where to discover new Scala libraries.
 ## Podcasts
 
 * [CoRecursive Interviews](https://corecursive.com/) - In-depth Interviews with software developers, often on the subject of scala libraries and functional programming.
-
-## Newsletters
-
-* [Scala Times](https://scalatimes.com/) - Weekly newsletter about scala
 
 # Contributing
 
