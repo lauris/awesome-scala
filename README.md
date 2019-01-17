@@ -539,6 +539,7 @@ Projects with over 500 stargazers are in bold.
 
 ### Community Members' Blogs
 * http://degoes.net/articles/
+* https://github.com/lemastero/scala_typeclassopedia
 * http://blog.higher-order.com/
 * https://pchiusano.github.io/
 * http://www.warski.org/blog/
