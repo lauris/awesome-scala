@@ -557,7 +557,7 @@ Projects with over 500 stargazers are in bold.
 * http://degoes.net/articles/
 * http://eed3si9n.com/category/tags/scala
 * http://ktoso.github.io/scala-types-of-types/
-* http://scalacookbook.com/object
+* http://scalacookbook.com/
 * http://scalaprof.blogspot.com/
 * http://torre.me.uk/docs/scala/
 * http://www.lihaoyi.com/
