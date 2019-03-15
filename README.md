@@ -472,6 +472,7 @@ Projects with over 500 stargazers are in bold.
 * [Spray](http://spray.io/) - Actor-based library for http interaction.
 * [sttp](https://github.com/softwaremill/sttp) - The Scala HTTP client you always wanted!
 * [Tubesocks ★ 12 ⧗ 174](https://github.com/softprops/tubesocks) - Library supporting bi-directional communication with websocket servers.
+* [requests-scala ★ 326](https://github.com/lihaoyi/requests-scala) - A Scala port of the popular Python Requests HTTP client: flexible, intuitive, and straightforward to use.
 
 ## Semantic Web
 
