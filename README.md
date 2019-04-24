@@ -587,6 +587,7 @@ Projects with over 500 stargazers are in bold.
 * https://blog.softwaremill.com/tagged/scala
 * https://medium.com/disney-streaming/tagged/thisweekinscala
 * https://www.codacy.com/blog/
+* [Iterators blog](https://www.iteratorshq.com/blog/) - Iterators company blog
 * [Scala Times](https://scalatimes.com/) - Weekly newsletter about scala
 
 
