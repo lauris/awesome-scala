@@ -322,6 +322,7 @@ Projects with over 500 stargazers are in bold.
 
 ## Sound processing and music
 
+* [Chromaprint.scala ★ 31](https://github.com/mgdigital/Chromaprint.scala) - A Scala implementation of the Chromaprint/AcoustID audio fingerprinting algorithm.
 * [ScalaCollider ★ 121 ⧗ 5](https://github.com/Sciss/ScalaCollider) - Sound synthesis and signal processing client for SuperCollider.
 
 ## Functional Reactive Programming
