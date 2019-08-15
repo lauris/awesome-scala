@@ -369,6 +369,7 @@ Projects with over 500 stargazers are in bold.
 * [Glokka ★ 46 ⧗ 148](https://github.com/xitrum-framework/glokka) - Library to register and lookup actors by names in an Akka cluster.
 * [Lagom](https://www.lightbend.com/lagom) - Framework for creating microservice-based systems.
 * [Reactors](http://reactors.io/) - Foundational framework for distributed computing that fuses functional reactive programming and traditional actors.
+* [Parapet](https://github.com/parapet-io/parapet) - A purely functional library to build distributed and event-driven systems
 
 ## Extensions
 
