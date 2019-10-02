@@ -543,7 +543,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-scalafmt ★ 37 ⧗ 6](https://github.com/scalameta/sbt-scalafmt) - sbt plugin for Scalafmt [https://scalameta.org/scalafmt/](https://scalameta.org/scalafmt/)
 * [sbt-scala-js-map ★ 12 ⧗ 2](https://github.com/ThoughtWorksInc/sbt-scala-js-map) - A sbt plugin that configures source mapping for Scala.js projects hosted on Github
 * [sbt-scoverage ★ 470 ⧗ 68](https://github.com/scoverage/sbt-scoverage) - A plugin for SBT that integrates the scoverage code coverage library.
-* [sbt-site ★ 159 ⧗ 122](https://github.com/scoverage/sbt-scoverage) - Site generation for sbt [https://www.scala-sbt.org/sbt-site/](https://www.scala-sbt.org/sbt-site/)
+* [sbt-site ★ 159 ⧗ 122](https://github.com/sbt/sbt-site) - Site generation for sbt [https://www.scala-sbt.org/sbt-site/](https://www.scala-sbt.org/sbt-site/)
 * [sbt-sonatype ★ 221 ⧗ 4](https://github.com/xerial/sbt-sonatype) - A sbt plugin for publishing Scala/Java projects to the Maven central.
 * [sbt-sublime ★ 145 ⧗ 38](https://github.com/orrsella/sbt-sublime) - Create Sublime Text projects with library dependencies sources
 * [sbt-unidoc ★ 104 ⧗ 94](https://github.com/sbt/sbt-unidoc) - sbt plugin to create a unified API document across projects
