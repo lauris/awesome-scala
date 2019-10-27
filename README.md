@@ -60,6 +60,8 @@ Projects with over 500 stargazers are in bold.
 * [CIlib-tutorial ★ 2](https://github.com/cirg-up/cilib-tutorial) - A tutorial book for cilib.
 
 ## Database
+*Databases in Scala.*
+* [SwayDB ★ 172 ⧗ 8](https://github.com/simerplaha/SwayDB) - Embeddable persistent and in-memory database.
 
 *Database access libraries in Scala.*
 
