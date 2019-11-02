@@ -665,6 +665,7 @@ Projects with over 500 stargazers are in bold.
 * [fast-string-interpolator ★ 24 ⧗ 0](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
 * **[Gitbucket ★ 6296 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [Giter8](http://www.foundweekends.org/giter8/) command line tool to generate files and directories from templates published on Github
+* [Metals ★ 953 ⧗ 206](https://github.com/scalameta/metals) - Scala language server with rich IDE features
 * [Mill](http://www.lihaoyi.com/mill/) - A better Scala build tool
 * [pos ★ 13](https://github.com/JohnReedLOL/pos) - Print debug tool, successor of scala-trace-debug
 * [Scalafix](https://github.com/scalacenter/scalafix) - Refactoring and linting tool
