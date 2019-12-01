@@ -63,7 +63,7 @@ Projects with over 500 stargazers are in bold.
 
 *Database access libraries in Scala.*
 
-* [Anorm](https://github.com/playframework/anorm) - Simple SQL data access <img src="https://img.shields.io/github/stars/playframework/anorm?style=flat-square">
+* [Anorm](https://github.com/playframework/anorm) - Simple SQL data access <img src="https://img.shields.io/github/stars/playframework/anorm?style=flat-square" style="vertical-align:sub">
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
 * [CouchDB-Scala](https://github.com/beloglazov/couchdb-scala) - Purely functional Scala client for CouchDB
 * [doobie](https://github.com/tpolecat/doobie) - Pure functional JDBC layer for Scala.
