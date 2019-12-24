@@ -153,6 +153,7 @@ Projects with over 500 stargazers are in bold.
 * [form-binder ★ 17 ⧗ 29](https://github.com/tminglei/form-binder) - A micro data binding and validating framework, very easy to use and hack
 * [Monkeytail ★ 55](https://github.com/sksamuel/monkeytail) - A set of validation macros and helpers for cats.Validated
 * [Octopus ★ 15](https://github.com/krzemin/octopus) - Scala library for boilerplate-free validation
+* [Dupin ★ 7](https://github.com/yakivy/dupin) - Minimal, idiomatic, customizable validation for Scala.
 
 ## i18n
 
