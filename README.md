@@ -154,6 +154,7 @@ Projects with over 500 stargazers are in bold.
 * [Monkeytail ★ 55](https://github.com/sksamuel/monkeytail) - A set of validation macros and helpers for cats.Validated
 * [Octopus ★ 15](https://github.com/krzemin/octopus) - Scala library for boilerplate-free validation
 * [Dupin ★ 7](https://github.com/yakivy/dupin) - Minimal, idiomatic, customizable validation for Scala.
+* [Veto](https://github.com/splink/veto) - A scala validation library without dependencies.
 
 ## i18n
 
