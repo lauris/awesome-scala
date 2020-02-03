@@ -663,6 +663,7 @@ Projects with over 500 stargazers are in bold.
 ## Tools
 
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
+* **[coursier ★ 847 ⧗ 0](https://github.com/alexarchambault/coursier)** - Pure Scala Artifact Fetching. A Scala cli and library to fetch dependencies from Maven / Ivy repositories.
 * [dregrex](https://github.com/marianobarrios/dregex) - Regular expression engine using deterministic finite automata. It supports some Perl-style features and yet retains linear matching time.
 * [Fastring ★ 97 ⧗ 2](https://github.com/Atry/fastring) - Extremely fast string formatting
 * [fast-string-interpolator ★ 24 ⧗ 0](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
