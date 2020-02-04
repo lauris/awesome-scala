@@ -662,6 +662,7 @@ Projects with over 500 stargazers are in bold.
 
 ## Tools
 
+* **[bloop ★ 583 ⧗ 0](https://github.com/scalacenter/bloop)** - A fast build server for Scala with a rich ecosystem of build tool and IDE integrations.
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
 * **[coursier ★ 847 ⧗ 0](https://github.com/alexarchambault/coursier)** - Pure Scala Artifact Fetching. A Scala cli and library to fetch dependencies from Maven / Ivy repositories.
 * [dregrex](https://github.com/marianobarrios/dregex) - Regular expression engine using deterministic finite automata. It supports some Perl-style features and yet retains linear matching time.
