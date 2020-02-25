@@ -70,6 +70,7 @@ Projects with over 500 stargazers are in bold.
 * [Couchbase](https://github.com/couchbase/couchbase-jvm-clients) - Official Couchbase client for Scala.
 * **[doobie ★ 812 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
 * **[Elastic4s ★ 1049 ⧗ 0](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
+* [etcd4s](https://github.com/mingchuno/etcd4s) - Scala etcd client implementing V3 APIs
 * [Finagle ★ 42 ⧗ 71](https://github.com/finagle/finagle-postgres) - PostgreSQL protocol support for Finagle
 * [laserdisc ★ 37](https://github.com/laserdisc-io/laserdisc) - A Future-free, fs2 native pure FP Redis client
 * [longevity ★ 78 ⧗ 21](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL with a Domain Driven Design Orientation
