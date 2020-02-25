@@ -19,6 +19,7 @@
 # called .access-token, whose contents are: "$user:$token" where $user
 # is your github username, and $token is a Personal Access Token.
 
+from __future__ import print_function
 import base64
 import datetime
 import json
@@ -57,7 +58,7 @@ now = datetime.datetime.now()
 # activity, for the given github project.
 def query(owner, name):
     if fake:
-        print '    {0}/{1}: ok'.format(owner, name)
+        print('    {0}/{1}: ok'.format(owner, name))
         return (random.randint(1, 1000), random.randint(1, 300))
     else:
         try:
@@ -69,10 +70,10 @@ def query(owner, name):
             j = json.load(u)
             t = datetime.datetime.strptime(j['updated_at'], "%Y-%m-%dT%H:%M:%SZ")
             days = max(int((now - t).days), 0)
-            print '    {0}/{1}: ok'.format(owner, name)
+            print('    {0}/{1}: ok'.format(owner, name))
             return (int(j['stargazers_count']), days)
-        except urllib2.HTTPError, e:
-            print '    {0}/{1}: FAILED'.format(owner, name)
+        except urllib2.HTTPError as e:
+            print('    {0}/{1}: FAILED'.format(owner, name))
             return (None, None)
 
 def output_repo(outf, name, stars, days, link, rdesc):
@@ -87,7 +88,7 @@ def output_repo(outf, name, stars, days, link, rdesc):
         outf.write('* [{0}]({1}) - {2}\n'.format(title, link, rdesc))
 
 def flush_section(outf, section, sdesc, repos):
-    print '  ' + section.strip()
+    print('  ' + section.strip())
     outf.write(section)
     outf.write('\n')
     if sdesc:
@@ -101,7 +102,7 @@ def flush_section(outf, section, sdesc, repos):
 
         m = github_regex.match(link)
         if not m:
-            print '    {0}: not a repo'.format(link)
+            print('    {0}: not a repo'.format(link))
             output_repo(outf, name, stars, days, link, rdesc)
             continue
 
@@ -111,24 +112,24 @@ def flush_section(outf, section, sdesc, repos):
 
 def run():
     if full_update:
-        print 'querying for all entries'
+        print('querying for all entries')
     else:
-        print 'querying for new entries only'
+        print('querying for new entries only')
 
     if fake:
-        print 'running in fake mode -- no GH queries will be made'
+        print('running in fake mode -- no GH queries will be made')
 
     if os.path.exists('.access-token'):
         global user, token
         user, token = open('.access-token').read().strip().split(':')
-        print 'using Personal Access Token {0}:{1}'.format(user, token)
+        print('using Personal Access Token {0}:{1}'.format(user, token))
     else:
-        print 'no Personal Access Token found in .access-token'
+        print('no Personal Access Token found in .access-token')
 
     inf = open(readme_path, 'r')
     lines = list(inf)
     inf.close()
-    print 'read {0}'.format(readme_path)
+    print('read {0}'.format(readme_path))
 
     started = False
     finished = False
@@ -139,7 +140,7 @@ def run():
 
     total_repos = 0
 
-    print 'writing {0}'.format(temp_path)
+    print('writing {0}'.format(temp_path))
     for line in lines:
         if finished:
             outf.write(line)
@@ -173,13 +174,13 @@ def run():
             else:
                 outf.write(line)
     outf.close()
-    print 'wrote {0} repos to {1}'.format(total_repos, temp_path)
+    print('wrote {0} repos to {1}'.format(total_repos, temp_path))
 
-    print 'moving {0} to {1}'.format(temp_path, readme_path)
+    print('moving {0} to {1}'.format(temp_path, readme_path))
     shutil.move(temp_path, readme_path)
 
 if __name__ == "__main__":
-    #global fake, full_update
+    # global fake, full_update
 
     from optparse import OptionParser
 
