@@ -105,6 +105,7 @@ Projects with over 500 stargazers are in bold.
 * [Sangria](https://sangria-graphql.org/) - Scala GraphQL Implementation
 * [Scruid ★ 48](https://github.com/ing-bank/scruid) - Scruid (Scala+Druid) is an open source library that allows you to compose Druid queries easily in Scala.
 * [Tepkin ★ 86 ⧗ 251](https://github.com/fehmicansaglam/tepkin) - Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
+* [akka-persistence-gcp-datastore](https://github.com/innFactory/akka-persistence-gcp-datastore) - akka-persistence-gcp-datastore is a journal and snapshot store plugin for akka-persistence using Google Cloud Datastore.
 
 ## Messaging
 
