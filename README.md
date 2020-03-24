@@ -17,6 +17,7 @@ Projects with over 500 stargazers are in bold.
     - [Authentication](#authentication)
     - [Authorization](#authorization)
     - [Big Data](#big-data)
+    - [Command Line Interfaces](#command-line-interfaces)
     - [Cryptography](#cryptography)
     - [CSV](#csv)
     - [Data Binding and Validation](#data-binding-and-validation)
@@ -320,6 +321,15 @@ Projects with over 500 stargazers are in bold.
 * **[Summingbird ★ 1841 ⧗ 1](https://github.com/twitter/summingbird)** - An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
 * [Vegas](https://github.com/vegas-viz/Vegas) - The missing MatPlotLib for Scala + Spark
 
+## Command Line Interfaces
+
+*Libraries for creation of command line interfaces*
+
+* [CLIST ★ 97 ⧗ 24](https://github.com/backuity/clist) - Command Line Interface Scala Toolkit
+* [decline ★ 361 ⧗ 37](https://github.com/bkirwi/decline) - composable command-line parser for Scala, built on Cats
+* **[scallop ★ 527 ⧗ 28](https://github.com/scallop/scallop)** - a simple Scala CLI parsing library
+* **[Scopt ★ 1195 ⧗ 24](https://github.com/scopt/scopt)** - Simple scala command line options parsing.
+
 ## Image processing and image analysis
 
 *2D and 3D image processing and image analysis*
@@ -507,13 +517,9 @@ Projects with over 500 stargazers are in bold.
 *Scala libraries for creating parsers.*
 
 * [atto ★ 148 ⧗ 1](https://github.com/tpolecat/atto) - Pure functional incremental text parsing library for Scala, based on Attoparsec.
-* [CLIST ★ 43 ⧗ 24](https://github.com/backuity/clist) - Command Line Interface Scala Toolkit
-* [decline ★ 101](https://github.com/bkirwi/decline) - composable command-line parser for Scala, built on Cats
 * [Fast Parse ★ 467 ⧗ 1](https://github.com/lihaoyi/fastparse) - Fast to write, Fast running Parsers in Scala
 * **[Parboiled2 ★ 502 ⧗ 7](https://github.com/sirthias/parboiled2)** - A Fast Parser Generator for Scala 2.10.3+.
 * [Scala Parser Combinators ★ 221 ⧗ 0](https://github.com/scala/scala-parser-combinators) - Scala Standard Parser Combinator Library.
-* **[scallop ★ 534 ⧗ 17](https://github.com/scallop/scallop)** - a simple Scala CLI parsing library
-* **[Scopt ★ 678 ⧗ 0](https://github.com/scopt/scopt)** - Simple scala command line options parsing.
 
 ## Sbt plugins
 
@@ -545,7 +551,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-pantarhei ★ 3 ⧗ 0](https://github.com/kolov/sbt-pantarhei) - SBT plugin to generate release notes from the pull requests and git commits in GitHub.
 * [sbt-pgp ★ 101 ⧗ 4](https://github.com/sbt/sbt-pgp) - PGP plugin for sbt
 * **[sbt-revolver ★ 519 ⧗ 0](https://github.com/spray/sbt-revolver)** - Fork & Stop processes from sbt.
-* **[sbt-release ★ 543 ⧗ 70](https://github.com/sbt/sbt-release)** - A release plugin for sbt 
+* **[sbt-release ★ 543 ⧗ 70](https://github.com/sbt/sbt-release)** - A release plugin for sbt
 * [sbt-robovm ★ 107 ⧗ 17](https://github.com/roboscala/sbt-robovm) - An sbt plugin for iOS development in Scala
 * [sbt-scalafmt ★ 37 ⧗ 6](https://github.com/scalameta/sbt-scalafmt) - sbt plugin for Scalafmt [https://scalameta.org/scalafmt/](https://scalameta.org/scalafmt/)
 * [sbt-scala-js-map ★ 12 ⧗ 2](https://github.com/ThoughtWorksInc/sbt-scala-js-map) - A sbt plugin that configures source mapping for Scala.js projects hosted on Github
