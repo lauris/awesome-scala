@@ -69,6 +69,7 @@ Projects with over 500 stargazers are in bold.
 * **[Casbah ★ 525 ⧗ 5](https://github.com/mongodb/casbah)** - Officially supported Scala driver for MongoDB
 * [Clickhouse-scala-client ★ 66 ⧗ 0](https://github.com/crobox/clickhouse-scala-client) - Reactive client for Clickhouse
 * [Couchbase ★ 17 ⧗ 0](https://github.com/couchbase/couchbase-jvm-clients) - Official Couchbase client for Scala.
+* [d4s](https://github.com/PlayQ/d4s) - "Dynamo DB Database done Scala way". A library that allows accessing the DynamoDB in a purely functional way.
 * [CouchDB-Scala ★ 63 ⧗ 263](https://github.com/beloglazov/couchdb-scala) - Purely functional Scala client for CouchDB
 * **[doobie ★ 1631 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
 * **[Elastic4s ★ 1461 ⧗ 0](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
