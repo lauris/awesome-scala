@@ -617,6 +617,7 @@ Projects with over 500 stargazers are in bold.
 * [pos ★ 19 ⧗ 2](https://github.com/JohnReedLOL/pos) - Print debug tool, successor of scala-trace-debug
 * **[sbt ★ 4101 ⧗ 0](https://github.com/sbt/sbt)** - The interactive build tool for Scala
 * **[Scalafix ★ 513 ⧗ 0](https://github.com/scalacenter/scalafix)** - Refactoring and linting tool
+* [Scalafmt](https://scalameta.org/scalafmt/) - Code formatter for Scala
 * [Scalariform ★ 116 ⧗ 33](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
 * **[Scalastyle ★ 660 ⧗ 1](https://github.com/scalastyle/scalastyle)** - Scala style checker.
 * [Scalatex ★ 281 ⧗ 33](https://github.com/lihaoyi/Scalatex) - Programmable, Typesafe Document Generation
