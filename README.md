@@ -527,6 +527,7 @@ Projects with over 500 stargazers are in bold.
 * [coursier ★ 2 ⧗ 161](https://github.com/alexarchambault/coursier) - A Scala library to fetch dependencies from Maven / Ivy repositories ( Coursier is built-in to SBT since 1.3.0 )
 * [mdoc ★ 169 ⧗ 6](https://github.com/scalameta/mdoc) - Typechecked markdown documentation for Scala [https://scalameta.org/mdoc/](https://scalameta.org/mdoc/)
 * [sbt-api-mappings ★ 74 ⧗ 33](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
+* [sbt-apidoc](https://github.com/valydia/sbt-apidoc) - A port of [apidocjs](https://apidocjs.com/) to sbt, to document REST Api.
 * **[sbt-assembly ★ 1624 ⧗ 0](https://github.com/sbt/sbt-assembly)** - Deploy fat JARs. Restart processes.
 * [sbt-buildinfo ★ 460 ⧗ 6](https://github.com/sbt/sbt-buildinfo) - Generates Scala source from build definition.
 * [sbt-ci-release ★ 135 ⧗ 0](https://github.com/olafurpg/sbt-ci-release) - sbt plugin to automate Sonatype releases from Travis CI
