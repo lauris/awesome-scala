@@ -76,6 +76,7 @@ Projects with over 500 stargazers are in bold.
 * [etcd4s ★ 25 ⧗ 39](https://github.com/mingchuno/etcd4s) - Scala etcd client implementing V3 APIs
 * [Finagle ★ 67 ⧗ 2](https://github.com/finagle/finagle-postgres) - PostgreSQL protocol support for Finagle
 * [laserdisc ★ 47 ⧗ 6](https://github.com/laserdisc-io/laserdisc) - A Future-free, fs2 native pure FP Redis client
+* [mysql-binlog-stream](https://github.com/laserdisc-io/mysql-binlog-stream) - Stream MySQL binlog events with FS2
 * [longevity ★ 101 ⧗ 45](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL with a Domain Driven Design Orientation
 * [lucene4s ★ 39 ⧗ 59](https://github.com/outr/lucene4s) - Light-weight convenience wrapper around Lucene to simplify complex tasks and add Scala sugar.
 * [MapperDao ★ 10 ⧗ 708](https://github.com/kostaskougios/mapperdao) - An ORM library for oracle, mysql, mssql, and postgresql
@@ -444,6 +445,7 @@ Projects with over 500 stargazers are in bold.
 * **[BootZooka ★ 515 ⧗ 0](https://github.com/softwaremill/bootzooka)** - Simple project to quickly start developing a web application using AngularJS and Akka HTTP, without the need to write login, user registration etc.
 * **[Eclair ★ 832 ⧗ 0](https://github.com/ACINQ/eclair)** - ACINQ's Lightning Network implementation written in Scala.  Lightning Network is a second layer protocol built on top of bitcoin to address scalability, privacy, confirmation time and many other issues.
 * [Fansi ★ 163 ⧗ 3](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
+* [fs2-aws](https://github.com/laserdisc-io/fs2-aws) - FS2 streams to interact with AWS utilities
 * [Google4s ★ 9 ⧗ 116](https://github.com/toknapp/google4s/) - Lean, functional library for Google Cloud Services in Scala (KMS, Cloud Storage, PubSub)
 * [GoogleApiScala ★ 17 ⧗ 253](https://github.com/EckerdCollege/google-api-scala) - A simple scala library offering control of Google Drive, Calendar, and the Admin SDK.
 * [mailgun4s ★ 11 ⧗ 296](https://github.com/outr/mailgun4s) - Scala wrapper around the Mailgun API
