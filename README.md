@@ -713,6 +713,7 @@ Projects with over 500 stargazers are in bold.
 * [fast, flexible and intuitive JSON for Scala](http://www.lihaoyi.com/upickle/#uJson)
 * [Scala @LibHunt](https://scala.libhunt.com) - The go-to Scala Toolbox.
 * [List of Scala Online Courses](https://classpert.com/scala-programming) - A list of free and paid Scala online courses by Classpert, An online course search and comparison website
+* [Writing functional DSLs for business domains](https://www.bigdatarepublic.nl/articles/writing-functional-dsls-business-domains/)
 
 ## Podcasts
 
