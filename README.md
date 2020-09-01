@@ -395,6 +395,7 @@ Projects with over 500 stargazers are in bold.
 
 * **[Ammonite-Ops ★ 2172 ⧗ 0](https://github.com/lihaoyi/Ammonite)** - Safe, easy, filesystem operations in Scala as convenient as in the Bash shell.
 * **[better-files ★ 1336 ⧗ 2](https://github.com/pathikrit/better-files)** - Simple, safe and intuitive Scala I/O. better-files is a dependency-free pragmatic thin Scala wrapper around Java NIO.
+* [Blindsight](https://github.com/tersesystems/blindsight) - Blindsight is a Scala logging API with DSL based structured logging, fluent logging, semantic logging, flow logging, and context aware logging.
 * **[Cassovary ★ 983 ⧗ 1](https://github.com/twitter/cassovary)** - A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
 * **[cats ★ 3876 ⧗ 0](https://github.com/typelevel/cats)** - Lightweight, modular, and extensible library for functional programming.
 * **[Chimney ★ 590 ⧗ 0](https://github.com/scalalandio/chimney)** - Scala library for boilerplate-free data transformations.
