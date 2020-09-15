@@ -678,6 +678,7 @@ Name | Description | GitHub Activity
 * [lihaoyi/scalatags](@ghRepo)
 * [scalate/scalate](@ghRepo)
 * [playframework/twirl](@ghRepo)
+* [sake92/hepek](@ghRepo)
 
 ### Tools
 
@@ -704,6 +705,8 @@ Name | Description | GitHub Activity
 * [sksamuel/scapegoat](@ghRepo)
 * [scala-search/scaps](@ghRepo)
 * [puffnfresh/wartremover](@ghRepo)
+* [sake92/stone](@ghRepo)
+* [sake92/scalajs-router](@ghRepo)
 
 ### Geospatial
 
