@@ -794,6 +794,7 @@ Name | Description | GitHub Activity
 * [List of Scala Online Courses](https://classpert.com/scala-programming) - A list of free and paid Scala online courses by Classpert, An online course search and comparison website
 * [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg) -  A youtube channel that provides full fledged videos, recorded at Scala Days Conferences
 * [Writing functional DSLs for business domains](https://www.bigdatarepublic.nl/articles/writing-functional-dsls-business-domains/)
+* [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference/) - An awesome visual guide to some of the most common Scala functions.
 
 ## Podcasts
 
