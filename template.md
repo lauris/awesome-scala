@@ -729,30 +729,25 @@ Name | Description | GitHub Activity
 *Nice books, blogs and other resources to learn Scala*
 
 ## Community Members' Blogs
-* http://aperiodic.net/phil/scala/s-99/
-* http://appliedscala.com/
-* http://blog.higher-order.com/
-* http://blog.tmorris.net/tags/Scala/index.html
-* http://danielwestheide.com/scala/neophytes.html
-* http://debasishg.blogspot.com/
-* http://degoes.net/articles/
+
+* http://lihaoyi.com
+* http://warski.org/blog
+* https://degoes.net/articles
 * http://eed3si9n.com/category/tags/scala
-* http://ktoso.github.io/scala-types-of-types/
-* http://scalacookbook.com/
-* http://scalaprof.blogspot.com/
-* http://torre.me.uk/docs/scala/
-* http://www.lihaoyi.com/
-* http://www.rabbitonweb.com/
-* http://www.warski.org/blog/
+* https://danielwestheide.com/tags/scala
+* https://kubuszok.com/tags/#scala
+* http://debasishg.blogspot.com
+* http://appliedscala.com/blog
+* http://blog.higher-order.com
+* http://ktoso.github.io/scala-types-of-types
+* http://scalaprof.blogspot.com
+* http://torre.me.uk/docs/scala
 * https://alvinalexander.com/fpbook
 * https://blog.bruchez.name/search/label/scala
 * https://github.com/lemastero/scala_typeclassopedia
-* https://janzhou.org/scala/
-* https://kubuszok.com/tags/#scala
-* https://manuel.bernhardt.io/blog/
-* https://naildrivin5.com/scalatour/
-* https://pchiusano.github.io/
-* https://www.beyondthelines.net/
+* https://pchiusano.github.io
+* https://beyondthelines.net
+* https://manuel.bernhardt.io/blog
 
 ## Company Blogs
 * [Functional Works / Learn](https://functional.works-hub.com/learn/) - Quality resources maintained by functional works
@@ -765,41 +760,48 @@ Name | Description | GitHub Activity
 * https://www.codacy.com/blog/
 * [Scala Times](https://scalatimes.com/) - Weekly newsletter about scala
 
-## Misc.
-* [A Tour of Scala](http://docs.scala-lang.org/tour/tour-of-scala.html) - Bite-sized introductions to some of the core language concepts.
-* [CA Art](https://github.com/makingthematrix/ca_art) - A small project aimed at learning Scala on intermediate level by experimenting with Cellular Automata
-* **[Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2](https://github.com/jacksu/utils4s)** - repo of sample Scala library usage, written in Chinese
-* [Deploying Scala libraries to Sonatype for dummies ★ 23 ⧗ 25](https://github.com/larroy/deployingScalaLibrariesToSonatype) - None
-* Resources by [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
-* [Exercism - Scala Exercises](http://exercism.io/languages/scala/exercises) - Community-driven Scala exercises.
-* [Essential Scala](https://underscore.io/books/essential-scala/) - None
-* [Functional Programming in Scala](https://www.coursera.org/specializations/scala) - Coursera Specialization (5 courses) created by  Martin Odersky et al. at the EPFL (Ecole polytechnique fédérale de Lausanne).
-* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - None
+## Books
+* [Essential Scala](https://underscore.io/books/essential-scala/) - Essential Scala is aimed at experienced developers who are encountering Scala for the first time.
 * [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) - Tutorial-driven introduction to Scala
-* [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
-* [Learn-by-doing functional programming course on Scala](https://github.com/dehun/learn-fp/) - Covers type classes, functors, applicatives, monads, monad transformers, free monad
-* [Programming Community Curated Resources for Learning Scala](https://hackr.io/tutorials/learn-scala)
-* [Reactive Programming with Scala and Akka](http://www.foxebook.net/reactive-programming-with-scala-and-akka/) - Use the concepts of reactive programming to build distributed systems running on multiple nodes
-* [Scala Collections Cookbook](http://colobu.com/ScalaCollectionsCookbook/) - Scala collections introduction. written in Chinese.
-* [Scala Exercises](http://scala-exercises.47deg.com/) - Brings the popular Scala Koans to the web. Offering hundreds of solvable exercises organized into 42 categories covering the basics of the Scala language.
 * [Scala With Cats](https://underscore.io/books/scala-with-cats/) - Learn system architecture and design using the techniques of modern functional programming with [Cats](https://typelevel.org/cats/)
-* [Scala in Depth](https://www.manning.com/books/scala-in-depth) - None
-* [Scala school](https://twitter.github.io/scala_school/) - Scala school started as a series of lectures at Twitter to prepare experienced engineers to be productive Scala programmers.
-* [Scalera Blog](http://www.scalera.es) - Blog about Scala language and its environment (howto's, good practices, tips,...). Weekly posts written in both spanish and english
+* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read)
+* [Reactive Programming with Scala and Akka](https://www.amazon.com/Reactive-Programming-Scala-Akka/dp/1783984341) - Use the concepts of reactive programming to build distributed systems running on multiple nodes
+* [Scala Cookbook](http://scalacookbook.com)
 * [Scala for the Impatient 2nd Edition](https://horstmann.com/scala/) - Covers most Scala features with short and easy to understand explainations.
 * [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/) - None
-* [Clean, intuitive, unintrusive, boilerplate-free Scala API](https://github.com/propensive/rapture/blob/dev/doc/json.md)
-* [fast, flexible and intuitive JSON for Scala](http://www.lihaoyi.com/upickle/#uJson)
-* [Scala @LibHunt](https://scala.libhunt.com) - The go-to Scala Toolbox.
-* [List of Scala Online Courses](https://classpert.com/scala-programming) - A list of free and paid Scala online courses by Classpert, An online course search and comparison website
-* [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg) -  A youtube channel that provides full fledged videos, recorded at Scala Days Conferences
-* [Writing functional DSLs for business domains](https://www.bigdatarepublic.nl/articles/writing-functional-dsls-business-domains/)
+
+## Exercises
+* [S-99](http://aperiodic.net/phil/scala/s-99) - Ninety-Nine Scala Problems
+* [Scala Exercises](http://scala-exercises.47deg.com/) - Brings the popular Scala Koans to the web. Offering hundreds of solvable exercises organized into 42 categories covering the basics of the Scala language.
+* [Exercism - Scala Exercises](http://exercism.io/languages/scala/exercises) - Community-driven Scala exercises.
+* [Learn-by-doing functional programming course on Scala](https://github.com/dehun/learn-fp/) - Covers type classes, functors, applicatives, monads, monad transformers, free monad
+
+
+## Tutorials and courses
+* [A Tour of Scala](http://docs.scala-lang.org/tour/tour-of-scala.html) - Bite-sized introductions to some of the core language concepts.
+* [Functional Programming in Scala](https://www.coursera.org/specializations/scala) - Coursera Specialization (5 courses) created by  Martin Odersky et al. at the EPFL (Ecole polytechnique fédérale de Lausanne).
+* Resources by [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
+* **[Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2](https://github.com/jacksu/utils4s)** - repo of sample Scala library usage, written in Chinese
+* [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
+* [Scala Collections Cookbook](http://colobu.com/ScalaCollectionsCookbook/) - Scala collections introduction. written in Chinese.
+
 
 ## Podcasts
 
-* [CoRecursive Interviews](https://corecursive.com/) - In-depth Interviews with software developers, often on the subject of scala libraries and functional programming.
 * [The Scala Logs](https://twitter.com/thescalalogs) - Interviewing developers, open source contributors, subject matter experts, and the like to talk about FP, Scala, open source, and their interests.
 * [Scala Love](https://scala.love/) - Podcast about the Scala Programming Language and its community
+* [CoRecursive Interviews](https://corecursive.com/) - In-depth Interviews with software developers, often on the subject of scala libraries and functional programming.
+
+
+## Misc.
+
+* [Programming Community Curated Resources for Learning Scala](https://hackr.io/tutorials/learn-scala)
+* [Scalera Blog](http://www.scalera.es) - Blog about Scala language and its environment (howto's, good practices, tips,...). Weekly posts written in both spanish and english
+* [Scala @LibHunt](https://scala.libhunt.com) - A community driven list of useful Scala libraries, frameworks and software
+* [List of Scala Online Courses](https://classpert.com/scala-programming) - A list of free and paid Scala online courses by Classpert, An online course search and comparison website
+* [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg) -  A youtube channel that provides full fledged videos, recorded at Scala Days Conferences
+* [CA Art](https://github.com/makingthematrix/ca_art) - A small project aimed at learning Scala on intermediate level by experimenting with Cellular Automata
+
 
 # Contributing
 
