@@ -50,8 +50,12 @@ Projects with over 500 stargazers are in bold.
     - [Web Frameworks](#web-frameworks)
     - [XML / HTML](#xml--html)
     - [YAML](#yaml)
-- [Resources](#resources)
-    - [Newsletters](#newsletters)
+- [Learning Scala](#learning-scala)
+    - [Books](#books)
+    - [Exercises](#exercises)
+    - [Tutorials and courses](#tutorials-and-courses)
+    - [Community members' blogs](#community-members-blogs)
+    - [Company Blogs](#company-blogs)
     - [Podcasts](#podcasts)
 - [Contributing](#contributing)
 
@@ -728,6 +732,32 @@ Name | Description | GitHub Activity
 
 *Nice books, blogs and other resources to learn Scala*
 
+
+## Books
+* [Essential Scala](https://underscore.io/books/essential-scala/) - Essential Scala is aimed at experienced developers who are encountering Scala for the first time.
+* [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) - Tutorial-driven introduction to Scala
+* [Scala With Cats](https://underscore.io/books/scala-with-cats/) - Learn system architecture and design using the techniques of modern functional programming with [Cats](https://typelevel.org/cats/)
+* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read)
+* [Reactive Programming with Scala and Akka](https://www.amazon.com/Reactive-Programming-Scala-Akka/dp/1783984341) - Use the concepts of reactive programming to build distributed systems running on multiple nodes
+* [Scala Cookbook](http://scalacookbook.com)
+* [Scala for the Impatient 2nd Edition](https://horstmann.com/scala/) - Covers most Scala features with short and easy to understand explainations.
+* [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/) - None
+
+## Exercises
+* [S-99](http://aperiodic.net/phil/scala/s-99) - Ninety-Nine Scala Problems
+* [Scala Exercises](http://scala-exercises.47deg.com/) - Brings the popular Scala Koans to the web. Offering hundreds of solvable exercises organized into 42 categories covering the basics of the Scala language.
+* [Exercism - Scala Exercises](http://exercism.io/languages/scala/exercises) - Community-driven Scala exercises.
+* [Learn-by-doing functional programming course on Scala](https://github.com/dehun/learn-fp/) - Covers type classes, functors, applicatives, monads, monad transformers, free monad
+
+
+## Tutorials and courses
+* [A Tour of Scala](http://docs.scala-lang.org/tour/tour-of-scala.html) - Bite-sized introductions to some of the core language concepts.
+* [Functional Programming in Scala](https://www.coursera.org/specializations/scala) - Coursera Specialization (5 courses) created by  Martin Odersky et al. at the EPFL (Ecole polytechnique fédérale de Lausanne).
+* Resources by [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
+* **[Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2](https://github.com/jacksu/utils4s)** - repo of sample Scala library usage, written in Chinese
+* [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
+* [Scala Collections Cookbook](http://colobu.com/ScalaCollectionsCookbook/) - Scala collections introduction. written in Chinese.
+
 ## Community Members' Blogs
 
 * http://lihaoyi.com
@@ -759,32 +789,6 @@ Name | Description | GitHub Activity
 * https://medium.com/disney-streaming/tagged/thisweekinscala
 * https://www.codacy.com/blog/
 * [Scala Times](https://scalatimes.com/) - Weekly newsletter about scala
-
-## Books
-* [Essential Scala](https://underscore.io/books/essential-scala/) - Essential Scala is aimed at experienced developers who are encountering Scala for the first time.
-* [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) - Tutorial-driven introduction to Scala
-* [Scala With Cats](https://underscore.io/books/scala-with-cats/) - Learn system architecture and design using the techniques of modern functional programming with [Cats](https://typelevel.org/cats/)
-* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read)
-* [Reactive Programming with Scala and Akka](https://www.amazon.com/Reactive-Programming-Scala-Akka/dp/1783984341) - Use the concepts of reactive programming to build distributed systems running on multiple nodes
-* [Scala Cookbook](http://scalacookbook.com)
-* [Scala for the Impatient 2nd Edition](https://horstmann.com/scala/) - Covers most Scala features with short and easy to understand explainations.
-* [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/) - None
-
-## Exercises
-* [S-99](http://aperiodic.net/phil/scala/s-99) - Ninety-Nine Scala Problems
-* [Scala Exercises](http://scala-exercises.47deg.com/) - Brings the popular Scala Koans to the web. Offering hundreds of solvable exercises organized into 42 categories covering the basics of the Scala language.
-* [Exercism - Scala Exercises](http://exercism.io/languages/scala/exercises) - Community-driven Scala exercises.
-* [Learn-by-doing functional programming course on Scala](https://github.com/dehun/learn-fp/) - Covers type classes, functors, applicatives, monads, monad transformers, free monad
-
-
-## Tutorials and courses
-* [A Tour of Scala](http://docs.scala-lang.org/tour/tour-of-scala.html) - Bite-sized introductions to some of the core language concepts.
-* [Functional Programming in Scala](https://www.coursera.org/specializations/scala) - Coursera Specialization (5 courses) created by  Martin Odersky et al. at the EPFL (Ecole polytechnique fédérale de Lausanne).
-* Resources by [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
-* **[Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2](https://github.com/jacksu/utils4s)** - repo of sample Scala library usage, written in Chinese
-* [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
-* [Scala Collections Cookbook](http://colobu.com/ScalaCollectionsCookbook/) - Scala collections introduction. written in Chinese.
-
 
 ## Podcasts
 
