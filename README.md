@@ -51,8 +51,12 @@ Projects with over 500 stargazers are in bold.
     - [Web Frameworks](#web-frameworks)
     - [XML / HTML](#xml--html)
     - [YAML](#yaml)
-- [Resources](#resources)
-    - [Newsletters](#newsletters)
+- [Learning Scala](#learning-scala)
+    - [Books](#books)
+    - [Exercises](#exercises)
+    - [Tutorials and courses](#tutorials-and-courses)
+    - [Community members' blogs](#community-members-blogs)
+    - [Company Blogs](#company-blogs)
     - [Podcasts](#podcasts)
 - [Contributing](#contributing)
 
@@ -75,7 +79,7 @@ Name | Description | GitHub Activity
 [clickhouse-scala-client](https://github.com/crobox/clickhouse-scala-client) | Clickhouse Scala Client with Reactive Streams support | ![GitHub stars](https://img.shields.io/github/stars/crobox/clickhouse-scala-client) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/crobox/clickhouse-scala-client)
 [couchbase-jvm-clients](https://github.com/couchbase/couchbase-jvm-clients) | The Couchbase Monorepo for JVM Clients: Java, Scala, io-core… | ![GitHub stars](https://img.shields.io/github/stars/couchbase/couchbase-jvm-clients) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/couchbase/couchbase-jvm-clients)
 [couchdb-scala](https://github.com/beloglazov/couchdb-scala) | A purely functional Scala client for CouchDB | ![GitHub stars](https://img.shields.io/github/stars/beloglazov/couchdb-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/beloglazov/couchdb-scala)
-[d4s](https://github.com/PlayQ/d4s) | Dynamo DB Database Done Scala-way https://playq.github.io/d4s/ :construction: | ![GitHub stars](https://img.shields.io/github/stars/PlayQ/d4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/PlayQ/d4s)
+[d4s](https://github.com/PlayQ/d4s) | Dynamo DB Database Done Scala-way | ![GitHub stars](https://img.shields.io/github/stars/PlayQ/d4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/PlayQ/d4s)
 [**doobie**](https://github.com/tpolecat/doobie) | Functional JDBC layer for Scala. | ![GitHub stars](https://img.shields.io/github/stars/tpolecat/doobie) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tpolecat/doobie)
 [**elastic4s**](https://github.com/sksamuel/elastic4s) | Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client | ![GitHub stars](https://img.shields.io/github/stars/sksamuel/elastic4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sksamuel/elastic4s)
 [etcd4s](https://github.com/mingchuno/etcd4s) | Scala etcd client implementing V3 APIs | ![GitHub stars](https://img.shields.io/github/stars/mingchuno/etcd4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mingchuno/etcd4s)
@@ -254,6 +258,7 @@ Name | Description | GitHub Activity
 [**json4s**](https://github.com/json4s/json4s) | A single AST to be used by other scala json libraries | ![GitHub stars](https://img.shields.io/github/stars/json4s/json4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/json4s/json4s)
 [jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) | Scala macros for compile-time generation of safe and ultra-fast JSON codecs | ![GitHub stars](https://img.shields.io/github/stars/plokhotnyuk/jsoniter-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/plokhotnyuk/jsoniter-scala)
 [json](https://github.com/nestorpersist/json) | Persist-Json, a Fast Json Parser Written in Scala | ![GitHub stars](https://img.shields.io/github/stars/nestorpersist/json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nestorpersist/json)
+[ninny-json](https://github.com/kag0/ninny-json) | JSON typeclasses that know the difference between null and absent fields | ![GitHub stars](https://img.shields.io/github/stars/kag0/ninny-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/kag0/ninny-json)
 [play-json](https://github.com/playframework/play-json) | The Play JSON library | ![GitHub stars](https://img.shields.io/github/stars/playframework/play-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/playframework/play-json)
 [pushka](https://github.com/fomkin/pushka) | ABANDONED Pure Scala serialization library with annotations | ![GitHub stars](https://img.shields.io/github/stars/fomkin/pushka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/fomkin/pushka)
 [qbproject](https://github.com/ottovw/qbproject) | Source Code for qb | ![GitHub stars](https://img.shields.io/github/stars/ottovw/qbproject) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ottovw/qbproject)
@@ -309,7 +314,7 @@ Name | Description | GitHub Activity
 [**BigDL**](https://github.com/intel-analytics/BigDL) | BigDL: Distributed Deep Learning Framework for Apache Spark | ![GitHub stars](https://img.shields.io/github/stars/intel-analytics/BigDL) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/intel-analytics/BigDL)
 [**breeze**](https://github.com/scalanlp/breeze) | Breeze is a numerical processing library for Scala. | ![GitHub stars](https://img.shields.io/github/stars/scalanlp/breeze) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalanlp/breeze)
 [chalk](https://github.com/scalanlp/chalk) | Chalk is a natural language processing library. | ![GitHub stars](https://img.shields.io/github/stars/scalanlp/chalk) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalanlp/chalk)
-[Clustering4Ever](https://github.com/Clustering4Ever/Clustering4Ever) | C4E, a Scala or Spark library for local and distributed Clustering. | ![GitHub stars](https://img.shields.io/github/stars/Clustering4Ever/Clustering4Ever) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Clustering4Ever/Clustering4Ever)
+[Clustering4Ever](https://github.com/Clustering4Ever/Clustering4Ever) | C4E, a JVM friendly library written in Scala for both local  and distributed (Spark) Clustering. | ![GitHub stars](https://img.shields.io/github/stars/Clustering4Ever/Clustering4Ever) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Clustering4Ever/Clustering4Ever)
 [doddle-model](https://github.com/picnicml/doddle-model) | :cake: doddle-model: machine learning in Scala. | ![GitHub stars](https://img.shields.io/github/stars/picnicml/doddle-model) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/picnicml/doddle-model)
 [**factorie**](https://github.com/factorie/factorie) | FACTORIE is a toolkit for deployable probabilistic modeling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference. | ![GitHub stars](https://img.shields.io/github/stars/factorie/factorie) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/factorie/factorie)
 [**figaro**](https://github.com/p2t2/figaro) | Figaro Programming Language and Core Libraries | ![GitHub stars](https://img.shields.io/github/stars/p2t2/figaro) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/p2t2/figaro)
@@ -679,6 +684,7 @@ Name | Description | GitHub Activity
 [**scalatags**](https://github.com/lihaoyi/scalatags) | ScalaTags is a small XML/HTML construction library for Scala.  | ![GitHub stars](https://img.shields.io/github/stars/lihaoyi/scalatags) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lihaoyi/scalatags)
 [**scalate**](https://github.com/scalate/scalate) | Scalate is a Scala based template engine which supports HAML, Mustache and JSP, Erb and Velocity style syntaxes. | ![GitHub stars](https://img.shields.io/github/stars/scalate/scalate) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalate/scalate)
 [twirl](https://github.com/playframework/twirl) | Twirl is Play's default template engine | ![GitHub stars](https://img.shields.io/github/stars/playframework/twirl) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/playframework/twirl)
+[hepek](https://github.com/sake92/hepek) | Typesafe HTML templates in pure Scala. Static site generator included! Play and ScalaJS support! | ![GitHub stars](https://img.shields.io/github/stars/sake92/hepek) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sake92/hepek)
 
 ### Tools
 
@@ -705,6 +711,8 @@ Name | Description | GitHub Activity
 [scapegoat](https://github.com/sksamuel/scapegoat) | Scala compiler plugin for static code analysis | ![GitHub stars](https://img.shields.io/github/stars/sksamuel/scapegoat) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sksamuel/scapegoat)
 [scaps](https://github.com/scala-search/scaps) | Scala API Search | ![GitHub stars](https://img.shields.io/github/stars/scala-search/scaps) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scala-search/scaps)
 [**wartremover**](https://github.com/wartremover/wartremover) | Flexible Scala code linting tool | ![GitHub stars](https://img.shields.io/github/stars/wartremover/wartremover) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/wartremover/wartremover)
+[stone](https://github.com/sake92/stone) | URL (de)construct. Withers. | ![GitHub stars](https://img.shields.io/github/stars/sake92/stone) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sake92/stone)
+[scalajs-router](https://github.com/sake92/scalajs-router) | ScalaJS frontend router | ![GitHub stars](https://img.shields.io/github/stars/sake92/scalajs-router) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sake92/scalajs-router)
 
 ### Geospatial
 
@@ -713,7 +721,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [**geotrellis**](https://github.com/locationtech/geotrellis) | GeoTrellis is a geographic data processing engine for high performance applications. | ![GitHub stars](https://img.shields.io/github/stars/locationtech/geotrellis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/locationtech/geotrellis)
-[osm4scala](https://github.com/simplexspatial/osm4scala) | Scala library focus in parse and manipulate PBF2 OpenStreetMap files. | ![GitHub stars](https://img.shields.io/github/stars/simplexspatial/osm4scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/simplexspatial/osm4scala)
+[osm4scala](https://github.com/simplexspatial/osm4scala) | Scala and Spark library focused on reading OpenStreetMap Pbf files. | ![GitHub stars](https://img.shields.io/github/stars/simplexspatial/osm4scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/simplexspatial/osm4scala)
 [rtree2d](https://github.com/plokhotnyuk/rtree2d) | RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries | ![GitHub stars](https://img.shields.io/github/stars/plokhotnyuk/rtree2d) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/plokhotnyuk/rtree2d)
 [sfcurve](https://github.com/locationtech/sfcurve) | LocationTech SFCurve is a Scala library for the creation, transformation, and querying of space-filling curves  | ![GitHub stars](https://img.shields.io/github/stars/locationtech/sfcurve) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/locationtech/sfcurve)
 
@@ -729,31 +737,52 @@ Name | Description | GitHub Activity
 
 *Nice books, blogs and other resources to learn Scala*
 
+
+## Books
+* [Essential Scala](https://underscore.io/books/essential-scala/) - Essential Scala is aimed at experienced developers who are encountering Scala for the first time.
+* [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) - Tutorial-driven introduction to Scala
+* [Scala With Cats](https://underscore.io/books/scala-with-cats/) - Learn system architecture and design using the techniques of modern functional programming with [Cats](https://typelevel.org/cats/)
+* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read)
+* [Reactive Programming with Scala and Akka](https://www.amazon.com/Reactive-Programming-Scala-Akka/dp/1783984341) - Use the concepts of reactive programming to build distributed systems running on multiple nodes
+* [Scala Cookbook](http://scalacookbook.com)
+* [Scala for the Impatient 2nd Edition](https://horstmann.com/scala/) - Covers most Scala features with short and easy to understand explainations.
+* [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/) - None
+
+## Exercises
+* [S-99](http://aperiodic.net/phil/scala/s-99) - Ninety-Nine Scala Problems
+* [Scala Exercises](http://scala-exercises.47deg.com/) - Brings the popular Scala Koans to the web. Offering hundreds of solvable exercises organized into 42 categories covering the basics of the Scala language.
+* [Exercism - Scala Exercises](http://exercism.io/languages/scala/exercises) - Community-driven Scala exercises.
+* [Learn-by-doing functional programming course on Scala](https://github.com/dehun/learn-fp/) - Covers type classes, functors, applicatives, monads, monad transformers, free monad
+
+
+## Tutorials and courses
+* [A Tour of Scala](http://docs.scala-lang.org/tour/tour-of-scala.html) - Bite-sized introductions to some of the core language concepts.
+* [Functional Programming in Scala](https://www.coursera.org/specializations/scala) - Coursera Specialization (5 courses) created by  Martin Odersky et al. at the EPFL (Ecole polytechnique fédérale de Lausanne).
+* Resources by [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
+* **[Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2](https://github.com/jacksu/utils4s)** - repo of sample Scala library usage, written in Chinese
+* [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
+* [Scala Collections Cookbook](http://colobu.com/ScalaCollectionsCookbook/) - Scala collections introduction. written in Chinese.
+
 ## Community Members' Blogs
-* http://aperiodic.net/phil/scala/s-99/
-* http://appliedscala.com/
-* http://blog.higher-order.com/
-* http://blog.tmorris.net/tags/Scala/index.html
-* http://danielwestheide.com/scala/neophytes.html
-* http://debasishg.blogspot.com/
-* http://degoes.net/articles/
+
+* http://lihaoyi.com
+* http://warski.org/blog
+* https://degoes.net/articles
 * http://eed3si9n.com/category/tags/scala
-* http://ktoso.github.io/scala-types-of-types/
-* http://scalacookbook.com/
-* http://scalaprof.blogspot.com/
-* http://torre.me.uk/docs/scala/
-* http://www.lihaoyi.com/
-* http://www.rabbitonweb.com/
-* http://www.warski.org/blog/
+* https://danielwestheide.com/tags/scala
+* https://kubuszok.com/tags/#scala
+* http://debasishg.blogspot.com
+* http://appliedscala.com/blog
+* http://blog.higher-order.com
+* http://ktoso.github.io/scala-types-of-types
+* http://scalaprof.blogspot.com
+* http://torre.me.uk/docs/scala
 * https://alvinalexander.com/fpbook
 * https://blog.bruchez.name/search/label/scala
 * https://github.com/lemastero/scala_typeclassopedia
-* https://janzhou.org/scala/
-* https://kubuszok.com/tags/#scala
-* https://manuel.bernhardt.io/blog/
-* https://naildrivin5.com/scalatour/
-* https://pchiusano.github.io/
-* https://www.beyondthelines.net/
+* https://pchiusano.github.io
+* https://beyondthelines.net
+* https://manuel.bernhardt.io/blog
 
 ## Company Blogs
 * [Functional Works / Learn](https://functional.works-hub.com/learn/) - Quality resources maintained by functional works
@@ -766,41 +795,22 @@ Name | Description | GitHub Activity
 * https://www.codacy.com/blog/
 * [Scala Times](https://scalatimes.com/) - Weekly newsletter about scala
 
-## Misc.
-* [A Tour of Scala](http://docs.scala-lang.org/tour/tour-of-scala.html) - Bite-sized introductions to some of the core language concepts.
-* [CA Art](https://github.com/makingthematrix/ca_art) - A small project aimed at learning Scala on intermediate level by experimenting with Cellular Automata
-* **[Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2](https://github.com/jacksu/utils4s)** - repo of sample Scala library usage, written in Chinese
-* [Deploying Scala libraries to Sonatype for dummies ★ 23 ⧗ 25](https://github.com/larroy/deployingScalaLibrariesToSonatype) - None
-* Resources by [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
-* [Exercism - Scala Exercises](http://exercism.io/languages/scala/exercises) - Community-driven Scala exercises.
-* [Essential Scala](https://underscore.io/books/essential-scala/) - None
-* [Functional Programming in Scala](https://www.coursera.org/specializations/scala) - Coursera Specialization (5 courses) created by  Martin Odersky et al. at the EPFL (Ecole polytechnique fédérale de Lausanne).
-* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - None
-* [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) - Tutorial-driven introduction to Scala
-* [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
-* [Learn-by-doing functional programming course on Scala](https://github.com/dehun/learn-fp/) - Covers type classes, functors, applicatives, monads, monad transformers, free monad
-* [Programming Community Curated Resources for Learning Scala](https://hackr.io/tutorials/learn-scala)
-* [Reactive Programming with Scala and Akka](http://www.foxebook.net/reactive-programming-with-scala-and-akka/) - Use the concepts of reactive programming to build distributed systems running on multiple nodes
-* [Scala Collections Cookbook](http://colobu.com/ScalaCollectionsCookbook/) - Scala collections introduction. written in Chinese.
-* [Scala Exercises](http://scala-exercises.47deg.com/) - Brings the popular Scala Koans to the web. Offering hundreds of solvable exercises organized into 42 categories covering the basics of the Scala language.
-* [Scala With Cats](https://underscore.io/books/scala-with-cats/) - Learn system architecture and design using the techniques of modern functional programming with [Cats](https://typelevel.org/cats/)
-* [Scala in Depth](https://www.manning.com/books/scala-in-depth) - None
-* [Scala school](https://twitter.github.io/scala_school/) - Scala school started as a series of lectures at Twitter to prepare experienced engineers to be productive Scala programmers.
-* [Scalera Blog](http://www.scalera.es) - Blog about Scala language and its environment (howto's, good practices, tips,...). Weekly posts written in both spanish and english
-* [Scala for the Impatient 2nd Edition](https://horstmann.com/scala/) - Covers most Scala features with short and easy to understand explainations.
-* [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/) - None
-* [Clean, intuitive, unintrusive, boilerplate-free Scala API](https://github.com/propensive/rapture/blob/dev/doc/json.md)
-* [fast, flexible and intuitive JSON for Scala](http://www.lihaoyi.com/upickle/#uJson)
-* [Scala @LibHunt](https://scala.libhunt.com) - The go-to Scala Toolbox.
-* [List of Scala Online Courses](https://classpert.com/scala-programming) - A list of free and paid Scala online courses by Classpert, An online course search and comparison website
-* [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg) -  A youtube channel that provides full fledged videos, recorded at Scala Days Conferences
-* [Writing functional DSLs for business domains](https://www.bigdatarepublic.nl/articles/writing-functional-dsls-business-domains/)
-
 ## Podcasts
 
-* [CoRecursive Interviews](https://corecursive.com/) - In-depth Interviews with software developers, often on the subject of scala libraries and functional programming.
 * [The Scala Logs](https://twitter.com/thescalalogs) - Interviewing developers, open source contributors, subject matter experts, and the like to talk about FP, Scala, open source, and their interests.
 * [Scala Love](https://scala.love/) - Podcast about the Scala Programming Language and its community
+* [CoRecursive Interviews](https://corecursive.com/) - In-depth Interviews with software developers, often on the subject of scala libraries and functional programming.
+
+
+## Misc.
+
+* [Programming Community Curated Resources for Learning Scala](https://hackr.io/tutorials/learn-scala)
+* [Scalera Blog](http://www.scalera.es) - Blog about Scala language and its environment (howto's, good practices, tips,...). Weekly posts written in both spanish and english
+* [Scala @LibHunt](https://scala.libhunt.com) - A community driven list of useful Scala libraries, frameworks and software
+* [List of Scala Online Courses](https://classpert.com/scala-programming) - A list of free and paid Scala online courses by Classpert, An online course search and comparison website
+* [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg) -  A youtube channel that provides full fledged videos, recorded at Scala Days Conferences
+* [CA Art](https://github.com/makingthematrix/ca_art) - A small project aimed at learning Scala on intermediate level by experimenting with Cellular Automata
+
 
 # Contributing
 
