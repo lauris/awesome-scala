@@ -1,6 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Usage: pipenv run python add-metadata.py < template.md > README.md
+
+# Preparing to run it:
+#   brew install pipenv   # or other installation method
+#   pipenv install
+#   generate a personal access token at https://github.com/settings/tokens
+
+# Running it:
+#   GITHUB_TOKEN=xxxxxxx pipenv run python add-metadata.py < template.md > README.md
 
 import fileinput
 import os
