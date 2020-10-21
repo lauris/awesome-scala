@@ -257,6 +257,7 @@ Name | Description | GitHub Activity
 * [json4s/json4s](@ghRepo)
 * [plokhotnyuk/jsoniter-scala](@ghRepo)
 * [nestorpersist/json](@ghRepo)
+* [kag0/ninny-json](@ghRepo)
 * [playframework/play-json](@ghRepo)
 * [fomkin/pushka](@ghRepo)
 * [ottovw/qbproject](@ghRepo)
