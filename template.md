@@ -117,6 +117,7 @@ Name | Description | GitHub Activity
 * [sorm/sorm](@ghRepo)
 * [squeryl/squeryl](@ghRepo)
 * [fehmicansaglam/tepkin](@ghRepo)
+* [scalamolecule/molecule](@ghRepo)
 
 ### Messaging
 
