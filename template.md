@@ -590,6 +590,7 @@ Name | Description | GitHub Activity
 * [lihaoyi/fastparse](@ghRepo)
 * [sirthias/parboiled2](@ghRepo)
 * [scala/scala-parser-combinators](@ghRepo)
+* [typelevel/cats-parse](@ghRepo)
 
 ### Sbt plugins
 
