@@ -124,6 +124,7 @@ Name | Description | GitHub Activity
 [sorm](https://github.com/sorm/sorm) | A functional boilerplate-free Scala ORM | ![GitHub stars](https://img.shields.io/github/stars/sorm/sorm) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sorm/sorm)
 [**squeryl**](https://github.com/squeryl/squeryl) | A Scala DSL for talking with databases with minimum verbosity and maximum type safety | ![GitHub stars](https://img.shields.io/github/stars/squeryl/squeryl) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/squeryl/squeryl)
 [tepkin](https://github.com/fehmicansaglam/tepkin) | Reactive MongoDB Driver for Scala | ![GitHub stars](https://img.shields.io/github/stars/fehmicansaglam/tepkin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/fehmicansaglam/tepkin)
+[molecule](https://github.com/scalamolecule/molecule) | Scala meta-DSL for the Datomic database | ![GitHub stars](https://img.shields.io/github/stars/scalamolecule/molecule) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalamolecule/molecule)
 
 ### Messaging
 
@@ -446,7 +447,7 @@ Name | Description | GitHub Activity
 [glokka](https://github.com/xitrum-framework/glokka) | Library to register and lookup actors by names in an Akka cluster | ![GitHub stars](https://img.shields.io/github/stars/xitrum-framework/glokka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/xitrum-framework/glokka)
 [**lagom**](https://github.com/lagom/lagom) | Reactive Microservices for the JVM | ![GitHub stars](https://img.shields.io/github/stars/lagom/lagom) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lagom/lagom)
 [parapet](https://github.com/parapet-io/parapet) | A purely functional library to build distributed and event-driven systems | ![GitHub stars](https://img.shields.io/github/stars/parapet-io/parapet) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/parapet-io/parapet)
-[poppet](https://github.com/yakivy/poppet) | Functional, extensible, type-based Scala library for generating RPC services from pure service traits. | ![GitHub stars](https://img.shields.io/github/stars/yakivy/poppet) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/yakivy/poppet)
+[poppet](https://github.com/yakivy/poppet) | Minimal, extensible, type safe Scala library for generating RPC services from pure service traits. | ![GitHub stars](https://img.shields.io/github/stars/yakivy/poppet) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/yakivy/poppet)
 [reactors](https://github.com/reactors-io/reactors) | A foundational framework for distributed programming. | ![GitHub stars](https://img.shields.io/github/stars/reactors-io/reactors) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/reactors-io/reactors)
 
 ### Extensions
@@ -596,6 +597,7 @@ Name | Description | GitHub Activity
 [**fastparse**](https://github.com/lihaoyi/fastparse) | Writing Fast Parsers Fast in Scala | ![GitHub stars](https://img.shields.io/github/stars/lihaoyi/fastparse) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lihaoyi/fastparse)
 [**parboiled2**](https://github.com/sirthias/parboiled2) | A macro-based PEG parser generator for Scala 2.10+ | ![GitHub stars](https://img.shields.io/github/stars/sirthias/parboiled2) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sirthias/parboiled2)
 [scala-parser-combinators](https://github.com/scala/scala-parser-combinators) | simple combinator-based parsing for Scala. formerly part of the Scala standard library, now a separate community-maintained module | ![GitHub stars](https://img.shields.io/github/stars/scala/scala-parser-combinators) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scala/scala-parser-combinators)
+[cats-parse](https://github.com/typelevel/cats-parse) | A parsing library for the cats ecosystem | ![GitHub stars](https://img.shields.io/github/stars/typelevel/cats-parse) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/cats-parse)
 
 ### Sbt plugins
 
@@ -648,7 +650,7 @@ Name | Description | GitHub Activity
 [ScalaKata2](https://github.com/MasseGuillaume/ScalaKata2) | Interactive Playground | ![GitHub stars](https://img.shields.io/github/stars/MasseGuillaume/ScalaKata2) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/MasseGuillaume/ScalaKata2)
 [splain](https://github.com/tek/splain) | better implicit errors for scala | ![GitHub stars](https://img.shields.io/github/stars/tek/splain) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tek/splain)
 [**tut**](https://github.com/tpolecat/tut) | doc/tutorial generator for scala | ![GitHub stars](https://img.shields.io/github/stars/tpolecat/tut) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tpolecat/tut)
-[xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin) | Servlet support for sbt. | ![GitHub stars](https://img.shields.io/github/stars/earldouglas/xsbt-web-plugin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/earldouglas/xsbt-web-plugin)
+[xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin) | Servlet support for sbt | ![GitHub stars](https://img.shields.io/github/stars/earldouglas/xsbt-web-plugin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/earldouglas/xsbt-web-plugin)
 
 ### XML / HTML
 
