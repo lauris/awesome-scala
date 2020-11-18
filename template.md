@@ -8,6 +8,12 @@ Also awesome is [Scaladex](https://index.scala-lang.org/), the searchable, tagge
 
 Projects with over 500 stargazers are in bold.
 
+## Contributing
+
+Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.
+
+Don't modify `README.md` in your pull request. It is automatically generated. Modify `template.md` instead.
+
 ## Table of Contents
 
 - [Learning Scala](#learning-scala)
@@ -811,8 +817,3 @@ Name | Description | GitHub Activity
 * [List of Scala Online Courses](https://classpert.com/scala-programming) - A list of free and paid Scala online courses by Classpert, An online course search and comparison website
 * [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg) -  A youtube channel that provides full fledged videos, recorded at Scala Days Conferences
 * [CA Art](https://github.com/makingthematrix/ca_art) - A small project aimed at learning Scala on intermediate level by experimenting with Cellular Automata
-
-
-# Contributing
-
-Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.
