@@ -439,6 +439,7 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [akka/akka](@ghRepo)
 * [levkhomich/akka-tracing](@ghRepo)
+* [annetteplatform/annette](@ghRepo)
 * [lucastorri/autobreaker](@ghRepo)
 * [getclump/clump](@ghRepo)
 * [stephenmcd/curiodb](@ghRepo)
