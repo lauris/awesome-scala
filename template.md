@@ -597,6 +597,7 @@ Name | Description | GitHub Activity
 * [sirthias/parboiled2](@ghRepo)
 * [scala/scala-parser-combinators](@ghRepo)
 * [typelevel/cats-parse](@ghRepo)
+* [epfl-lara/scallion](@ghRepo)
 
 ### Sbt plugins
 
