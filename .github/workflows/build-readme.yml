@@ -19,6 +19,8 @@ jobs:
         pip install pipenv
         pipenv install
         pipenv run python add-metadata.py
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
