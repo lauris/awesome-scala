@@ -18,14 +18,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install pipenv
         pipenv install
-        pipenv run python add-metadata.py
-    - name: Commit files
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git commit -am "Update README.md using automation"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
+        pipenv run python add-metadata.py < template.md > README.md
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - uses: stefanzweifel/git-auto-commit-action@v4
