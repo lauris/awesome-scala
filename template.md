@@ -99,7 +99,6 @@ Name | Description | GitHub Activity
 * [outr/neo4akka](@ghRepo)
 * [neotypes/neotypes](@ghRepo)
 * [outworkers/phantom](@ghRepo)
-* [mauricio/postgresql-async](@ghRepo)
 * [sksamuel/pulsar4s](@ghRepo)
 * [getquill/quill](@ghRepo)
 * [ReactiveCouchbase/ReactiveCouchbase-rs-core](@ghRepo)
@@ -122,7 +121,6 @@ Name | Description | GitHub Activity
 * [tminglei/slick-pg](@ghRepo)
 * [sorm/sorm](@ghRepo)
 * [squeryl/squeryl](@ghRepo)
-* [fehmicansaglam/tepkin](@ghRepo)
 * [scalamolecule/molecule](@ghRepo)
 
 ### Messaging
@@ -183,7 +181,6 @@ Name | Description | GitHub Activity
 * [wix/accord](@ghRepo)
 * [yakivy/dupin](@ghRepo)
 * [tminglei/form-binder](@ghRepo)
-* [sksamuel/monkeytail](@ghRepo)
 * [krzemin/octopus](@ghRepo)
 * [splink/veto](@ghRepo)
 
@@ -301,12 +298,10 @@ Name | Description | GitHub Activity
 * [sksamuel/avro4s](@ghRepo)
 * [twitter/chill](@ghRepo)
 * [msgpack/msgpack-scala](@ghRepo)
-* [scala/pickling](@ghRepo)
 * [SandroGrzicic/ScalaBuff](@ghRepo)
 * [scalapb/ScalaPB](@ghRepo)
 * [scodec/scodec](@ghRepo)
 * [twitter/scrooge](@ghRepo)
-* [jto/validation](@ghRepo)
 * [lihaoyi/upickle](@ghRepo)
 
 ### Science and Data Analysis
@@ -319,7 +314,6 @@ Name | Description | GitHub Activity
 * [axlelang/axle](@ghRepo)
 * [intel-analytics/BigDL](@ghRepo)
 * [scalanlp/breeze](@ghRepo)
-* [scalanlp/chalk](@ghRepo)
 * [Clustering4Ever/Clustering4Ever](@ghRepo)
 * [picnicml/doddle-model](@ghRepo)
 * [factorie/factorie](@ghRepo)
@@ -336,7 +330,6 @@ Name | Description | GitHub Activity
 * [nestorpersist/units](@ghRepo)
 * [PredictionIO/PredictionIO](@ghRepo)
 * [PoslavskySV/rings](@ghRepo)
-* [saddle/saddle](@ghRepo)
 * [haifengl/smile](@ghRepo)
 * [andypetrella/spark-notebook](@ghRepo)
 * [non/spire](@ghRepo)
@@ -424,7 +417,6 @@ Name | Description | GitHub Activity
 * [wvlet/airframe](@ghRepo)
 * [akozhemiakin/cableguy](@ghRepo)
 * [7mind/izumi](@ghRepo)
-* [zalando/grafter](@ghRepo)
 * [adamw/macwire](@ghRepo)
 * [codingwell/scala-guice](@ghRepo)
 * [scaldi/scaldi](@ghRepo)
@@ -439,6 +431,7 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [akka/akka](@ghRepo)
 * [levkhomich/akka-tracing](@ghRepo)
+* [annetteplatform/annette](@ghRepo)
 * [lucastorri/autobreaker](@ghRepo)
 * [getclump/clump](@ghRepo)
 * [stephenmcd/curiodb](@ghRepo)
@@ -480,7 +473,6 @@ Name | Description | GitHub Activity
 * [nscala-time/nscala-time](@ghRepo)
 * [nestorpersist/logging](@ghRepo)
 * [adamw/quicklens](@ghRepo)
-* [propensive/rapture](@ghRepo)
 * [scala-records/scala-records](@ghRepo)
 * [fthomas/refined](@ghRepo)
 * [stanch/resolvable](@ghRepo)
@@ -497,7 +489,6 @@ Name | Description | GitHub Activity
 * [qifun/stateless-future](@ghRepo)
 * [pmwmedia/tinylog](@ghRepo)
 * [twitter/util](@ghRepo)
-* [wvlet/log](@ghRepo)
 
 ### Misc
 
@@ -525,14 +516,12 @@ Name | Description | GitHub Activity
 * [lihaoyi/pprint](@ghRepo)
 * [pureconfig/pureconfig](@ghRepo)
 * [marconilanna/REPLesent](@ghRepo)
-* [ensime/scala-debugger](@ghRepo)
 * [sirthias/scala-ssh](@ghRepo)
 * [scalan/scalan](@ghRepo)
 * [nbronson/scala-stm](@ghRepo)
 [Scavenger](https://gitlab.com/aossie/Scavenger) | An experimental automated theorem prover. |
 * [allawala/service-chassis](@ghRepo)
 * [lucastorri/settler](@ghRepo)
-* [ElderResearch/ssc](@ghRepo)
 * [openquant/YahooFinanceScala](@ghRepo)
 
 ### Android
@@ -642,7 +631,6 @@ Name | Description | GitHub Activity
 * [orrsella/sbt-sublime](@ghRepo)
 * [sbt/sbt-unidoc](@ghRepo)
 * [rtimush/sbt-updates](@ghRepo)
-* [sksamuel/sbt-versions](@ghRepo)
 * [nestorpersist/sbt-view](@ghRepo)
 * [typesafehub/sbteclipse](@ghRepo)
 * [softwaremill/scala-clippy](@ghRepo)
