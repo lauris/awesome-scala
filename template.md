@@ -595,7 +595,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [oleg-py/better-monadic-for](@ghRepo)
-* [alexarchambault/coursier](@ghRepo)
+* [coursier/coursier](@ghRepo)
 * [scalameta/mdoc](@ghRepo)
 * [ThoughtWorksInc/sbt-api-mappings](@ghRepo)
 * [valydia/sbt-apidoc](@ghRepo)
@@ -689,7 +689,7 @@ Name | Description | GitHub Activity
 * [JohnReedLOL/scala-trace-debug](@ghRepo)
 * [scalacenter/bloop](@ghRepo)
 * [codacy/codacy-scalameta](@ghRepo)
-* [alexarchambault/coursier](@ghRepo)
+* [coursier/coursier](@ghRepo)
 * [marianobarrios/dregex](@ghRepo)
 * [Sizmek/fast-string-interpolator](@ghRepo)
 * [Atry/fastring](@ghRepo)
