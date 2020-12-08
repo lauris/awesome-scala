@@ -407,6 +407,7 @@ Name | Description | GitHub Activity
 * [scalaz/scalaz-zio](@ghRepo)
 * [Primetalk/SynapseGrid](@ghRepo)
 * [vert-x3/vertx-lang-scala](@ghRepo)
+* [wireapp/wire-signals](@ghRepo)
 
 ### Modularization and Dependency Injection
 
