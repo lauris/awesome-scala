@@ -524,6 +524,7 @@ Name | Description | GitHub Activity
 [service-chassis](https://github.com/allawala/service-chassis) | A scala chassis to get your applications and services bootstrapped quickly | ![GitHub stars](https://img.shields.io/github/stars/allawala/service-chassis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/allawala/service-chassis)
 [settler](https://github.com/lucastorri/settler) | boilerplate-free typed settings generation in Scala | ![GitHub stars](https://img.shields.io/github/stars/lucastorri/settler) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lucastorri/settler)
 [YahooFinanceScala](https://github.com/openquant/YahooFinanceScala) | A non-blocking Yahoo Finance Scala client | ![GitHub stars](https://img.shields.io/github/stars/openquant/YahooFinanceScala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/openquant/YahooFinanceScala)
+[figlet4s](https://github.com/ColOfAbRiX/figlet4s) | Implementation of [FIGlet](http://www.figlet.org/) in pure Scala. Creates ascii art out of text. | ![GitHub stars](https://img.shields.io/github/stars/ColOfAbRiX/figlet4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ColOfAbRiX/figlet4s)
 
 ### Android
 
