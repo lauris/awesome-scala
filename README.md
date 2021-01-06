@@ -408,6 +408,7 @@ Name | Description | GitHub Activity
 [**zio**](https://github.com/zio/zio) | ZIO — A type-safe, composable library for async and concurrent programming in Scala | ![GitHub stars](https://img.shields.io/github/stars/zio/zio) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zio/zio)
 [SynapseGrid](https://github.com/Primetalk/SynapseGrid) | SynapseGrid is a framework for constructing dynamic low latency data flow systems. | ![GitHub stars](https://img.shields.io/github/stars/Primetalk/SynapseGrid) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Primetalk/SynapseGrid)
 [vertx-lang-scala](https://github.com/vert-x3/vertx-lang-scala) | Vert.x for Scala | ![GitHub stars](https://img.shields.io/github/stars/vert-x3/vertx-lang-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vert-x3/vertx-lang-scala)
+[wire-signals](https://github.com/wireapp/wire-signals) | A small and effective event-handling library for Scala | ![GitHub stars](https://img.shields.io/github/stars/wireapp/wire-signals) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/wireapp/wire-signals)
 
 ### Modularization and Dependency Injection
 
