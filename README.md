@@ -136,7 +136,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-[**scalafx**](https://github.com/scalafx/scalafx) | ScalaFX simplifies creation of JavaFX-based user interfaces in Scala. | ![GitHub stars](https://img.shields.io/github/stars/scalafx/scalafx) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalafx/scalafx)
+[**scalafx**](https://github.com/scalafx/scalafx) | ScalaFX simplifies creation of JavaFX-based user interfaces in Scala | ![GitHub stars](https://img.shields.io/github/stars/scalafx/scalafx) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalafx/scalafx)
 
 ### Web Frameworks
 
@@ -168,7 +168,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [**Binding.scala**](https://github.com/ThoughtWorksInc/Binding.scala) | Reactive data-binding for Scala | ![GitHub stars](https://img.shields.io/github/stars/ThoughtWorksInc/Binding.scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ThoughtWorksInc/Binding.scala)
-[korolev](https://github.com/fomkin/korolev) | Single Page Applications running on the server side. | ![GitHub stars](https://img.shields.io/github/stars/fomkin/korolev) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/fomkin/korolev)
+[**korolev**](https://github.com/fomkin/korolev) | Single Page Applications running on the server side. | ![GitHub stars](https://img.shields.io/github/stars/fomkin/korolev) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/fomkin/korolev)
 [udash-core](https://github.com/UdashFramework/udash-core) | Scala framework for building beautiful and maintainable web applications. | ![GitHub stars](https://img.shields.io/github/stars/UdashFramework/udash-core) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/UdashFramework/udash-core)
 [vertx-lang-scala](https://github.com/vert-x3/vertx-lang-scala) | Vert.x for Scala | ![GitHub stars](https://img.shields.io/github/stars/vert-x3/vertx-lang-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vert-x3/vertx-lang-scala)
 [widok](https://github.com/widok/widok) | Reactive web framework for the JVM and Scala.js | ![GitHub stars](https://img.shields.io/github/stars/widok/widok) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/widok/widok)
@@ -180,7 +180,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [**accord**](https://github.com/wix/accord) | Accord: A sane validation library for Scala | ![GitHub stars](https://img.shields.io/github/stars/wix/accord) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/wix/accord)
-[dupin](https://github.com/yakivy/dupin) | Minimal, idiomatic, customizable validation for Scala. | ![GitHub stars](https://img.shields.io/github/stars/yakivy/dupin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/yakivy/dupin)
+[dupin](https://github.com/yakivy/dupin) | Minimal, idiomatic, customizable validation Scala library. | ![GitHub stars](https://img.shields.io/github/stars/yakivy/dupin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/yakivy/dupin)
 [form-binder](https://github.com/tminglei/form-binder) | A micro data binding and validating framework, very easy to use and hack | ![GitHub stars](https://img.shields.io/github/stars/tminglei/form-binder) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tminglei/form-binder)
 [octopus](https://github.com/krzemin/octopus) | Scala library for boilerplate-free validation | ![GitHub stars](https://img.shields.io/github/stars/krzemin/octopus) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/krzemin/octopus)
 [veto](https://github.com/splink/veto) | If you don't agree with the data | ![GitHub stars](https://img.shields.io/github/stars/splink/veto) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/splink/veto)
@@ -484,7 +484,7 @@ Name | Description | GitHub Activity
 [**scalameta**](https://github.com/scalameta/scalameta) | Library to read, analyze, transform and generate Scala programs | ![GitHub stars](https://img.shields.io/github/stars/scalameta/scalameta) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalameta/scalameta)
 [Scalactic](http://www.scalactic.org/) | Small library of utilities related to quality that helps keeping code clear and correct. |
 [**scalaz**](https://github.com/scalaz/scalaz) | Principled Functional Programming in Scala | ![GitHub stars](https://img.shields.io/github/stars/scalaz/scalaz) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalaz/scalaz)
-[scribe](https://github.com/outr/scribe) | Practical logging framework that doesn't require any other logging framework and can be completely configured programmatically. | ![GitHub stars](https://img.shields.io/github/stars/outr/scribe) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/scribe)
+[scribe](https://github.com/outr/scribe) | The fastest logging library in the world. Built from scratch in Scala and programmatically configurable. | ![GitHub stars](https://img.shields.io/github/stars/outr/scribe) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/scribe)
 [**shapeless**](https://github.com/milessabin/shapeless) | Generic programming for Scala | ![GitHub stars](https://img.shields.io/github/stars/milessabin/shapeless) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/milessabin/shapeless)
 [**simulacrum**](https://github.com/typelevel/simulacrum) | First class syntax support for type classes in Scala | ![GitHub stars](https://img.shields.io/github/stars/typelevel/simulacrum) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/simulacrum)
 [squid](https://github.com/epfldata/squid) | Squid – type-safe metaprogramming and compilation framework for Scala | ![GitHub stars](https://img.shields.io/github/stars/epfldata/squid) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/epfldata/squid)
@@ -525,6 +525,7 @@ Name | Description | GitHub Activity
 [service-chassis](https://github.com/allawala/service-chassis) | A scala chassis to get your applications and services bootstrapped quickly | ![GitHub stars](https://img.shields.io/github/stars/allawala/service-chassis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/allawala/service-chassis)
 [settler](https://github.com/lucastorri/settler) | boilerplate-free typed settings generation in Scala | ![GitHub stars](https://img.shields.io/github/stars/lucastorri/settler) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lucastorri/settler)
 [YahooFinanceScala](https://github.com/openquant/YahooFinanceScala) | A non-blocking Yahoo Finance Scala client | ![GitHub stars](https://img.shields.io/github/stars/openquant/YahooFinanceScala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/openquant/YahooFinanceScala)
+[figlet4s](https://github.com/ColOfAbRiX/figlet4s) | An implementation of FIGlet in pure Scala, for Scala and Java | ![GitHub stars](https://img.shields.io/github/stars/ColOfAbRiX/figlet4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ColOfAbRiX/figlet4s)
 
 ### Android
 
