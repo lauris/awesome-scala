@@ -524,6 +524,7 @@ Name | Description | GitHub Activity
 * [allawala/service-chassis](@ghRepo)
 * [lucastorri/settler](@ghRepo)
 * [openquant/YahooFinanceScala](@ghRepo)
+* [ColOfAbRiX/figlet4s](@ghRepo)
 
 ### Android
 
