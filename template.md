@@ -19,6 +19,7 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
 - [Learning Scala](#learning-scala)
 - [Projects](#projects)
     - [Android](#android)
+    - [Archive and Compression](#archive-and-compression)
     - [Artificial Intelligence](#artificial-intelligence)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
@@ -64,6 +65,12 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
     - [Company Blogs](#company-blogs)
     - [Podcasts](#podcasts)
 - [Contributing](#contributing)
+
+### Archive and Compression
+
+Name | Description | GitHub Activity
+---- | ----------- | ---------------
+* [gonearewe/SevenZ4S](@ghRepo)
 
 ### Artificial Intelligence
 
