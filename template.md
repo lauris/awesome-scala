@@ -564,6 +564,7 @@ Name | Description | GitHub Activity
 * [spray/spray](@ghRepo)
 * [softwaremill/sttp](@ghRepo)
 * [softprops/tubesocks](@ghRepo)
+* [softwaremill/tapir](@ghRepo)
 
 ### Semantic Web
 
