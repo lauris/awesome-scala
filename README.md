@@ -20,6 +20,7 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
 - [Learning Scala](#learning-scala)
 - [Projects](#projects)
     - [Android](#android)
+    - [Archive and Compression](#archive-and-compression)
     - [Artificial Intelligence](#artificial-intelligence)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
@@ -65,6 +66,12 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
     - [Company Blogs](#company-blogs)
     - [Podcasts](#podcasts)
 - [Contributing](#contributing)
+
+### Archive and Compression
+
+Name | Description | GitHub Activity
+---- | ----------- | ---------------
+[SevenZ4S](https://github.com/gonearewe/SevenZ4S) | SevenZip library for Scala, easy to use.  | ![GitHub stars](https://img.shields.io/github/stars/gonearewe/SevenZ4S) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gonearewe/SevenZ4S)
 
 ### Artificial Intelligence
 
@@ -525,7 +532,7 @@ Name | Description | GitHub Activity
 [service-chassis](https://github.com/allawala/service-chassis) | A scala chassis to get your applications and services bootstrapped quickly | ![GitHub stars](https://img.shields.io/github/stars/allawala/service-chassis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/allawala/service-chassis)
 [settler](https://github.com/lucastorri/settler) | boilerplate-free typed settings generation in Scala | ![GitHub stars](https://img.shields.io/github/stars/lucastorri/settler) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lucastorri/settler)
 [YahooFinanceScala](https://github.com/openquant/YahooFinanceScala) | A non-blocking Yahoo Finance Scala client | ![GitHub stars](https://img.shields.io/github/stars/openquant/YahooFinanceScala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/openquant/YahooFinanceScala)
-[figlet4s](https://github.com/ColOfAbRiX/figlet4s) | An implementation of FIGlet in pure Scala, for Scala and Java | ![GitHub stars](https://img.shields.io/github/stars/ColOfAbRiX/figlet4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ColOfAbRiX/figlet4s)
+[figlet4s](https://github.com/ColOfAbRiX/figlet4s) | ASCII-art banners in Scala | ![GitHub stars](https://img.shields.io/github/stars/ColOfAbRiX/figlet4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ColOfAbRiX/figlet4s)
 
 ### Android
 
@@ -558,6 +565,7 @@ Name | Description | GitHub Activity
 [**spray**](https://github.com/spray/spray) | A suite of scala libraries for building and consuming RESTful web services on top of Akka: lightweight, asynchronous, non-blocking, actor-based, testable | ![GitHub stars](https://img.shields.io/github/stars/spray/spray) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spray/spray)
 [**sttp**](https://github.com/softwaremill/sttp) | The Scala HTTP client you always wanted! | ![GitHub stars](https://img.shields.io/github/stars/softwaremill/sttp) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/sttp)
 [tubesocks](https://github.com/softprops/tubesocks) | A comfortable and fashionable way to have bi-directional conversations with modern web servers. | ![GitHub stars](https://img.shields.io/github/stars/softprops/tubesocks) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softprops/tubesocks)
+[**tapir**](https://github.com/softwaremill/tapir) | tapir, or Typed API descRiptions | ![GitHub stars](https://img.shields.io/github/stars/softwaremill/tapir) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/tapir)
 
 ### Semantic Web
 
