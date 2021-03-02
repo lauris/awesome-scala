@@ -730,6 +730,8 @@ Name | Description | GitHub Activity
 * [angelcervera/osm4scala](@ghRepo)
 * [Sizmek/rtree2d](@ghRepo)
 * [locationtech/sfcurve](@ghRepo)
+* [azavea/stac4s](@ghRepo) - types and basic functionality for working with SpatioTemporal Asset Catalogs
+* [azavea/franklin](@ghRepo) - A SpatioTemporal Asset Catalog API and OGC API Features compliant web service
 
 ### Devops
 
@@ -745,14 +747,20 @@ Name | Description | GitHub Activity
 
 
 ## Books
-* [Essential Scala](https://underscore.io/books/essential-scala/) - Essential Scala is aimed at experienced developers who are encountering Scala for the first time.
-* [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) - Tutorial-driven introduction to Scala
-* [Scala With Cats](https://underscore.io/books/scala-with-cats/) - Learn system architecture and design using the techniques of modern functional programming with [Cats](https://typelevel.org/cats/)
-* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read)
+* [Essential Scala](https://underscore.io/books/essential-scala/) by Noel Welsh and Dave Gurnell - Essential Scala is aimed at experienced developers who are encountering Scala for the first time.
+* [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) by Debasish Ghosh
+* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) by Sam Halliday
+* [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala) by Paul Chiusano and Runar Bjarnason
+* [Functional Programming, Simplified (Scala edition)](https://alvinalexander.com/scala/fp-book/learning-functional-programming-in-scala/) by Alvin Alexander
+* [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) by Daniela Sfregola - Tutorial-driven introduction to Scala
+* [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala) by Gabriel Volpe
+* [Programming in Scala](https://www.artima.com/shop/programming_in_scala_4ed) by Martin Odersky, Lex Spoon, and Bill Venners 
 * [Reactive Programming with Scala and Akka](https://www.amazon.com/Reactive-Programming-Scala-Akka/dp/1783984341) - Use the concepts of reactive programming to build distributed systems running on multiple nodes
-* [Scala Cookbook](http://scalacookbook.com)
-* [Scala for the Impatient 2nd Edition](https://horstmann.com/scala/) - Covers most Scala features with short and easy to understand explainations.
-* [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/) - None
+* [Scala Cookbook](http://scalacookbook.com) by Alvin Alexander
+* [Scala for the Impatient](https://horstmann.com/scala/) by Cay Horstmann - Covers most Scala features with short and easy to understand explainations.
+* [Scala With Cats](https://underscore.io/books/scala-with-cats/) by Noel Welsh and Dave Gurnell - Learn system architecture and design using the techniques of modern functional programming with [Cats](https://typelevel.org/cats/)
+* [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/) by Dave Gurnell
+
 
 ## Exercises
 * [S-99](http://aperiodic.net/phil/scala/s-99) - Ninety-Nine Scala Problems
@@ -783,7 +791,7 @@ Name | Description | GitHub Activity
 * http://ktoso.github.io/scala-types-of-types
 * http://scalaprof.blogspot.com
 * http://torre.me.uk/docs/scala
-* https://alvinalexander.com/fpbook
+* https://alvinalexander.com
 * https://blog.bruchez.name/search/label/scala
 * https://github.com/lemastero/scala_typeclassopedia
 * https://pchiusano.github.io
