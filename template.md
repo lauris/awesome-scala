@@ -294,6 +294,7 @@ Name | Description | GitHub Activity
 * [frugalmechanic/fm-flatfile](@ghRepo)
 * [nrinaudo/kantan.csv](@ghRepo)
 * [tototoshi/scala-csv](@ghRepo)
+* [fingo/spata](@ghRepo)
 
 ### Serialization
 
