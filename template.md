@@ -720,6 +720,7 @@ Name | Description | GitHub Activity
 * [puffnfresh/wartremover](@ghRepo)
 * [sake92/stone](@ghRepo)
 * [sake92/scalajs-router](@ghRepo)
+* [BotTech/scala2plantuml](@ghRepo)
 
 ### Geospatial
 
