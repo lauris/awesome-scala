@@ -431,6 +431,7 @@ Name | Description | GitHub Activity
 * [scaldi/scaldi](@ghRepo)
 * [xitrum-framework/sclasner](@ghRepo)
 * [dickwall/subcut](@ghRepo)
+* [yakivy/jam](@ghRepo)
 
 ### Distributed Systems
 
