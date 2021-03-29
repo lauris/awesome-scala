@@ -266,7 +266,7 @@ Name | Description | GitHub Activity
 [diffson](https://github.com/gnieh/diffson) | A scala diff/patch library for Json | ![GitHub stars](https://img.shields.io/github/stars/gnieh/diffson) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gnieh/diffson)
 [jackson-module-scala](https://github.com/FasterXML/jackson-module-scala) | Add-on module for Jackson (https://github.com/FasterXML/jackson) to support Scala-specific datatypes | ![GitHub stars](https://img.shields.io/github/stars/FasterXML/jackson-module-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/FasterXML/jackson-module-scala)
 [jawn](https://github.com/typelevel/jawn) | Jawn is for parsing jay-sawn (JSON) | ![GitHub stars](https://img.shields.io/github/stars/typelevel/jawn) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/jawn)
-[**json4s**](https://github.com/json4s/json4s) | A single AST to be used by other scala json libraries | ![GitHub stars](https://img.shields.io/github/stars/json4s/json4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/json4s/json4s)
+[**json4s**](https://github.com/json4s/json4s) | JSON library | ![GitHub stars](https://img.shields.io/github/stars/json4s/json4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/json4s/json4s)
 [jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) | Scala macros for compile-time generation of safe and ultra-fast JSON codecs | ![GitHub stars](https://img.shields.io/github/stars/plokhotnyuk/jsoniter-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/plokhotnyuk/jsoniter-scala)
 [json](https://github.com/nestorpersist/json) | Persist-Json, a Fast Json Parser Written in Scala | ![GitHub stars](https://img.shields.io/github/stars/nestorpersist/json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nestorpersist/json)
 [ninny-json](https://github.com/kag0/ninny-json) | JSON typeclasses that know the difference between null and absent fields | ![GitHub stars](https://img.shields.io/github/stars/kag0/ninny-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/kag0/ninny-json)
@@ -337,7 +337,7 @@ Name | Description | GitHub Activity
 [Optimus](https://github.com/vagmcs/Optimus) | Optimus is a mathematical programming library for Scala. | ![GitHub stars](https://img.shields.io/github/stars/vagmcs/Optimus) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vagmcs/Optimus)
 [OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home) | a Scala toolkit for solving Operations Research problems |
 [units](https://github.com/nestorpersist/units) | Scala Units of Measure Types | ![GitHub stars](https://img.shields.io/github/stars/nestorpersist/units) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nestorpersist/units)
-[**predictionio**](https://github.com/apache/predictionio) | PredictionIO, a machine learning server for developers and ML engineers. | ![GitHub stars](https://img.shields.io/github/stars/apache/predictionio) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/apache/predictionio)
+[**attic-predictionio**](https://github.com/apache/attic-predictionio) | PredictionIO, a machine learning server for developers and ML engineers. | ![GitHub stars](https://img.shields.io/github/stars/apache/attic-predictionio) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/apache/attic-predictionio)
 [rings](https://github.com/PoslavskySV/rings) | Rings: efficient JVM library for polynomial rings | ![GitHub stars](https://img.shields.io/github/stars/PoslavskySV/rings) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/PoslavskySV/rings)
 [**smile**](https://github.com/haifengl/smile) | Statistical Machine Intelligence & Learning Engine | ![GitHub stars](https://img.shields.io/github/stars/haifengl/smile) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/haifengl/smile)
 [**spark-notebook**](https://github.com/spark-notebook/spark-notebook) | Interactive and Reactive Data Science using Scala and Spark. | ![GitHub stars](https://img.shields.io/github/stars/spark-notebook/spark-notebook) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spark-notebook/spark-notebook)
@@ -432,6 +432,7 @@ Name | Description | GitHub Activity
 [scaldi](https://github.com/scaldi/scaldi) | Lightweight Scala Dependency Injection Library | ![GitHub stars](https://img.shields.io/github/stars/scaldi/scaldi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scaldi/scaldi)
 [sclasner](https://github.com/xitrum-framework/sclasner) | Scala classpath scanner | ![GitHub stars](https://img.shields.io/github/stars/xitrum-framework/sclasner) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/xitrum-framework/sclasner)
 [subcut](https://github.com/dickwall/subcut) | Scala Uniquely Bound Classes Under Traits | ![GitHub stars](https://img.shields.io/github/stars/dickwall/subcut) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dickwall/subcut)
+[jam](https://github.com/yakivy/jam) | Incredibly simple DI Scala library. | ![GitHub stars](https://img.shields.io/github/stars/yakivy/jam) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/yakivy/jam)
 
 ### Distributed Systems
 
@@ -497,7 +498,7 @@ Name | Description | GitHub Activity
 [**simulacrum**](https://github.com/typelevel/simulacrum) | First class syntax support for type classes in Scala | ![GitHub stars](https://img.shields.io/github/stars/typelevel/simulacrum) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/simulacrum)
 [squid](https://github.com/epfldata/squid) | Squid – type-safe metaprogramming and compilation framework for Scala | ![GitHub stars](https://img.shields.io/github/stars/epfldata/squid) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/epfldata/squid)
 [stateless-future](https://github.com/qifun/stateless-future) | Asynchronous programming in fully featured Scala syntax. | ![GitHub stars](https://img.shields.io/github/stars/qifun/stateless-future) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/qifun/stateless-future)
-[tinylog](https://github.com/pmwmedia/tinylog) | tinylog is a lightweight logging framework for Java, Kotlin, Scala, and Android | ![GitHub stars](https://img.shields.io/github/stars/pmwmedia/tinylog) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pmwmedia/tinylog)
+[tinylog](https://github.com/tinylog-org/tinylog) | tinylog is a lightweight logging framework for Java, Kotlin, Scala, and Android | ![GitHub stars](https://img.shields.io/github/stars/tinylog-org/tinylog) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tinylog-org/tinylog)
 [**util**](https://github.com/twitter/util) | Wonderful reusable code from Twitter | ![GitHub stars](https://img.shields.io/github/stars/twitter/util) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/util)
 
 ### Misc
@@ -691,7 +692,7 @@ Name | Description | GitHub Activity
 [beard](https://github.com/zalando/beard) | A lightweight, logicless templating engine, written in Scala and inspired by Mustache | ![GitHub stars](https://img.shields.io/github/stars/zalando/beard) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zalando/beard)
 [**scalatags**](https://github.com/com-lihaoyi/scalatags) | ScalaTags is a small XML/HTML construction library for Scala.  | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/scalatags) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/scalatags)
 [**scalate**](https://github.com/scalate/scalate) | Scalate is a Scala based template engine which supports HAML, Mustache and JSP, Erb and Velocity style syntaxes. | ![GitHub stars](https://img.shields.io/github/stars/scalate/scalate) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalate/scalate)
-[twirl](https://github.com/playframework/twirl) | Twirl is Play's default template engine | ![GitHub stars](https://img.shields.io/github/stars/playframework/twirl) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/playframework/twirl)
+[**twirl**](https://github.com/playframework/twirl) | Twirl is Play's default template engine | ![GitHub stars](https://img.shields.io/github/stars/playframework/twirl) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/playframework/twirl)
 [hepek](https://github.com/sake92/hepek) | Typesafe HTML templates in pure Scala. Static site generator included! Play and ScalaJS support! | ![GitHub stars](https://img.shields.io/github/stars/sake92/hepek) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sake92/hepek)
 
 ### Tools
@@ -721,6 +722,7 @@ Name | Description | GitHub Activity
 [**wartremover**](https://github.com/wartremover/wartremover) | Flexible Scala code linting tool | ![GitHub stars](https://img.shields.io/github/stars/wartremover/wartremover) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/wartremover/wartremover)
 [stone](https://github.com/sake92/stone) | URL (de)construct. Withers. | ![GitHub stars](https://img.shields.io/github/stars/sake92/stone) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sake92/stone)
 [scalajs-router](https://github.com/sake92/scalajs-router) | ScalaJS frontend router | ![GitHub stars](https://img.shields.io/github/stars/sake92/scalajs-router) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sake92/scalajs-router)
+[scala2plantuml](https://github.com/BotTech/scala2plantuml) | Scala2PlantUML generates PlantUML diagrams from Scala code. | ![GitHub stars](https://img.shields.io/github/stars/BotTech/scala2plantuml) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/BotTech/scala2plantuml)
 
 ### Geospatial
 
