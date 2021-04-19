@@ -331,7 +331,9 @@ Name | Description | GitHub Activity
 * [openmole/mgo](@ghRepo)
 [MLLib](https://spark.apache.org/mllib/) | Machine Learning framework for Spark |
 * [deeplearning4j/nd4s](@ghRepo)
+* [SciScala/NDScala](@ghRepo)
 * [botkop/numsca](@ghRepo)
+* [EmergentOrder/ONNX-Scala](@ghRepo)
 * [openmole/openmole](@ghRepo)
 * [vagmcs/Optimus](@ghRepo)
 [OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home) | a Scala toolkit for solving Operations Research problems |
