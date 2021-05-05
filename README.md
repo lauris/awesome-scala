@@ -332,7 +332,7 @@ Name | Description | GitHub Activity
 [mgo](https://github.com/openmole/mgo) | Purely functional genetic algorithms for multi-objective optimisation | ![GitHub stars](https://img.shields.io/github/stars/openmole/mgo) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/openmole/mgo)
 [MLLib](https://spark.apache.org/mllib/) | Machine Learning framework for Spark |
 [nd4s](https://github.com/deeplearning4j/nd4s) | ND4S: N-Dimensional Arrays for Scala. Scientific Computing a la Numpy. Based on ND4J. | ![GitHub stars](https://img.shields.io/github/stars/deeplearning4j/nd4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/deeplearning4j/nd4s)
-[NDScala](https://github.com/SciScala/NDScala) | N-dimensional arrays in Scala 3. Think NumPy ndarray, but with compile-time type-checking/inference over shapes, tensor/axis labels & numeric data types | ![GitHub stars](https://img.shields.io/github/stars/SciScala/NDScala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/SciScala/NDScala)
+[NDScala](https://github.com/SciScala/NDScala) | N-dimensional arrays in Scala 3. Think NumPy ndarray, but with compile-time type-checking/inference over shapes, ndarray/axis labels & numeric data types | ![GitHub stars](https://img.shields.io/github/stars/SciScala/NDScala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/SciScala/NDScala)
 [numsca](https://github.com/botkop/numsca) | numsca is numpy for scala | ![GitHub stars](https://img.shields.io/github/stars/botkop/numsca) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/botkop/numsca)
 [onnx-scala](https://github.com/EmergentOrder/onnx-scala) | An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3) | ![GitHub stars](https://img.shields.io/github/stars/EmergentOrder/onnx-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/EmergentOrder/onnx-scala)
 [openmole](https://github.com/openmole/openmole) | Workflow engine for exploration of simulation models using high throughput computing | ![GitHub stars](https://img.shields.io/github/stars/openmole/openmole) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/openmole/openmole)
@@ -398,7 +398,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [Chromaprint.scala](https://github.com/mgdigital/Chromaprint.scala) | Chromaprint/AcoustID audio fingerprinting for the JVM | ![GitHub stars](https://img.shields.io/github/stars/mgdigital/Chromaprint.scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mgdigital/Chromaprint.scala)
-[ScalaCollider](https://github.com/Sciss/ScalaCollider) | A Scala sound synthesis library based on SuperCollider. Mirror of https://git.iem.at/sciss/ScalaCollider | ![GitHub stars](https://img.shields.io/github/stars/Sciss/ScalaCollider) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Sciss/ScalaCollider)
+[ScalaCollider](https://github.com/Sciss/ScalaCollider) | A Scala sound synthesis library based on SuperCollider. | ![GitHub stars](https://img.shields.io/github/stars/Sciss/ScalaCollider) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Sciss/ScalaCollider)
 
 ### Functional Reactive Programming
 
@@ -500,7 +500,7 @@ Name | Description | GitHub Activity
 [**simulacrum**](https://github.com/typelevel/simulacrum) | First class syntax support for type classes in Scala | ![GitHub stars](https://img.shields.io/github/stars/typelevel/simulacrum) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/simulacrum)
 [squid](https://github.com/epfldata/squid) | Squid – type-safe metaprogramming and compilation framework for Scala | ![GitHub stars](https://img.shields.io/github/stars/epfldata/squid) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/epfldata/squid)
 [stateless-future](https://github.com/qifun/stateless-future) | Asynchronous programming in fully featured Scala syntax. | ![GitHub stars](https://img.shields.io/github/stars/qifun/stateless-future) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/qifun/stateless-future)
-[tinylog](https://github.com/pmwmedia/tinylog) | tinylog is a lightweight logging framework for Java, Kotlin, Scala, and Android | ![GitHub stars](https://img.shields.io/github/stars/pmwmedia/tinylog) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pmwmedia/tinylog)
+[tinylog](https://github.com/tinylog-org/tinylog) | tinylog is a lightweight logging framework for Java, Kotlin, Scala, and Android | ![GitHub stars](https://img.shields.io/github/stars/tinylog-org/tinylog) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tinylog-org/tinylog)
 [**util**](https://github.com/twitter/util) | Wonderful reusable code from Twitter | ![GitHub stars](https://img.shields.io/github/stars/twitter/util) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/util)
 
 ### Misc
@@ -745,7 +745,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-[skuber](https://github.com/doriordan/skuber) | A Scala Kubernetes client library | ![GitHub stars](https://img.shields.io/github/stars/doriordan/skuber) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/doriordan/skuber)
+[skuber](https://github.com/hagay3/skuber) | None | ![GitHub stars](https://img.shields.io/github/stars/hagay3/skuber) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hagay3/skuber)
 
 # Learning Scala
 
