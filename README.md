@@ -743,9 +743,9 @@ Name | Description | GitHub Activity
 
 *DevOps related tools and libraries.*
 
-Name | Description
----- | -----------
-[skuber](https://github.com/hagay3/skuber) | A Scala Kubernetes client library
+Name | Description | GitHub Activity
+---- | ----------- | ---------------
+[skuber](https://github.com/doriordan/skuber) | A Scala Kubernetes client library | ![GitHub stars](https://img.shields.io/github/stars/doriordan/skuber) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/doriordan/skuber)
 
 # Learning Scala
 
