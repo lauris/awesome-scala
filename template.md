@@ -744,7 +744,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-* [doriordan/skuber](@ghRepo)
+* [hagay3/skuber](@ghRepo)
 
 # Learning Scala
 
