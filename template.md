@@ -744,7 +744,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-* [hagay3/skuber](@ghRepo)
+* [doriordan/skuber](@ghRepo)
 
 # Learning Scala
 
@@ -759,7 +759,7 @@ Name | Description | GitHub Activity
 * [Functional Programming, Simplified (Scala edition)](https://alvinalexander.com/scala/fp-book/learning-functional-programming-in-scala/) by Alvin Alexander
 * [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) by Daniela Sfregola - Tutorial-driven introduction to Scala
 * [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala) by Gabriel Volpe
-* [Programming in Scala](https://www.artima.com/shop/programming_in_scala_4ed) by Martin Odersky, Lex Spoon, and Bill Venners
+* [Programming in Scala](https://www.artima.com/shop/programming_in_scala_4ed) by Martin Odersky, Lex Spoon, and Bill Venners 
 * [Reactive Programming with Scala and Akka](https://www.amazon.com/Reactive-Programming-Scala-Akka/dp/1783984341) - Use the concepts of reactive programming to build distributed systems running on multiple nodes
 * [Scala Cookbook](http://scalacookbook.com) by Alvin Alexander
 * [Scala for the Impatient](https://horstmann.com/scala/) by Cay Horstmann - Covers most Scala features with short and easy to understand explainations.
