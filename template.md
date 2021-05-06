@@ -243,6 +243,7 @@ Name | Description | GitHub Activity
 * [gatling/gatling](@ghRepo)
 * [monix/minitest](@ghRepo)
 * [mockito/mockito-scala](@ghRepo)
+* [scalameta/munit](@ghRepo)
 * [rickynils/scalacheck](@ghRepo)
 * [scalameter/scalameter](@ghRepo)
 * [paulbutcher/ScalaMock](@ghRepo)
@@ -251,6 +252,7 @@ Name | Description | GitHub Activity
 * [xitrum-framework/scalive](@ghRepo)
 * [etorreborre/specs2](@ghRepo)
 * [stryker-mutator/stryker4s](@ghRepo)
+* [disneystreaming/weaver-test](@ghRepo)
 * [testcontainers/testcontainers-scala](@ghRepo)
 * [lihaoyi/utest](@ghRepo)
 
