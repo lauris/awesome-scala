@@ -747,7 +747,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-[skuber](https://github.com/hagay3/skuber) | None | ![GitHub stars](https://img.shields.io/github/stars/hagay3/skuber) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hagay3/skuber)
+[skuber](https://github.com/hagay3/skuber) | A Scala Kubernetes client library | ![GitHub stars](https://img.shields.io/github/stars/hagay3/skuber) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hagay3/skuber)
 
 # Learning Scala
 
