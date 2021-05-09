@@ -100,9 +100,7 @@ Name | Description | GitHub Activity
 * [longevityframework/longevity](@ghRepo)
 * [outr/lucene4s](@ghRepo)
 * [kostaskougios/mapperdao](@ghRepo)
-* [Atry/memcontinuationed](@ghRepo)
 * [outworkers/morpheus](@ghRepo)
-* [outr/neo4akka](@ghRepo)
 * [neotypes/neotypes](@ghRepo)
 * [outworkers/phantom](@ghRepo)
 * [sksamuel/pulsar4s](@ghRepo)
@@ -125,7 +123,6 @@ Name | Description | GitHub Activity
 * [alexandru/shade](@ghRepo)
 * [slick/slick](@ghRepo)
 * [tminglei/slick-pg](@ghRepo)
-* [sorm/sorm](@ghRepo)
 * [squeryl/squeryl](@ghRepo)
 * [scalamolecule/molecule](@ghRepo)
 
@@ -161,7 +158,6 @@ Name | Description | GitHub Activity
 * [japgolly/scalajs-react](@ghRepo)
 * [scalatra/scalatra](@ghRepo)
 * [skinny-framework/skinny-framework](@ghRepo)
-* [suzaku-io/suzaku](@ghRepo)
 * [unfiltered/unfiltered](@ghRepo)
 * [xitrum-framework/xitrum](@ghRepo)
 * [outr/youi](@ghRepo)
@@ -212,14 +208,6 @@ Name | Description | GitHub Activity
 * [t2v/play2-auth](@ghRepo)
 * [nulab/scala-oauth2-provider](@ghRepo)
 * [jaliss/securesocial](@ghRepo)
-
-### Authorization
-
-*Libraries for implementing authorization strategies.*
-
-Name | Description | GitHub Activity
----- | ----------- | ---------------
-* [schaloner/deadbolt-2](@ghRepo)
 
 ### Cryptography
 
@@ -304,7 +292,6 @@ Name | Description | GitHub Activity
 * [sksamuel/avro4s](@ghRepo)
 * [twitter/chill](@ghRepo)
 * [msgpack/msgpack-scala](@ghRepo)
-* [SandroGrzicic/ScalaBuff](@ghRepo)
 * [scalapb/ScalaPB](@ghRepo)
 * [scodec/scodec](@ghRepo)
 * [twitter/scrooge](@ghRepo)
@@ -322,7 +309,6 @@ Name | Description | GitHub Activity
 * [scalanlp/breeze](@ghRepo)
 * [Clustering4Ever/Clustering4Ever](@ghRepo)
 * [picnicml/doddle-model](@ghRepo)
-* [factorie/factorie](@ghRepo)
 * [p2t2/figaro](@ghRepo)
 * [to-ithaca/libra](@ghRepo)
 * [anskarl/LoMRF](@ghRepo)
@@ -341,10 +327,8 @@ Name | Description | GitHub Activity
 * [andypetrella/spark-notebook](@ghRepo)
 * [non/spire](@ghRepo)
 * [garyKeorkunian/squants](@ghRepo)
-* [valdanylchuk/swiftlearner](@ghRepo)
 * [mrdimosthenis/Synapses](@ghRepo)
 * [eaplatanios/tensorflow_scala](@ghRepo)
-* [neysofu/tyche](@ghRepo)
 * [apache/zeppelin](@ghRepo)
 
 ### Big Data
@@ -468,18 +452,15 @@ Name | Description | GitHub Activity
 * [ISCPIF/freedsl](@ghRepo)
 * [frees-io/freestyle](@ghRepo)
 * [scala-hamsters/hamsters](@ghRepo)
-* [lucastorri/idid](@ghRepo)
 * [maxcellent/lamma](@ghRepo)
 * [xerial/larray](@ghRepo)
 * [Log4s/log4s](@ghRepo)
 * [7mind/izumi](@ghRepo)
 * [julien-truffaut/Monocle](@ghRepo)
 * [nscala-time/nscala-time](@ghRepo)
-* [nestorpersist/logging](@ghRepo)
 * [adamw/quicklens](@ghRepo)
 * [scala-records/scala-records](@ghRepo)
 * [fthomas/refined](@ghRepo)
-* [stanch/resolvable](@ghRepo)
 * [scala/async](@ghRepo)
 * [scala-graph/scala-graph](@ghRepo)
 * [lightbend/Scala-Logging](@ghRepo)
@@ -490,7 +471,6 @@ Name | Description | GitHub Activity
 * [milessabin/shapeless](@ghRepo)
 * [mpilquist/simulacrum](@ghRepo)
 * [epfldata/squid](@ghRepo)
-* [qifun/stateless-future](@ghRepo)
 * [pmwmedia/tinylog](@ghRepo)
 * [twitter/util](@ghRepo)
 
@@ -513,18 +493,14 @@ Name | Description | GitHub Activity
 * [outr/media4s](@ghRepo)
 * [miniboxing/miniboxing-plugin](@ghRepo)
 * [marianogappa/ostinato](@ghRepo)
-* [outr/pdf4s](@ghRepo)
 * [iheartradio/play-swagger](@ghRepo)
-* [outr/powerscala](@ghRepo)
 * [lihaoyi/pprint](@ghRepo)
 * [pureconfig/pureconfig](@ghRepo)
 * [marconilanna/REPLesent](@ghRepo)
 * [sirthias/scala-ssh](@ghRepo)
-* [scalan/scalan](@ghRepo)
 * [nbronson/scala-stm](@ghRepo)
 [Scavenger](https://gitlab.com/aossie/Scavenger) | An experimental automated theorem prover. |
 * [allawala/service-chassis](@ghRepo)
-* [lucastorri/settler](@ghRepo)
 * [ColOfAbRiX/figlet4s](@ghRepo)
 
 ### Android
@@ -534,8 +510,6 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [pfn/android-sdk-plugin](@ghRepo)
-* [saturday06/gradle-android-scala-plugin](@ghRepo)
-* [47deg/macroid](@ghRepo)
 * [pocorall/scaloid](@ghRepo)
 
 ### HTTP
@@ -555,7 +529,6 @@ Name | Description | GitHub Activity
 * [hmil/RosHTTP](@ghRepo)
 * [scalaj/scalaj-http](@ghRepo)
 * [eed3si9n/scalaxb](@ghRepo)
-* [spray/spray](@ghRepo)
 * [softwaremill/sttp](@ghRepo)
 * [softwaremill/tapir](@ghRepo)
 
@@ -574,7 +547,6 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-* [kamon-io/kamon-scala](@ghRepo)
 * [erikvanoosten/metrics-scala](@ghRepo)
 
 ### Parsing
@@ -604,7 +576,6 @@ Name | Description | GitHub Activity
 * [sbt/sbt-assembly](@ghRepo)
 * [sbt/sbt-buildinfo](@ghRepo)
 * [olafurpg/sbt-ci-release](@ghRepo)
-* [ruippeixotog/sbt-classfinder](@ghRepo)
 * [albuch/sbt-dependency-check](@ghRepo)
 * [jrudolph/sbt-dependency-graph](@ghRepo)
 * [marcuslonnberg/sbt-docker](@ghRepo)
@@ -620,7 +591,6 @@ Name | Description | GitHub Activity
 * [lightbend/mima](@ghRepo)
 * [sbt/sbt-native-packager](@ghRepo)
 * [xerial/sbt-pack](@ghRepo)
-* [kolov/sbt-pantarhei](@ghRepo)
 * [sbt/sbt-pgp](@ghRepo)
 * [sbt/sbt-release](@ghRepo)
 * [spray/sbt-revolver](@ghRepo)
@@ -629,13 +599,10 @@ Name | Description | GitHub Activity
 * [scoverage/sbt-scoverage](@ghRepo)
 * [sbt/sbt-site](@ghRepo)
 * [xerial/sbt-sonatype](@ghRepo)
-* [orrsella/sbt-sublime](@ghRepo)
 * [sbt/sbt-unidoc](@ghRepo)
 * [rtimush/sbt-updates](@ghRepo)
-* [nestorpersist/sbt-view](@ghRepo)
 * [typesafehub/sbteclipse](@ghRepo)
 * [softwaremill/scala-clippy](@ghRepo)
-* [MasseGuillaume/ScalaKata2](@ghRepo)
 * [tek/splain](@ghRepo)
 * [tpolecat/tut](@ghRepo)
 * [earldouglas/xsbt-web-plugin](@ghRepo)
