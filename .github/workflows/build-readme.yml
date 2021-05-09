@@ -1,8 +1,8 @@
-name: Build and push README to main
+name: Build and push README to master
 
 on:
   push:
-    branches: main
+    branches: master
 
 jobs:
   build:
