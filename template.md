@@ -77,7 +77,6 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [cirg-up/cilib](@ghRepo)
-* [cirg-up/cilib-tutorial](@ghRepo)
 
 ### Database
 
@@ -101,9 +100,7 @@ Name | Description | GitHub Activity
 * [longevityframework/longevity](@ghRepo)
 * [outr/lucene4s](@ghRepo)
 * [kostaskougios/mapperdao](@ghRepo)
-* [Atry/memcontinuationed](@ghRepo)
 * [outworkers/morpheus](@ghRepo)
-* [outr/neo4akka](@ghRepo)
 * [neotypes/neotypes](@ghRepo)
 * [outworkers/phantom](@ghRepo)
 * [sksamuel/pulsar4s](@ghRepo)
@@ -126,7 +123,6 @@ Name | Description | GitHub Activity
 * [alexandru/shade](@ghRepo)
 * [slick/slick](@ghRepo)
 * [tminglei/slick-pg](@ghRepo)
-* [sorm/sorm](@ghRepo)
 * [squeryl/squeryl](@ghRepo)
 * [scalamolecule/molecule](@ghRepo)
 
@@ -162,7 +158,6 @@ Name | Description | GitHub Activity
 * [japgolly/scalajs-react](@ghRepo)
 * [scalatra/scalatra](@ghRepo)
 * [skinny-framework/skinny-framework](@ghRepo)
-* [suzaku-io/suzaku](@ghRepo)
 * [unfiltered/unfiltered](@ghRepo)
 * [xitrum-framework/xitrum](@ghRepo)
 * [outr/youi](@ghRepo)
@@ -177,7 +172,6 @@ Name | Description | GitHub Activity
 * [fomkin/korolev](@ghRepo)
 * [UdashFramework/udash-core](@ghRepo)
 * [vert-x3/vertx-lang-scala](@ghRepo)
-* [widok/widok](@ghRepo)
 
 ### Data Binding and Validation
 
@@ -187,7 +181,6 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [wix/accord](@ghRepo)
 * [yakivy/dupin](@ghRepo)
-* [tminglei/form-binder](@ghRepo)
 * [krzemin/octopus](@ghRepo)
 * [splink/veto](@ghRepo)
 
@@ -215,14 +208,6 @@ Name | Description | GitHub Activity
 * [t2v/play2-auth](@ghRepo)
 * [nulab/scala-oauth2-provider](@ghRepo)
 * [jaliss/securesocial](@ghRepo)
-
-### Authorization
-
-*Libraries for implementing authorization strategies.*
-
-Name | Description | GitHub Activity
----- | ----------- | ---------------
-* [schaloner/deadbolt-2](@ghRepo)
 
 ### Cryptography
 
@@ -273,7 +258,6 @@ Name | Description | GitHub Activity
 * [kag0/ninny-json](@ghRepo)
 * [playframework/play-json](@ghRepo)
 * [fomkin/pushka](@ghRepo)
-* [ottovw/qbproject](@ghRepo)
 * [battermann/sbt-json](@ghRepo)
 * [scala-jsonapi/scala-jsonapi](@ghRepo)
 * [gzoller/ScalaJack](@ghRepo)
@@ -308,7 +292,6 @@ Name | Description | GitHub Activity
 * [sksamuel/avro4s](@ghRepo)
 * [twitter/chill](@ghRepo)
 * [msgpack/msgpack-scala](@ghRepo)
-* [SandroGrzicic/ScalaBuff](@ghRepo)
 * [scalapb/ScalaPB](@ghRepo)
 * [scodec/scodec](@ghRepo)
 * [twitter/scrooge](@ghRepo)
@@ -326,7 +309,6 @@ Name | Description | GitHub Activity
 * [scalanlp/breeze](@ghRepo)
 * [Clustering4Ever/Clustering4Ever](@ghRepo)
 * [picnicml/doddle-model](@ghRepo)
-* [factorie/factorie](@ghRepo)
 * [p2t2/figaro](@ghRepo)
 * [to-ithaca/libra](@ghRepo)
 * [anskarl/LoMRF](@ghRepo)
@@ -339,17 +321,14 @@ Name | Description | GitHub Activity
 * [openmole/openmole](@ghRepo)
 * [vagmcs/Optimus](@ghRepo)
 [OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home) | a Scala toolkit for solving Operations Research problems |
-* [nestorpersist/units](@ghRepo)
 * [PredictionIO/PredictionIO](@ghRepo)
 * [PoslavskySV/rings](@ghRepo)
 * [haifengl/smile](@ghRepo)
 * [andypetrella/spark-notebook](@ghRepo)
 * [non/spire](@ghRepo)
 * [garyKeorkunian/squants](@ghRepo)
-* [valdanylchuk/swiftlearner](@ghRepo)
 * [mrdimosthenis/Synapses](@ghRepo)
 * [eaplatanios/tensorflow_scala](@ghRepo)
-* [neysofu/tyche](@ghRepo)
 * [apache/zeppelin](@ghRepo)
 
 ### Big Data
@@ -367,7 +346,6 @@ Name | Description | GitHub Activity
 * [spotify/scio](@ghRepo)
 [Scrunch](http://crunch.apache.org/scrunch.html) | A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) which provides a framework for writing, testing, and running MapReduce pipelines. |
 * [apache/spark](@ghRepo)
-* [KKBOX/spark-deployer](@ghRepo)
 * [indix/sparkplug](@ghRepo)
 * [Stratio/sparkta](@ghRepo)
 * [twitter/summingbird](@ghRepo)
@@ -414,7 +392,6 @@ Name | Description | GitHub Activity
 * [reactor/reactor-scala-extensions](@ghRepo)
 * [rescala-lang/REScala](@ghRepo)
 * [ReactiveX/RxScala](@ghRepo)
-* [dylemma/scala.frp](@ghRepo)
 * [lihaoyi/scala.rx](@ghRepo)
 * [scalaz/scalaz-zio](@ghRepo)
 * [Primetalk/SynapseGrid](@ghRepo)
@@ -428,7 +405,6 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [wvlet/airframe](@ghRepo)
-* [akozhemiakin/cableguy](@ghRepo)
 * [7mind/izumi](@ghRepo)
 * [adamw/macwire](@ghRepo)
 * [codingwell/scala-guice](@ghRepo)
@@ -446,8 +422,6 @@ Name | Description | GitHub Activity
 * [akka/akka](@ghRepo)
 * [levkhomich/akka-tracing](@ghRepo)
 * [annetteplatform/annette](@ghRepo)
-* [lucastorri/autobreaker](@ghRepo)
-* [getclump/clump](@ghRepo)
 * [stephenmcd/curiodb](@ghRepo)
 * [twitter/finagle](@ghRepo)
 * [xitrum-framework/glokka](@ghRepo)
@@ -478,18 +452,15 @@ Name | Description | GitHub Activity
 * [ISCPIF/freedsl](@ghRepo)
 * [frees-io/freestyle](@ghRepo)
 * [scala-hamsters/hamsters](@ghRepo)
-* [lucastorri/idid](@ghRepo)
 * [maxcellent/lamma](@ghRepo)
 * [xerial/larray](@ghRepo)
 * [Log4s/log4s](@ghRepo)
 * [7mind/izumi](@ghRepo)
 * [julien-truffaut/Monocle](@ghRepo)
 * [nscala-time/nscala-time](@ghRepo)
-* [nestorpersist/logging](@ghRepo)
 * [adamw/quicklens](@ghRepo)
 * [scala-records/scala-records](@ghRepo)
 * [fthomas/refined](@ghRepo)
-* [stanch/resolvable](@ghRepo)
 * [scala/async](@ghRepo)
 * [scala-graph/scala-graph](@ghRepo)
 * [lightbend/Scala-Logging](@ghRepo)
@@ -500,7 +471,6 @@ Name | Description | GitHub Activity
 * [milessabin/shapeless](@ghRepo)
 * [mpilquist/simulacrum](@ghRepo)
 * [epfldata/squid](@ghRepo)
-* [qifun/stateless-future](@ghRepo)
 * [pmwmedia/tinylog](@ghRepo)
 * [twitter/util](@ghRepo)
 
@@ -522,21 +492,15 @@ Name | Description | GitHub Activity
 * [outr/mailgun4s](@ghRepo)
 * [outr/media4s](@ghRepo)
 * [miniboxing/miniboxing-plugin](@ghRepo)
-* [openquant/YahooFinanceScala](@ghRepo)
 * [marianogappa/ostinato](@ghRepo)
-* [outr/pdf4s](@ghRepo)
 * [iheartradio/play-swagger](@ghRepo)
-* [outr/powerscala](@ghRepo)
 * [lihaoyi/pprint](@ghRepo)
 * [pureconfig/pureconfig](@ghRepo)
 * [marconilanna/REPLesent](@ghRepo)
 * [sirthias/scala-ssh](@ghRepo)
-* [scalan/scalan](@ghRepo)
 * [nbronson/scala-stm](@ghRepo)
 [Scavenger](https://gitlab.com/aossie/Scavenger) | An experimental automated theorem prover. |
 * [allawala/service-chassis](@ghRepo)
-* [lucastorri/settler](@ghRepo)
-* [openquant/YahooFinanceScala](@ghRepo)
 * [ColOfAbRiX/figlet4s](@ghRepo)
 
 ### Android
@@ -546,8 +510,6 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [pfn/android-sdk-plugin](@ghRepo)
-* [saturday06/gradle-android-scala-plugin](@ghRepo)
-* [47deg/macroid](@ghRepo)
 * [pocorall/scaloid](@ghRepo)
 
 ### HTTP
@@ -567,9 +529,7 @@ Name | Description | GitHub Activity
 * [hmil/RosHTTP](@ghRepo)
 * [scalaj/scalaj-http](@ghRepo)
 * [eed3si9n/scalaxb](@ghRepo)
-* [spray/spray](@ghRepo)
 * [softwaremill/sttp](@ghRepo)
-* [softprops/tubesocks](@ghRepo)
 * [softwaremill/tapir](@ghRepo)
 
 ### Semantic Web
@@ -579,7 +539,6 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [banana-rdf/banana-rdf](@ghRepo)
-* [jannvck/rdfp](@ghRepo)
 * [phenoscape/scowl](@ghRepo)
 
 ### Metrics and Monitoring
@@ -588,7 +547,6 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-* [kamon-io/kamon-scala](@ghRepo)
 * [erikvanoosten/metrics-scala](@ghRepo)
 
 ### Parsing
@@ -618,7 +576,6 @@ Name | Description | GitHub Activity
 * [sbt/sbt-assembly](@ghRepo)
 * [sbt/sbt-buildinfo](@ghRepo)
 * [olafurpg/sbt-ci-release](@ghRepo)
-* [ruippeixotog/sbt-classfinder](@ghRepo)
 * [albuch/sbt-dependency-check](@ghRepo)
 * [jrudolph/sbt-dependency-graph](@ghRepo)
 * [marcuslonnberg/sbt-docker](@ghRepo)
@@ -626,7 +583,6 @@ Name | Description | GitHub Activity
 * [ensime/ensime-sbt](@ghRepo)
 * [sbt/sbt-ghpages](@ghRepo)
 * [sbt/sbt-groll](@ghRepo)
-* [qifun/sbt-haxe](@ghRepo)
 * [sbt/sbt-header](@ghRepo)
 * [sake92/sbt-hepek](@ghRepo)
 * [Jetbrains/sbt-ide-settings](@ghRepo)
@@ -635,23 +591,18 @@ Name | Description | GitHub Activity
 * [lightbend/mima](@ghRepo)
 * [sbt/sbt-native-packager](@ghRepo)
 * [xerial/sbt-pack](@ghRepo)
-* [kolov/sbt-pantarhei](@ghRepo)
 * [sbt/sbt-pgp](@ghRepo)
 * [sbt/sbt-release](@ghRepo)
 * [spray/sbt-revolver](@ghRepo)
-* [roboscala/sbt-robovm](@ghRepo)
 * [ThoughtWorksInc/sbt-scala-js-map](@ghRepo)
 * [scalameta/sbt-scalafmt](@ghRepo)
 * [scoverage/sbt-scoverage](@ghRepo)
 * [sbt/sbt-site](@ghRepo)
 * [xerial/sbt-sonatype](@ghRepo)
-* [orrsella/sbt-sublime](@ghRepo)
 * [sbt/sbt-unidoc](@ghRepo)
 * [rtimush/sbt-updates](@ghRepo)
-* [nestorpersist/sbt-view](@ghRepo)
 * [typesafehub/sbteclipse](@ghRepo)
 * [softwaremill/scala-clippy](@ghRepo)
-* [MasseGuillaume/ScalaKata2](@ghRepo)
 * [tek/splain](@ghRepo)
 * [tpolecat/tut](@ghRepo)
 * [earldouglas/xsbt-web-plugin](@ghRepo)
@@ -677,7 +628,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-* [lihaoyi/scala-js-fiddle](@ghRepo)
+* [scalafiddle/scalafiddle-editor](@ghRepo)
 * [scala-js/scala-js](@ghRepo)
 
 ### Scheduling
@@ -717,11 +668,10 @@ Name | Description | GitHub Activity
 * [sbt/sbt](@ghRepo)
 * [scalacenter/scalafix](@ghRepo)
 [Scalafmt](https://scalameta.org/scalafmt/) | Code formatter for Scala |
-* [daniel-trinh/scalariform](@ghRepo)
+* [scala-ide/scalariform](@ghRepo)
 * [scalastyle/scalastyle](@ghRepo)
 * [lihaoyi/Scalatex](@ghRepo)
 * [sksamuel/scapegoat](@ghRepo)
-* [scala-search/scaps](@ghRepo)
 * [puffnfresh/wartremover](@ghRepo)
 * [sake92/stone](@ghRepo)
 * [sake92/scalajs-router](@ghRepo)
