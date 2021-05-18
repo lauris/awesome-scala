@@ -249,6 +249,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [**argonaut**](https://github.com/argonaut-io/argonaut) | Purely functional JSON parser and library in scala. | ![GitHub stars](https://img.shields.io/github/stars/argonaut-io/argonaut) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/argonaut-io/argonaut)
+[borer](https://github.com/sirthias/borer) | Efficient CBOR and JSON (de)serialization in Scala | ![GitHub stars](https://img.shields.io/github/stars/sirthias/borer) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sirthias/borer)
 [**circe**](https://github.com/circe/circe) | Yet another JSON library for Scala | ![GitHub stars](https://img.shields.io/github/stars/circe/circe) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/circe/circe)
 [diffson](https://github.com/gnieh/diffson) | A scala diff/patch library for Json | ![GitHub stars](https://img.shields.io/github/stars/gnieh/diffson) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gnieh/diffson)
 [jackson-module-scala](https://github.com/FasterXML/jackson-module-scala) | Add-on module for Jackson (https://github.com/FasterXML/jackson) to support Scala-specific datatypes | ![GitHub stars](https://img.shields.io/github/stars/FasterXML/jackson-module-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/FasterXML/jackson-module-scala)
@@ -281,7 +282,7 @@ Name | Description | GitHub Activity
 [fm-flatfile](https://github.com/frugalmechanic/fm-flatfile) | Scala Library for Reading Flat File Data (CSV/TSV/XLS/XLSX) | ![GitHub stars](https://img.shields.io/github/stars/frugalmechanic/fm-flatfile) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/frugalmechanic/fm-flatfile)
 [kantan.csv](https://github.com/nrinaudo/kantan.csv) | CSV handling library for Scala | ![GitHub stars](https://img.shields.io/github/stars/nrinaudo/kantan.csv) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nrinaudo/kantan.csv)
 [**scala-csv**](https://github.com/tototoshi/scala-csv) | CSV Reader/Writer for Scala | ![GitHub stars](https://img.shields.io/github/stars/tototoshi/scala-csv) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tototoshi/scala-csv)
-[spata](https://github.com/fingo/spata) | Functional, stream-based CSV parser for Scala | ![GitHub stars](https://img.shields.io/github/stars/fingo/spata) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/fingo/spata)
+[spata](https://github.com/fingo/spata) | Functional, stream-based CSV processor for Scala | ![GitHub stars](https://img.shields.io/github/stars/fingo/spata) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/fingo/spata)
 
 ### Serialization
 
@@ -290,6 +291,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [avro-codegen](https://github.com/malcolmgreaves/avro-codegen) | Scala code generator for Avro schemas. | ![GitHub stars](https://img.shields.io/github/stars/malcolmgreaves/avro-codegen) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/malcolmgreaves/avro-codegen)
+[borer](https://github.com/sirthias/borer) | Efficient CBOR and JSON (de)serialization in Scala | ![GitHub stars](https://img.shields.io/github/stars/sirthias/borer) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sirthias/borer)
 [**avro4s**](https://github.com/sksamuel/avro4s) | Avro schema generation and serialization / deserialization for Scala | ![GitHub stars](https://img.shields.io/github/stars/sksamuel/avro4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sksamuel/avro4s)
 [**chill**](https://github.com/twitter/chill) | Scala extensions for the Kryo serialization library | ![GitHub stars](https://img.shields.io/github/stars/twitter/chill) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/chill)
 [msgpack-scala](https://github.com/msgpack/msgpack-scala) | MessagePack serializer implementation for Scala / msgpack.org[Scala] | ![GitHub stars](https://img.shields.io/github/stars/msgpack/msgpack-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/msgpack/msgpack-scala)
@@ -487,6 +489,7 @@ Name | Description | GitHub Activity
 [**bootzooka**](https://github.com/softwaremill/bootzooka) | Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc. | ![GitHub stars](https://img.shields.io/github/stars/softwaremill/bootzooka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/bootzooka)
 [**eclair**](https://github.com/ACINQ/eclair) | A scala implementation of the Lightning Network. | ![GitHub stars](https://img.shields.io/github/stars/ACINQ/eclair) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ACINQ/eclair)
 [fansi](https://github.com/com-lihaoyi/fansi) | Scala/Scala.js library for manipulating Fancy Ansi colored strings | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/fansi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/fansi)
+[figlet4s](https://github.com/ColOfAbRiX/figlet4s) | ASCII-art banners in Scala | ![GitHub stars](https://img.shields.io/github/stars/ColOfAbRiX/figlet4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ColOfAbRiX/figlet4s)
 [fs2-aws](https://github.com/laserdisc-io/fs2-aws) | fs2 utilities to interact with AWS | ![GitHub stars](https://img.shields.io/github/stars/laserdisc-io/fs2-aws) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/laserdisc-io/fs2-aws)
 [google4s](https://github.com/toknapp/google4s) | A lean, functional library for Google Cloud Services in Scala | ![GitHub stars](https://img.shields.io/github/stars/toknapp/google4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/toknapp/google4s)
 [google-api-scala](https://github.com/EckerdCollege/google-api-scala) | This API is a wrapper for the google java libraries. Currently mapping Admin Directory, Drive, and Calendar. | ![GitHub stars](https://img.shields.io/github/stars/EckerdCollege/google-api-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/EckerdCollege/google-api-scala)
@@ -502,7 +505,7 @@ Name | Description | GitHub Activity
 [scala-stm](https://github.com/nbronson/scala-stm) | A library-based Software Transactional Memory (STM) for Scala, coupled with transactional sets and maps | ![GitHub stars](https://img.shields.io/github/stars/nbronson/scala-stm) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nbronson/scala-stm)
 [Scavenger](https://gitlab.com/aossie/Scavenger) | An experimental automated theorem prover. |
 [service-chassis](https://github.com/allawala/service-chassis) | A scala chassis to get your applications and services bootstrapped quickly | ![GitHub stars](https://img.shields.io/github/stars/allawala/service-chassis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/allawala/service-chassis)
-[figlet4s](https://github.com/ColOfAbRiX/figlet4s) | ASCII-art banners in Scala | ![GitHub stars](https://img.shields.io/github/stars/ColOfAbRiX/figlet4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ColOfAbRiX/figlet4s)
+[spliff](https://github.com/sirthias/spliff) | Efficient diffing in Scala | ![GitHub stars](https://img.shields.io/github/stars/sirthias/spliff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sirthias/spliff)
 
 ### Android
 
