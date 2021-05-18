@@ -248,6 +248,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [argonaut-io/argonaut](@ghRepo)
+* [sirthias/borer](@ghRepo)
 * [travisbrown/circe](@ghRepo)
 * [gnieh/diffson](@ghRepo)
 * [FasterXML/jackson-module-scala](@ghRepo)
@@ -289,6 +290,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [malcolmgreaves/avro-codegen](@ghRepo)
+* [sirthias/borer](@ghRepo)
 * [sksamuel/avro4s](@ghRepo)
 * [twitter/chill](@ghRepo)
 * [msgpack/msgpack-scala](@ghRepo)
@@ -486,6 +488,7 @@ Name | Description | GitHub Activity
 * [softwaremill/bootzooka](@ghRepo)
 * [ACINQ/eclair](@ghRepo)
 * [lihaoyi/fansi](@ghRepo)
+* [ColOfAbRiX/figlet4s](@ghRepo)
 * [laserdisc-io/fs2-aws](@ghRepo)
 * [toknapp/google4s](@ghRepo)
 * [EckerdCollege/google-api-scala](@ghRepo)
@@ -501,7 +504,7 @@ Name | Description | GitHub Activity
 * [nbronson/scala-stm](@ghRepo)
 [Scavenger](https://gitlab.com/aossie/Scavenger) | An experimental automated theorem prover. |
 * [allawala/service-chassis](@ghRepo)
-* [ColOfAbRiX/figlet4s](@ghRepo)
+* [sirthias/spliff](@ghRepo)
 
 ### Android
 
