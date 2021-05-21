@@ -1,4 +1,3 @@
-
 Awesome Scala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
 
@@ -361,6 +360,7 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [backuity/clist](@ghRepo)
 * [bkirwi/decline](@ghRepo)
+* [com-lihaoyi/mainargs](@ghRepo)
 * [scallop/scallop](@ghRepo)
 * [scopt/scopt](@ghRepo)
 
@@ -714,7 +714,7 @@ Name | Description | GitHub Activity
 * [Functional Programming, Simplified (Scala edition)](https://alvinalexander.com/scala/fp-book/learning-functional-programming-in-scala/) by Alvin Alexander
 * [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) by Daniela Sfregola - Tutorial-driven introduction to Scala
 * [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala) by Gabriel Volpe
-* [Programming in Scala](https://www.artima.com/shop/programming_in_scala_4ed) by Martin Odersky, Lex Spoon, and Bill Venners 
+* [Programming in Scala](https://www.artima.com/shop/programming_in_scala_4ed) by Martin Odersky, Lex Spoon, and Bill Venners
 * [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais) by Jens Grassel
 * [Reactive Programming with Scala and Akka](https://www.amazon.com/Reactive-Programming-Scala-Akka/dp/1783984341) - Use the concepts of reactive programming to build distributed systems running on multiple nodes
 * [Scala Cookbook](http://scalacookbook.com) by Alvin Alexander
