@@ -124,6 +124,7 @@ Name | Description | GitHub Activity
 * [tminglei/slick-pg](@ghRepo)
 * [squeryl/squeryl](@ghRepo)
 * [scalamolecule/molecule](@ghRepo)
+* [zio/zio-redis](@ghRepo)
 
 ### Messaging
 
