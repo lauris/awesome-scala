@@ -60,6 +60,7 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
     - [Books](#books)
     - [Exercises](#exercises)
     - [Tutorials and courses](#tutorials-and-courses)
+    - [Commercial courses](#commercial-courses)
     - [Community members' blogs](#community-members-blogs)
     - [Company Blogs](#company-blogs)
     - [Podcasts](#podcasts)
@@ -738,6 +739,10 @@ Name | Description | GitHub Activity
 * **[Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2](https://github.com/jacksu/utils4s)** - repo of sample Scala library usage, written in Chinese
 * [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
 * [Scala Collections Cookbook](http://colobu.com/ScalaCollectionsCookbook/) - Scala collections introduction. written in Chinese.
+
+## Commercial courses
+* [Foundations of Functional Programming in Scala](https://www.fp-tower.com/courses/foundations) - a professional video course with exercises covering covers cats, cats-effect (IO) and functional design.
+* [Scala Algorithms](https://www.scala-algorithms.com/) - a collection of nearly 100 algorithms in pure-functional Scala with test cases, explanations and a web-based IDE. Built with http4s & Scala.js.
 
 ## Community Members' Blogs
 
