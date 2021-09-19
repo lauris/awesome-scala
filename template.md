@@ -741,7 +741,7 @@ Name | Description | GitHub Activity
 * [Scala Collections Cookbook](http://colobu.com/ScalaCollectionsCookbook/) - Scala collections introduction. written in Chinese.
 
 ## Commercial courses
-* [Foundations of Functional Programming in Scala](https://www.fp-tower.com/courses/foundations) - a professional video course with exercises covering covers cats, cats-effect (IO) and functional design.
+* [Foundations of Functional Programming in Scala](https://www.fp-tower.com/courses/foundations) - a professional video course with exercises covering covers functional principles, custom IO (effects) and functional design.
 * [Scala Algorithms](https://www.scala-algorithms.com/) - a collection of nearly 100 algorithms in pure-functional Scala with test cases, explanations and a web-based IDE. Built with http4s & Scala.js.
 
 ## Community Members' Blogs
