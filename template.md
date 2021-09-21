@@ -126,6 +126,7 @@ Name | Description | GitHub Activity
 * [squeryl/squeryl](@ghRepo)
 * [scalamolecule/molecule](@ghRepo)
 * [zio/zio-redis](@ghRepo)
+* [tpolecat/skunk](@ghRepo)
 
 ### Messaging
 
