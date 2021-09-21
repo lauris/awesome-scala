@@ -127,6 +127,7 @@ Name | Description | GitHub Activity
 [**squeryl**](https://github.com/squeryl/squeryl) | A Scala DSL for talking with databases with minimum verbosity and maximum type safety | ![GitHub stars](https://img.shields.io/github/stars/squeryl/squeryl) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/squeryl/squeryl)
 [molecule](https://github.com/scalamolecule/molecule) | Scala meta-DSL for the Datomic database | ![GitHub stars](https://img.shields.io/github/stars/scalamolecule/molecule) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalamolecule/molecule)
 [zio-redis](https://github.com/zio/zio-redis) | A ZIO-based redis client | ![GitHub stars](https://img.shields.io/github/stars/zio/zio-redis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zio/zio-redis)
+[**skunk**](https://github.com/tpolecat/skunk) | A data access library for Scala + Postgres. | ![GitHub stars](https://img.shields.io/github/stars/tpolecat/skunk) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tpolecat/skunk)
 
 ### Messaging
 
