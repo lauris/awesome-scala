@@ -33,8 +33,8 @@ def github_table_row(repo):
     return f"{project_link} | {repo.description} | {stars_shield} {commit_shield}"
 
 
-def warn(str):
-    print(f"Warn: {str}", file=sys.stderr)
+def warn(msg):
+    print(f"Warn: {msg}", file=sys.stderr)
 
 
 def retrieve_repo(name):
