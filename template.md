@@ -496,6 +496,7 @@ Name | Description | GitHub Activity
 * [toknapp/google4s](@ghRepo)
 * [EckerdCollege/google-api-scala](@ghRepo)
 * [outr/mailgun4s](@ghRepo)
+* [dvgica/managerial](@ghRepo)
 * [outr/media4s](@ghRepo)
 * [miniboxing/miniboxing-plugin](@ghRepo)
 * [marianogappa/ostinato](@ghRepo)
@@ -508,7 +509,6 @@ Name | Description | GitHub Activity
 [Scavenger](https://gitlab.com/aossie/Scavenger) | An experimental automated theorem prover. |
 * [allawala/service-chassis](@ghRepo)
 * [sirthias/spliff](@ghRepo)
-* [dvgica/managerial](@ghRepo)
 
 ### Android
 
