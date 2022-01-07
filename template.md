@@ -583,7 +583,6 @@ Name | Description | GitHub Activity
 * [albuch/sbt-dependency-check](@ghRepo)
 * [marcuslonnberg/sbt-docker](@ghRepo)
 * [tkawachi/sbt-doctest](@ghRepo)
-* [ensime/ensime-sbt](@ghRepo)
 * [sbt/sbt-ghpages](@ghRepo)
 * [sbt/sbt-groll](@ghRepo)
 * [sbt/sbt-header](@ghRepo)
