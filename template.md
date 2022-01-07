@@ -538,6 +538,7 @@ Name | Description | GitHub Activity
 * [eed3si9n/scalaxb](@ghRepo)
 * [softwaremill/sttp](@ghRepo)
 * [softwaremill/tapir](@ghRepo)
+* [endpoints4s/endpoints4s](@ghRepo)
 
 ### Semantic Web
 
