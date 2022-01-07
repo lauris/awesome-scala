@@ -496,6 +496,7 @@ Name | Description | GitHub Activity
 * [toknapp/google4s](@ghRepo)
 * [EckerdCollege/google-api-scala](@ghRepo)
 * [outr/mailgun4s](@ghRepo)
+* [dvgica/managerial](@ghRepo)
 * [outr/media4s](@ghRepo)
 * [miniboxing/miniboxing-plugin](@ghRepo)
 * [marianogappa/ostinato](@ghRepo)
