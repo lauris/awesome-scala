@@ -350,6 +350,7 @@ Name | Description | GitHub Activity
 * [Stratio/sparkta](@ghRepo)
 * [twitter/summingbird](@ghRepo)
 * [vegas-viz/Vegas](@ghRepo)
+* [galliaproject/gallia-core](@ghRepo)
 
 ### Command Line Interfaces
 
