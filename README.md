@@ -149,6 +149,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [analogweb-scala](https://github.com/analogweb/analogweb-scala) | Tiny High Performance HTTP Server for Scala  | ![GitHub stars](https://img.shields.io/github/stars/analogweb/analogweb-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/analogweb/analogweb-scala)
+[cask](https://github.com/com-lihaoyi/cask) | Cask: a Scala HTTP micro-framework | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/cask) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/cask)
 [chaos](https://github.com/mesosphere/chaos) | A lightweight framework for writing REST services in Scala. | ![GitHub stars](https://img.shields.io/github/stars/mesosphere/chaos) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mesosphere/chaos)
 [**colossus**](https://github.com/tumblr/colossus) | I/O and Microservice library for Scala | ![GitHub stars](https://img.shields.io/github/stars/tumblr/colossus) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tumblr/colossus)
 [**finatra**](https://github.com/twitter/finatra) | Fast, testable, Scala services built on TwitterServer and Finagle | ![GitHub stars](https://img.shields.io/github/stars/twitter/finatra) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/finatra)
