@@ -4,11 +4,9 @@ Awesome Scala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d2
 
 A community driven list of useful Scala libraries, frameworks and software. This is not a catalog of all the libraries, just a starting point for your explorations. Inspired by [awesome-python](https://github.com/vinta/awesome-python). Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
+Also awesome is [Scaladex](https://index.scala-lang.org/), the searchable, tagged, and centralized index of Scala libraries.
+
 Projects with over 500 stargazers are in bold.
-
-### See also
-
-See also the ["Awesome Scala" page on Scaladex](https://index.scala-lang.org/awesome). Scaladex is a searchable, tagged, and centralized index of Scala libraries.
 
 ## Contributing
 
@@ -394,7 +392,7 @@ Name | Description | GitHub Activity
 [iteratee](https://github.com/travisbrown/iteratee) | Iteratees for Cats | ![GitHub stars](https://img.shields.io/github/stars/travisbrown/iteratee) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/travisbrown/iteratee)
 [**monix**](https://github.com/monix/monix) | Asynchronous, Reactive Programming for Scala and Scala.js. | ![GitHub stars](https://img.shields.io/github/stars/monix/monix) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/monix/monix)
 [reactors](https://github.com/storm-enroute/reactors) | A concurrent reactive programming framework. | ![GitHub stars](https://img.shields.io/github/stars/storm-enroute/reactors) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/storm-enroute/reactors)
-[reactor-scala-extensions](https://github.com/reactor/reactor-scala-extensions) | A scala extension for Project Reactor's Flux and Mono | ![GitHub stars](https://img.shields.io/github/stars/reactor/reactor-scala-extensions) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/reactor/reactor-scala-extensions)
+[reactor-scala-extensions](https://github.com/spring-attic/reactor-scala-extensions) | A scala extension for Project Reactor's Flux and Mono | ![GitHub stars](https://img.shields.io/github/stars/spring-attic/reactor-scala-extensions) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spring-attic/reactor-scala-extensions)
 [REScala](https://github.com/rescala-lang/REScala) | REScala - reactive programming in OO applications | ![GitHub stars](https://img.shields.io/github/stars/rescala-lang/REScala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rescala-lang/REScala)
 [**RxScala**](https://github.com/ReactiveX/RxScala) | RxScala – Reactive Extensions for Scala – a library for composing asynchronous and event-based programs using observable sequences | ![GitHub stars](https://img.shields.io/github/stars/ReactiveX/RxScala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ReactiveX/RxScala)
 [**scala.rx**](https://github.com/lihaoyi/scala.rx) | An experimental library for Functional Reactive Programming in Scala | ![GitHub stars](https://img.shields.io/github/stars/lihaoyi/scala.rx) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lihaoyi/scala.rx)
