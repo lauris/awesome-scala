@@ -149,6 +149,7 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [analogweb/analogweb-scala](@ghRepo)
 * [mesosphere/chaos](@ghRepo)
+* [com-lihaoyi/cask](@ghRepo)
 * [tumblr/colossus](@ghRepo)
 * [twitter/finatra](@ghRepo)
 * [lift/framework](@ghRepo)
