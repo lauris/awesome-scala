@@ -4,9 +4,11 @@ Awesome Scala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d2
 
 A community driven list of useful Scala libraries, frameworks and software. This is not a catalog of all the libraries, just a starting point for your explorations. Inspired by [awesome-python](https://github.com/vinta/awesome-python). Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
-Also awesome is [Scaladex](https://index.scala-lang.org/), the searchable, tagged, and centralized index of Scala libraries.
-
 Projects with over 500 stargazers are in bold.
+
+### See also
+
+See also the ["Awesome Scala" page on Scaladex](https://index.scala-lang.org/awesome). Scaladex is a searchable, tagged, and centralized index of Scala libraries.
 
 ## Contributing
 
