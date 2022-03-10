@@ -218,6 +218,7 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [ScorexProject/scrypto](@ghRepo)
 * [jmcardon/tsec](@ghRepo)
+* [blackdoor/jose](@ghRepo)
 
 ### Testing
 
@@ -257,7 +258,7 @@ Name | Description | GitHub Activity
 * [json4s/json4s](@ghRepo)
 * [plokhotnyuk/jsoniter-scala](@ghRepo)
 * [nestorpersist/json](@ghRepo)
-* [kag0/ninny-json](@ghRepo)
+* [nrktkt/ninny-json](@ghRepo)
 * [playframework/play-json](@ghRepo)
 * [fomkin/pushka](@ghRepo)
 * [battermann/sbt-json](@ghRepo)
