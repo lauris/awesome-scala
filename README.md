@@ -219,6 +219,7 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [scrypto](https://github.com/input-output-hk/scrypto) | Cryptographic primitives for Scala | ![GitHub stars](https://img.shields.io/github/stars/input-output-hk/scrypto) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/input-output-hk/scrypto)
 [tsec](https://github.com/jmcardon/tsec) | Type-safe general-cryptography library - https://jmcardon.github.io/tsec/ | ![GitHub stars](https://img.shields.io/github/stars/jmcardon/tsec) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jmcardon/tsec)
+[jose](https://github.com/blackdoor/jose) | Extensible JOSE library for Scala | ![GitHub stars](https://img.shields.io/github/stars/blackdoor/jose) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/blackdoor/jose)
 
 ### Testing
 
@@ -258,7 +259,7 @@ Name | Description | GitHub Activity
 [**json4s**](https://github.com/json4s/json4s) | JSON library | ![GitHub stars](https://img.shields.io/github/stars/json4s/json4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/json4s/json4s)
 [jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) | Scala macros for compile-time generation of safe and ultra-fast JSON codecs | ![GitHub stars](https://img.shields.io/github/stars/plokhotnyuk/jsoniter-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/plokhotnyuk/jsoniter-scala)
 [json](https://github.com/nestorpersist/json) | Persist-Json, a Fast Json Parser Written in Scala | ![GitHub stars](https://img.shields.io/github/stars/nestorpersist/json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nestorpersist/json)
-[ninny-json](https://github.com/kag0/ninny-json) | JSON typeclasses that know the difference between null and absent fields | ![GitHub stars](https://img.shields.io/github/stars/kag0/ninny-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/kag0/ninny-json)
+[ninny-json](https://github.com/nrktkt/ninny-json) | JSON typeclasses that know the difference between null and absent fields | ![GitHub stars](https://img.shields.io/github/stars/nrktkt/ninny-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nrktkt/ninny-json)
 [play-json](https://github.com/playframework/play-json) | The Play JSON library | ![GitHub stars](https://img.shields.io/github/stars/playframework/play-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/playframework/play-json)
 [pushka](https://github.com/fomkin/pushka) | ABANDONED Pure Scala serialization library with annotations | ![GitHub stars](https://img.shields.io/github/stars/fomkin/pushka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/fomkin/pushka)
 [sbt-json](https://github.com/battermann/sbt-json) | sbt plugin that generates Scala case classes for easy, statically typed and implicit access of JSON data e.g. from API responses | ![GitHub stars](https://img.shields.io/github/stars/battermann/sbt-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/battermann/sbt-json)
