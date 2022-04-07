@@ -333,6 +333,7 @@ Name | Description | GitHub Activity
 * [mrdimosthenis/Synapses](@ghRepo)
 * [eaplatanios/tensorflow_scala](@ghRepo)
 * [apache/zeppelin](@ghRepo)
+* [JohnSnowLabs/spark-nlp](@ghRepo)
 
 ### Big Data
 
