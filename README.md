@@ -241,7 +241,7 @@ Name | Description | GitHub Activity
 [**specs2**](https://github.com/etorreborre/specs2) | Software Specifications for Scala | ![GitHub stars](https://img.shields.io/github/stars/etorreborre/specs2) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/etorreborre/specs2)
 [stryker4s](https://github.com/stryker-mutator/stryker4s) | Mutation testing for Scala | ![GitHub stars](https://img.shields.io/github/stars/stryker-mutator/stryker4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/stryker-mutator/stryker4s)
 [weaver-test](https://github.com/disneystreaming/weaver-test) | A test framework that runs everything in parallel.  | ![GitHub stars](https://img.shields.io/github/stars/disneystreaming/weaver-test) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/disneystreaming/weaver-test)
-[testcontainers-scala](https://github.com/testcontainers/testcontainers-scala) | Docker containers for testing in scala | ![GitHub stars](https://img.shields.io/github/stars/testcontainers/testcontainers-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/testcontainers/testcontainers-scala)
+[**testcontainers-scala**](https://github.com/testcontainers/testcontainers-scala) | Docker containers for testing in scala | ![GitHub stars](https://img.shields.io/github/stars/testcontainers/testcontainers-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/testcontainers/testcontainers-scala)
 [utest](https://github.com/com-lihaoyi/utest) | A simple testing framework for Scala | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/utest) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/utest)
 
 ### JSON
@@ -334,6 +334,7 @@ Name | Description | GitHub Activity
 [Synapses](https://github.com/mrdimosthenis/Synapses) | A group of neural-network libraries for functional and mainstream languages | ![GitHub stars](https://img.shields.io/github/stars/mrdimosthenis/Synapses) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mrdimosthenis/Synapses)
 [**tensorflow_scala**](https://github.com/eaplatanios/tensorflow_scala) | TensorFlow API for the Scala Programming Language | ![GitHub stars](https://img.shields.io/github/stars/eaplatanios/tensorflow_scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/eaplatanios/tensorflow_scala)
 [**zeppelin**](https://github.com/apache/zeppelin) | Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more. | ![GitHub stars](https://img.shields.io/github/stars/apache/zeppelin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/apache/zeppelin)
+[**spark-nlp**](https://github.com/JohnSnowLabs/spark-nlp) | State of the Art Natural Language Processing | ![GitHub stars](https://img.shields.io/github/stars/JohnSnowLabs/spark-nlp) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/JohnSnowLabs/spark-nlp)
 
 ### Big Data
 
@@ -476,7 +477,7 @@ Name | Description | GitHub Activity
 [**shapeless**](https://github.com/milessabin/shapeless) | Generic programming for Scala | ![GitHub stars](https://img.shields.io/github/stars/milessabin/shapeless) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/milessabin/shapeless)
 [**simulacrum**](https://github.com/typelevel/simulacrum) | First class syntax support for type classes in Scala | ![GitHub stars](https://img.shields.io/github/stars/typelevel/simulacrum) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/simulacrum)
 [squid](https://github.com/epfldata/squid) | Squid – type-safe metaprogramming and compilation framework for Scala | ![GitHub stars](https://img.shields.io/github/stars/epfldata/squid) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/epfldata/squid)
-[tinylog](https://github.com/tinylog-org/tinylog) | tinylog is a lightweight logging framework for Java, Kotlin, Scala, and Android | ![GitHub stars](https://img.shields.io/github/stars/tinylog-org/tinylog) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tinylog-org/tinylog)
+[**tinylog**](https://github.com/tinylog-org/tinylog) | tinylog is a lightweight logging framework for Java, Kotlin, Scala, and Android | ![GitHub stars](https://img.shields.io/github/stars/tinylog-org/tinylog) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tinylog-org/tinylog)
 [**util**](https://github.com/twitter/util) | Wonderful reusable code from Twitter | ![GitHub stars](https://img.shields.io/github/stars/twitter/util) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/util)
 
 ### Misc
