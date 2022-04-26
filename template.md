@@ -730,7 +730,7 @@ Name | Description | GitHub Activity
 * [Scala for the Impatient](https://horstmann.com/scala/) by Cay Horstmann - Covers most Scala features with short and easy to understand explainations.
 * [Scala With Cats](https://underscore.io/books/scala-with-cats/) by Noel Welsh and Dave Gurnell - Learn system architecture and design using the techniques of modern functional programming with [Cats](https://typelevel.org/cats/)
 * [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/) by Dave Gurnell
-* [Zionomicon](https://www.zionomicon.com) by John A. De Goes, Adam Fraser
+* [Zionomicon](https://www.zionomicon.com) by John A. De Goes, Adam Fraser - Master the dark art of creating scalable, type-safe, concurrent apps with ZIO
 
 
 ## Exercises
