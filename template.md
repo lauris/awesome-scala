@@ -617,6 +617,7 @@ Name | Description | GitHub Activity
 * [tpolecat/tut](@ghRepo)
 * [earldouglas/xsbt-web-plugin](@ghRepo)
 * [shmishleniy/sbt-deploy-ssh](@ghRepo)
+* [sbt/sbt-git](@ghRepo)
 * [zero-deps/sbt-git](@ghRepo)
 
 ### XML / HTML
