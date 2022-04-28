@@ -127,6 +127,7 @@ Name | Description | GitHub Activity
 [molecule](https://github.com/scalamolecule/molecule) | Non-blocking asynchronous domain-customizable database query language for Scala and Scala.js against the Datomic database. | ![GitHub stars](https://img.shields.io/github/stars/scalamolecule/molecule) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalamolecule/molecule)
 [zio-redis](https://github.com/zio/zio-redis) | A ZIO-based redis client | ![GitHub stars](https://img.shields.io/github/stars/zio/zio-redis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zio/zio-redis)
 [**skunk**](https://github.com/tpolecat/skunk) | A data access library for Scala + Postgres. | ![GitHub stars](https://img.shields.io/github/stars/tpolecat/skunk) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tpolecat/skunk)
+[kvs](https://github.com/zero-deps/kvs) | Highly available distributed strong eventual consistent and sequentially consistent storage with feeds and search | ![GitHub stars](https://img.shields.io/github/stars/zero-deps/kvs) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zero-deps/kvs)
 
 ### Messaging
 
@@ -266,6 +267,7 @@ Name | Description | GitHub Activity
 [scala-jsonapi](https://github.com/scala-jsonapi/scala-jsonapi) | Scala support library for integrating the JSON API spec with Spray, Play! or Circe | ![GitHub stars](https://img.shields.io/github/stars/scala-jsonapi/scala-jsonapi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scala-jsonapi/scala-jsonapi)
 [ScalaJack](https://github.com/gzoller/ScalaJack) | Fast JSON parser/generator for Scala | ![GitHub stars](https://img.shields.io/github/stars/gzoller/ScalaJack) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gzoller/ScalaJack)
 [**spray-json**](https://github.com/spray/spray-json) | A lightweight, clean and simple JSON implementation in Scala | ![GitHub stars](https://img.shields.io/github/stars/spray/spray-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spray/spray-json)
+[zio-json](https://github.com/zio/zio-json) | Fast, secure JSON library with tight ZIO integration. | ![GitHub stars](https://img.shields.io/github/stars/zio/zio-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zio/zio-json)
 
 ### YAML
 
@@ -301,6 +303,7 @@ Name | Description | GitHub Activity
 [**scodec**](https://github.com/scodec/scodec) | Scala combinator library for working with binary data | ![GitHub stars](https://img.shields.io/github/stars/scodec/scodec) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scodec/scodec)
 [**scrooge**](https://github.com/twitter/scrooge) | A Thrift parser/generator | ![GitHub stars](https://img.shields.io/github/stars/twitter/scrooge) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/scrooge)
 [**upickle**](https://github.com/com-lihaoyi/upickle) | uPickle: a simple, fast, dependency-free JSON & Binary (MessagePack) serialization library for Scala | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/upickle) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/upickle)
+[proto](https://github.com/zero-deps/proto) | Lightweight and fast serialization library for Scala 2/3 based on Protocol Buffers with macros | ![GitHub stars](https://img.shields.io/github/stars/zero-deps/proto) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zero-deps/proto)
 
 ### Science and Data Analysis
 
@@ -540,6 +543,7 @@ Name | Description | GitHub Activity
 [**sttp**](https://github.com/softwaremill/sttp) | The Scala HTTP client you always wanted! | ![GitHub stars](https://img.shields.io/github/stars/softwaremill/sttp) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/sttp)
 [**tapir**](https://github.com/softwaremill/tapir) | Declarative, type-safe web endpoints library | ![GitHub stars](https://img.shields.io/github/stars/softwaremill/tapir) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/tapir)
 [endpoints4s](https://github.com/endpoints4s/endpoints4s) | Describe HTTP endpoints in Scala and derive clients, servers, and documentation | ![GitHub stars](https://img.shields.io/github/stars/endpoints4s/endpoints4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/endpoints4s/endpoints4s)
+[frontier](https://github.com/zero-deps/frontier) | Fast, efficient, pure-functional, effect-free websocket, http and udp server, http client and telegram bot | ![GitHub stars](https://img.shields.io/github/stars/zero-deps/frontier) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zero-deps/frontier)
 
 ### Semantic Web
 
@@ -613,6 +617,9 @@ Name | Description | GitHub Activity
 [splain](https://github.com/tek/splain) | better implicit errors for scala | ![GitHub stars](https://img.shields.io/github/stars/tek/splain) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tek/splain)
 [**tut**](https://github.com/tpolecat/tut) | doc/tutorial generator for scala | ![GitHub stars](https://img.shields.io/github/stars/tpolecat/tut) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tpolecat/tut)
 [xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin) | Servlet support for sbt | ![GitHub stars](https://img.shields.io/github/stars/earldouglas/xsbt-web-plugin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/earldouglas/xsbt-web-plugin)
+[sbt-deploy-ssh](https://github.com/shmishleniy/sbt-deploy-ssh) | SBT deploy plugin | ![GitHub stars](https://img.shields.io/github/stars/shmishleniy/sbt-deploy-ssh) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/shmishleniy/sbt-deploy-ssh)
+[sbt-git](https://github.com/sbt/sbt-git) | A git plugin for SBT | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-git) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-git)
+[sbt-git](https://github.com/zero-deps/sbt-git) | Use git-describe as a version and run git commands inside SBT shell | ![GitHub stars](https://img.shields.io/github/stars/zero-deps/sbt-git) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zero-deps/sbt-git)
 
 ### XML / HTML
 
@@ -725,6 +732,7 @@ Name | Description | GitHub Activity
 * [Scala for the Impatient](https://horstmann.com/scala/) by Cay Horstmann - Covers most Scala features with short and easy to understand explainations.
 * [Scala With Cats](https://underscore.io/books/scala-with-cats/) by Noel Welsh and Dave Gurnell - Learn system architecture and design using the techniques of modern functional programming with [Cats](https://typelevel.org/cats/)
 * [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/) by Dave Gurnell
+* [Zionomicon](https://www.zionomicon.com) by John A. De Goes, Adam Fraser - Master the dark art of creating scalable, type-safe, concurrent apps with ZIO
 
 
 ## Exercises
