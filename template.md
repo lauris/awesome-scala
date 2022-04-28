@@ -126,6 +126,7 @@ Name | Description | GitHub Activity
 * [scalamolecule/molecule](@ghRepo)
 * [zio/zio-redis](@ghRepo)
 * [tpolecat/skunk](@ghRepo)
+* [zero-deps/kvs](@ghRepo)
 
 ### Messaging
 
@@ -265,6 +266,7 @@ Name | Description | GitHub Activity
 * [scala-jsonapi/scala-jsonapi](@ghRepo)
 * [gzoller/ScalaJack](@ghRepo)
 * [spray/spray-json](@ghRepo)
+* [zio/zio-json](@ghRepo)
 
 ### YAML
 
@@ -300,6 +302,7 @@ Name | Description | GitHub Activity
 * [scodec/scodec](@ghRepo)
 * [twitter/scrooge](@ghRepo)
 * [lihaoyi/upickle](@ghRepo)
+* [zero-deps/proto](@ghRepo)
 
 ### Science and Data Analysis
 
@@ -539,6 +542,7 @@ Name | Description | GitHub Activity
 * [softwaremill/sttp](@ghRepo)
 * [softwaremill/tapir](@ghRepo)
 * [endpoints4s/endpoints4s](@ghRepo)
+* [zero-deps/frontier](@ghRepo)
 
 ### Semantic Web
 
@@ -612,6 +616,9 @@ Name | Description | GitHub Activity
 * [tek/splain](@ghRepo)
 * [tpolecat/tut](@ghRepo)
 * [earldouglas/xsbt-web-plugin](@ghRepo)
+* [shmishleniy/sbt-deploy-ssh](@ghRepo)
+* [sbt/sbt-git](@ghRepo)
+* [zero-deps/sbt-git](@ghRepo)
 
 ### XML / HTML
 
@@ -724,6 +731,7 @@ Name | Description | GitHub Activity
 * [Scala for the Impatient](https://horstmann.com/scala/) by Cay Horstmann - Covers most Scala features with short and easy to understand explainations.
 * [Scala With Cats](https://underscore.io/books/scala-with-cats/) by Noel Welsh and Dave Gurnell - Learn system architecture and design using the techniques of modern functional programming with [Cats](https://typelevel.org/cats/)
 * [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/) by Dave Gurnell
+* [Zionomicon](https://www.zionomicon.com) by John A. De Goes, Adam Fraser - Master the dark art of creating scalable, type-safe, concurrent apps with ZIO
 
 
 ## Exercises
