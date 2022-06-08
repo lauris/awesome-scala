@@ -784,6 +784,7 @@ Name | Description | GitHub Activity
 * https://medium.com/disney-streaming/tagged/thisweekinscala
 * https://www.codacy.com/blog/
 * [Scala Times](https://scalatimes.com/) - Weekly newsletter about scala
+* [47 Degrees](https://www.47deg.com/blog/) - Functional Programming news, updates, and more.
 
 ## Podcasts
 
