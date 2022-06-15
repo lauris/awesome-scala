@@ -792,6 +792,9 @@ Name | Description | GitHub Activity
 * [Scala Love](https://scala.love/) - Podcast about the Scala Programming Language and its community
 * [CoRecursive Interviews](https://corecursive.com/) - In-depth Interviews with software developers, often on the subject of scala libraries and functional programming.
 
+## Communities
+
+* [Scala Ukraine](https://t.me/scala_ukraine) - Telegram chat of Ukrainian Scala Community
 
 ## Misc.
 
