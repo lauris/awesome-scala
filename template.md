@@ -186,6 +186,7 @@ Name | Description | GitHub Activity
 * [yakivy/dupin](@ghRepo)
 * [krzemin/octopus](@ghRepo)
 * [splink/veto](@ghRepo)
+* [jap-company/fields](@ghRepo)
 
 ### i18n
 
