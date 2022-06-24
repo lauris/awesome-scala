@@ -40,7 +40,7 @@ def warn(msg):
 def retrieve_repo(name):
     try:
         repo = g.get_repo(name)
-    except BaseException as error:
+    except Exception:
         print(f"Error occured while getting {name} repo")
         raise
     print('.', file=sys.stderr, end='', flush=True)
