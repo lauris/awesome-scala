@@ -322,7 +322,6 @@ Name | Description | GitHub Activity
 * [anskarl/LoMRF](@ghRepo)
 * [openmole/mgo](@ghRepo)
 [MLLib](https://spark.apache.org/mllib/) | Machine Learning framework for Spark |
-* [deeplearning4j/nd4s](@ghRepo)
 * [SciScala/NDScala](@ghRepo)
 * [botkop/numsca](@ghRepo)
 * [EmergentOrder/ONNX-Scala](@ghRepo)
