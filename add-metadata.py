@@ -41,7 +41,7 @@ def retrieve_repo(name):
     try:
         repo = g.get_repo(name)
     except Exception:
-        print(f"Error occured while getting {name} repo")
+        warn(f"Error occured while getting {name} repo")
         raise
     print('.', file=sys.stderr, end='', flush=True)
     check_freshness(repo)
