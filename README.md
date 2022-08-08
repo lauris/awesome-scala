@@ -786,6 +786,7 @@ Name | Description | GitHub Activity
 * https://www.codacy.com/blog/
 * [Scala Times](https://scalatimes.com/) - Weekly newsletter about scala
 * [47 Degrees](https://www.47deg.com/blog/) - Functional Programming news, updates, and more.
+* [Explore Scala](https://kandi.openweaver.com/explore/scala) - A curated list of Scala libraries, authors, kits, tutorials & learning resources.
 
 ## Podcasts
 
