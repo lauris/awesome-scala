@@ -268,6 +268,7 @@ Name | Description | GitHub Activity
 [scala-jsonapi](https://github.com/scala-jsonapi/scala-jsonapi) | Scala support library for integrating the JSON API spec with Spray, Play! or Circe | ![GitHub stars](https://img.shields.io/github/stars/scala-jsonapi/scala-jsonapi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scala-jsonapi/scala-jsonapi)
 [ScalaJack](https://github.com/gzoller/ScalaJack) | Fast JSON parser/generator for Scala | ![GitHub stars](https://img.shields.io/github/stars/gzoller/ScalaJack) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gzoller/ScalaJack)
 [**spray-json**](https://github.com/spray/spray-json) | A lightweight, clean and simple JSON implementation in Scala | ![GitHub stars](https://img.shields.io/github/stars/spray/spray-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spray/spray-json)
+[tethys](https://github.com/tethys-json/tethys) | Highly efficient AST-free JSON library for Scala | ![GitHub stars](https://img.shields.io/github/stars/tethys-json/tethys) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tethys-json/tethys)
 [zio-json](https://github.com/zio/zio-json) | Fast, secure JSON library with tight ZIO integration. | ![GitHub stars](https://img.shields.io/github/stars/zio/zio-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zio/zio-json)
 
 ### YAML
