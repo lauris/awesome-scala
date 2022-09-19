@@ -805,3 +805,4 @@ Name | Description | GitHub Activity
 * [List of Scala Online Courses](https://classpert.com/scala-programming) - A list of free and paid Scala online courses by Classpert, An online course search and comparison website
 * [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg) -  A youtube channel that provides full fledged videos, recorded at Scala Days Conferences
 * [CA Art](https://github.com/makingthematrix/ca_art) - A small project aimed at learning Scala on intermediate level by experimenting with Cellular Automata
+* [Explore Scala](https://kandi.openweaver.com/explore/scala) - A curated list of Scala libraries, authors, kits, tutorials & learning resources.
