@@ -187,7 +187,7 @@ Name | Description | GitHub Activity
 [dupin](https://github.com/yakivy/dupin) | Minimal, idiomatic, customizable validation Scala library. | ![GitHub stars](https://img.shields.io/github/stars/yakivy/dupin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/yakivy/dupin)
 [octopus](https://github.com/krzemin/octopus) | Scala library for boilerplate-free validation | ![GitHub stars](https://img.shields.io/github/stars/krzemin/octopus) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/krzemin/octopus)
 [veto](https://github.com/splink/veto) | If you don't agree with the data | ![GitHub stars](https://img.shields.io/github/stars/splink/veto) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/splink/veto)
-[fields](https://github.com/jap-company/fields) | Scala validation library written in Tagless Final. | ![GitHub stars](https://img.shields.io/github/stars/jap-company/fields) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jap-company/fields)
+[fields](https://github.com/jap-company/fields) | Scala validation library | ![GitHub stars](https://img.shields.io/github/stars/jap-company/fields) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jap-company/fields)
 
 ### i18n
 
@@ -235,7 +235,7 @@ Name | Description | GitHub Activity
 [mockito-scala](https://github.com/mockito/mockito-scala) | Mockito for Scala language | ![GitHub stars](https://img.shields.io/github/stars/mockito/mockito-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mockito/mockito-scala)
 [munit](https://github.com/scalameta/munit) | Scala testing library with actionable errors and extensible APIs | ![GitHub stars](https://img.shields.io/github/stars/scalameta/munit) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalameta/munit)
 [**scalacheck**](https://github.com/typelevel/scalacheck) | Property-based testing for Scala | ![GitHub stars](https://img.shields.io/github/stars/typelevel/scalacheck) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/scalacheck)
-[**scalameter**](https://github.com/scalameter/scalameter) | Microbenchmarking and performance regression testing framework for the JVM platform. | ![GitHub stars](https://img.shields.io/github/stars/scalameter/scalameter) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalameter/scalameter)
+[scalameter](https://github.com/scalameter/scalameter) | Microbenchmarking and performance regression testing framework for the JVM platform. | ![GitHub stars](https://img.shields.io/github/stars/scalameter/scalameter) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalameter/scalameter)
 [ScalaMock](https://github.com/paulbutcher/ScalaMock) | Native Scala mocking framework | ![GitHub stars](https://img.shields.io/github/stars/paulbutcher/ScalaMock) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/paulbutcher/ScalaMock)
 [scalaprops](https://github.com/scalaprops/scalaprops) | property based testing library for Scala | ![GitHub stars](https://img.shields.io/github/stars/scalaprops/scalaprops) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalaprops/scalaprops)
 [**scalatest**](https://github.com/scalatest/scalatest) | A testing tool for Scala and Java developers | ![GitHub stars](https://img.shields.io/github/stars/scalatest/scalatest) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalatest/scalatest)
@@ -749,6 +749,7 @@ Name | Description | GitHub Activity
 * **[Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2](https://github.com/jacksu/utils4s)** - repo of sample Scala library usage, written in Chinese
 * [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
 * [Scala Collections Cookbook](http://colobu.com/ScalaCollectionsCookbook/) - Scala collections introduction. written in Chinese.
+* [Free Scala Courses](https://skillcombo.com/topic/scala/free/) - A curated list of free Scala courses.
 
 ## Commercial courses
 * [Foundations of Functional Programming in Scala](https://www.fp-tower.com/courses/foundations) - a professional video course with exercises covering covers functional principles, custom IO (effects) and functional design.
