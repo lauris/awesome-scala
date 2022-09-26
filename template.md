@@ -512,6 +512,7 @@ Name | Description | GitHub Activity
 [Scavenger](https://gitlab.com/aossie/Scavenger) | An experimental automated theorem prover. |
 * [allawala/service-chassis](@ghRepo)
 * [sirthias/spliff](@ghRepo)
+* [lambdaworks/scountries](@ghRepo)
 
 ### Android
 
