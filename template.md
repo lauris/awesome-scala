@@ -513,6 +513,7 @@ Name | Description | GitHub Activity
 * [allawala/service-chassis](@ghRepo)
 * [sirthias/spliff](@ghRepo)
 * [lambdaworks/scountries](@ghRepo)
+* [lambdaworks/scurl-detector](@ghRepo)
 
 ### Android
 
