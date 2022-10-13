@@ -357,6 +357,7 @@ Name | Description | GitHub Activity
 * [twitter/summingbird](@ghRepo)
 * [vegas-viz/Vegas](@ghRepo)
 * [galliaproject/gallia-core](@ghRepo)
+* [TouK/nussknacker](@ghRepo)
 
 ### Command Line Interfaces
 
