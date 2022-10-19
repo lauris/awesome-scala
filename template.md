@@ -489,7 +489,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-[Agora](https://gitlab.com/aossie/Agora/) | Library of vote-counting algorithms for elections. |
+* [Agora](https://gitlab.com/aossie/Agora/) | Library of vote-counting algorithms for elections. |
 * [lihaoyi/Ammonite](@ghRepo)
 * [aws4s/aws4s](@ghRepo)
 * [softwaremill/bootzooka](@ghRepo)
@@ -510,10 +510,11 @@ Name | Description | GitHub Activity
 * [marconilanna/REPLesent](@ghRepo)
 * [sirthias/scala-ssh](@ghRepo)
 * [nbronson/scala-stm](@ghRepo)
-[Scavenger](https://gitlab.com/aossie/Scavenger) | An experimental automated theorem prover. |
+* [Scavenger](https://gitlab.com/aossie/Scavenger) | An experimental automated theorem prover. |
 * [allawala/service-chassis](@ghRepo)
 * [sirthias/spliff](@ghRepo)
 * [lambdaworks/scountries](@ghRepo)
+* [lambdaworks/scurl-detector](@ghRepo)
 * [aptusproject/aptus-core](@ghRepo)
 
 ### Android
