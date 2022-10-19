@@ -514,6 +514,7 @@ Name | Description | GitHub Activity
 * [allawala/service-chassis](@ghRepo)
 * [sirthias/spliff](@ghRepo)
 * [lambdaworks/scountries](@ghRepo)
+* [aptusproject/aptus-core](@ghRepo)
 
 ### Android
 
