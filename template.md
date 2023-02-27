@@ -741,7 +741,7 @@ Name | Description | GitHub Activity
 ## Exercises
 * [S-99](http://aperiodic.net/phil/scala/s-99) - Ninety-Nine Scala Problems
 * [Scala Exercises](http://scala-exercises.47deg.com/) - Brings the popular Scala Koans to the web. Offering hundreds of solvable exercises organized into 42 categories covering the basics of the Scala language.
-* [Exercism - Scala Exercises](http://exercism.io/languages/scala/exercises) - Community-driven Scala exercises.
+* [Exercism - Scala Exercises](https://exercism.org/tracks/scala/exercises) - Community-driven Scala exercises.
 * [Learn-by-doing functional programming course on Scala](https://github.com/dehun/learn-fp/) - Covers type classes, functors, applicatives, monads, monad transformers, free monad
 
 
