@@ -753,6 +753,7 @@ Name | Description | GitHub Activity
 * [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
 * [Scala Collections Cookbook](http://colobu.com/ScalaCollectionsCookbook/) - Scala collections introduction. written in Chinese.
 * [Free Scala Courses](https://skillcombo.com/topic/scala/free/) - A curated list of free Scala courses.
+* [Clean Architecture Example](https://github.com/SaeidDadkhah/clean-arch-example) - A step-by-step guide to develop an application using Clean Architecture in Scala.
 
 ## Commercial courses
 * [Foundations of Functional Programming in Scala](https://www.fp-tower.com/courses/foundations) - a professional video course with exercises covering covers functional principles, custom IO (effects) and functional design.
