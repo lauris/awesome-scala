@@ -462,6 +462,7 @@ Name | Description | GitHub Activity
 * [ISCPIF/freedsl](@ghRepo)
 * [frees-io/freestyle](@ghRepo)
 * [scala-hamsters/hamsters](@ghRepo)
+* [iltotore/iron](@ghRepo)
 * [maxcellent/lamma](@ghRepo)
 * [xerial/larray](@ghRepo)
 * [Log4s/log4s](@ghRepo)
