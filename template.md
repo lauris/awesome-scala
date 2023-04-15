@@ -694,6 +694,7 @@ Name | Description | GitHub Activity
 * [sake92/stone](@ghRepo)
 * [sake92/scalajs-router](@ghRepo)
 * [BotTech/scala2plantuml](@ghRepo)
+* [bitlap/rolls](@ghRepo) | Scala3 tools based on standard compiler plugin and metaprogramming, such as @prettyToString, simple CSV |
 
 ### Geospatial
 
