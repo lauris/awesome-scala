@@ -20,7 +20,7 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
 - [Instances](#instances)
 - [Alternative front-ends](#alternative-front-ends)
 - [Mobile Apps](#mobile-apps)
-- [Librairies](#librairies)
+- [Libraries](#libraries)
 - [Tools](#tools)
 - [Misc.](#misc)
 
@@ -61,7 +61,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [**jerboa**](https://github.com/dessalines/jerboa) | A native android app for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/dessalines/jerboa) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dessalines/jerboa)
-[Mlem](https://github.com/mormaer/Mlem) | The Lemmy client | ![GitHub stars](https://img.shields.io/github/stars/mormaer/Mlem) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mormaer/Mlem)
+[**Mlem**](https://github.com/mormaer/Mlem) | The Lemmy client | ![GitHub stars](https://img.shields.io/github/stars/mormaer/Mlem) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mormaer/Mlem)
 [thunder](https://github.com/hjiangsu/thunder) | Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter | ![GitHub stars](https://img.shields.io/github/stars/hjiangsu/thunder) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hjiangsu/thunder)
 [memmy](https://github.com/gkasdorf/memmy) | An iOS client for Lemmy | ![GitHub stars](https://img.shields.io/github/stars/gkasdorf/memmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gkasdorf/memmy)
 [liftoff](https://github.com/liftoff-app/liftoff) | 🐒  A mobile client for lemmy | ![GitHub stars](https://img.shields.io/github/stars/liftoff-app/liftoff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/liftoff-app/liftoff)
@@ -73,9 +73,9 @@ Name | Description | GitHub Activity
 [warami](https://github.com/mdpearce/warami) | An Android client for the Lemmy federated network | ![GitHub stars](https://img.shields.io/github/stars/mdpearce/warami) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mdpearce/warami)
 [lemmur](https://github.com/LemmurOrg/lemmur) | 🐒  A mobile client for lemmy | ![GitHub stars](https://img.shields.io/github/stars/LemmurOrg/lemmur) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmurOrg/lemmur)
 
-### Librairies
+### Libraries
 
-*Librairies to interact with Lemmy.*
+*Libraries to interact with Lemmy.*
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
