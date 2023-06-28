@@ -52,25 +52,25 @@ Name | Description | GitHub Activity
 * [aeharding/wefwef](@ghRepo)
 * [ando818/lemmy-ui-svelte](@ghRepo)
 * [sheodox/sx-lemmy](@ghRepo)
+* [lemmygtk/lemoa](@ghRepo)
+* [mdwalters/lemonade](@ghRepo)
 
 ### Mobile Apps
 
 *Mobile apps to access Lemmy.*
 
-Name | Description | GitHub Activity
----- | ----------- | ---------------
-* [dessalines/jerboa](@ghRepo)
-* [mormaer/Mlem](@ghRepo)
-* [hjiangsu/thunder](@ghRepo)
-* [gkasdorf/memmy](@ghRepo)
-* [liftoff-app/liftoff](@ghRepo)
-* [lemmygtk/lemoa](@ghRepo)
-* [rrainn/Lemmy-Swift-Client](@ghRepo)
-* [mdwalters/lemonade](@ghRepo)
-* [nick-delirium/lemmy-fennec](@ghRepo)
-* [lyptt/ares](@ghRepo)
-* [mdpearce/warami](@ghRepo)
-* [LemmurOrg/lemmur](@ghRepo)
+Name | Description | GitHub Activity | OS compatibility
+---- | ----------- | --------------- | ----------------
+* [dessalines/jerboa](@ghRepo) | Android
+* [mormaer/Mlem](@ghRepo) | iOS
+* [hjiangsu/thunder](@ghRepo) | Android, iOS
+* [gkasdorf/memmy](@ghRepo) | iOS
+* [liftoff-app/liftoff](@ghRepo) | Android, iOS
+* [rrainn/Lemmy-Swift-Client](@ghRepo) | iOS
+* [nick-delirium/lemmy-fennec](@ghRepo) | Android
+* [lyptt/ares](@ghRepo) | iOS
+* [mdpearce/warami](@ghRepo) | Android
+* [LemmurOrg/lemmur](@ghRepo) | Android
 
 ### Libraries
 
