@@ -19,7 +19,7 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
 - [Instances](#instances)
 - [Alternative front-ends](#alternative-front-ends)
 - [Mobile Apps](#mobile-apps)
-- [Librairies](#librairies)
+- [Libraries](#libraries)
 - [Tools](#tools)
 - [Misc.](#misc)
 
@@ -72,9 +72,9 @@ Name | Description | GitHub Activity
 * [mdpearce/warami](@ghRepo)
 * [LemmurOrg/lemmur](@ghRepo)
 
-### Librairies
+### Libraries
 
-*Librairies to interact with Lemmy.*
+*Libraries to interact with Lemmy.*
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
