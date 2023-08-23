@@ -439,6 +439,7 @@ Name | Description | GitHub Activity
 * [parapet-io/parapet](@ghRepo)
 * [yakivy/poppet](@ghRepo)
 * [reactors-io/reactors](@ghRepo)
+* [automorph-org/automorph](@ghRepo)
 
 ### Extensions
 
