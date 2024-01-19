@@ -164,6 +164,7 @@ Name | Description | GitHub Activity
 * [unfiltered/unfiltered](@ghRepo)
 * [xitrum-framework/xitrum](@ghRepo)
 * [outr/youi](@ghRepo)
+* [otavia-projects/otavia](@ghRepo)
 
 ### Reactive Web Frameworks
 
@@ -175,6 +176,7 @@ Name | Description | GitHub Activity
 * [fomkin/korolev](@ghRepo)
 * [UdashFramework/udash-core](@ghRepo)
 * [vert-x3/vertx-lang-scala](@ghRepo)
+* [otavia-projects/otavia](@ghRepo)
 
 ### Data Binding and Validation
 
@@ -268,6 +270,7 @@ Name | Description | GitHub Activity
 * [gzoller/ScalaJack](@ghRepo)
 * [spray/spray-json](@ghRepo)
 * [zio/zio-json](@ghRepo)
+* [otavia-projects/otavia](@ghRepo)
 
 ### YAML
 
@@ -304,6 +307,7 @@ Name | Description | GitHub Activity
 * [twitter/scrooge](@ghRepo)
 * [lihaoyi/upickle](@ghRepo)
 * [zero-deps/proto](@ghRepo)
+* [otavia-projects/otavia](@ghRepo)
 
 ### Science and Data Analysis
 
@@ -548,6 +552,7 @@ Name | Description | GitHub Activity
 * [softwaremill/tapir](@ghRepo)
 * [endpoints4s/endpoints4s](@ghRepo)
 * [zero-deps/frontier](@ghRepo)
+* [otavia-projects/otavia](@ghRepo)
 
 ### Semantic Web
 
