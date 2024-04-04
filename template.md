@@ -228,6 +228,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
+* [bencherdev/bencher](@ghRepo)
 * [agourlay/cornichon](@ghRepo)
 * [gatling/gatling](@ghRepo)
 * [monix/minitest](@ghRepo)
