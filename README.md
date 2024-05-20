@@ -630,6 +630,7 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 [**scala-scraper**](https://github.com/ruippeixotog/scala-scraper) | A Scala library for scraping content from HTML pages | ![GitHub stars](https://img.shields.io/github/stars/ruippeixotog/scala-scraper) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ruippeixotog/scala-scraper)
 [xs4s](https://github.com/ScalaWilliam/xs4s) | XML Streaming for Scala including FS2/cats support | ![GitHub stars](https://img.shields.io/github/stars/ScalaWilliam/xs4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ScalaWilliam/xs4s)
+[phobos](https://github.com/valentiay/phobos) | Phobos is an XML data-binding library based on stream parsing | ![GitHub stars](https://img.shields.io/github/stars/valentiay/phobos) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/valentiay/phobos)
 
 ### Markdown
 
