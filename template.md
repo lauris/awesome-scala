@@ -122,6 +122,7 @@ Name | Description | GitHub Activity
 * [alexandru/shade](@ghRepo)
 * [slick/slick](@ghRepo)
 * [tminglei/slick-pg](@ghRepo)
+* [sake92/squery](@ghRepo)
 * [squeryl/squeryl](@ghRepo)
 * [scalamolecule/molecule](@ghRepo)
 * [zio/zio-redis](@ghRepo)
@@ -160,6 +161,7 @@ Name | Description | GitHub Activity
 * [nafg/reactive](@ghRepo)
 * [japgolly/scalajs-react](@ghRepo)
 * [scalatra/scalatra](@ghRepo)
+* [sake92/sharaf](@ghRepo)
 * [skinny-framework/skinny-framework](@ghRepo)
 * [unfiltered/unfiltered](@ghRepo)
 * [xitrum-framework/xitrum](@ghRepo)
@@ -268,6 +270,7 @@ Name | Description | GitHub Activity
 * [scala-jsonapi/scala-jsonapi](@ghRepo)
 * [gzoller/ScalaJack](@ghRepo)
 * [spray/spray-json](@ghRepo)
+* [sake92/tupson](@ghRepo)
 * [zio/zio-json](@ghRepo)
 
 ### YAML
