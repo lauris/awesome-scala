@@ -194,6 +194,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
+* [taig/babel](@ghRepo)
 * [xitrum-framework/scala-xgettext](@ghRepo)
 * [xitrum-framework/scaposer](@ghRepo)
 
