@@ -634,6 +634,7 @@ Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [ruippeixotog/scala-scraper](@ghRepo)
 * [ScalaWilliam/xs4s](@ghRepo)
+* [valentiay/phobos](@ghRepo)
 
 ### Markdown
 
