@@ -794,6 +794,7 @@ Name | Description | GitHub Activity
 * [The Scala Logs](https://twitter.com/thescalalogs) - Interviewing developers, open source contributors, subject matter experts, and the like to talk about FP, Scala, open source, and their interests.
 * [Scala Love](https://scala.love/) - Podcast about the Scala Programming Language and its community
 * [CoRecursive Interviews](https://corecursive.com/) - In-depth Interviews with software developers, often on the subject of scala libraries and functional programming.
+* [Scala for Fun & Profit](https://podcasters.spotify.com/pod/show/julien-truffaut) - Interviewing Scala users and companies.
 
 ## Communities
 
