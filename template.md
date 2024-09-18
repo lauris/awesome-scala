@@ -391,7 +391,6 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [mgdigital/Chromaprint.scala](@ghRepo)
-* [Sciss/ScalaCollider](@ghRepo)
 
 ### Functional Reactive Programming
 
