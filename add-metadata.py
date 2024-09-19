@@ -59,7 +59,11 @@ def parse(line):
     m = gh_repo_regex.search(line)
     if m:
         [repo_name] = m.groups()
-        return github_table_row(retrieve_repo(repo_name))
+        try:
+            row = github_table_row(retrieve_repo(repo_name))
+        except Exception: 
+            row = ''
+        return row
     else:
         return line.rstrip()
 
