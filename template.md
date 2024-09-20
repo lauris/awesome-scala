@@ -479,7 +479,6 @@ Name | Description | GitHub Activity
 * [scala-graph/scala-graph](@ghRepo)
 * [lightbend/Scala-Logging](@ghRepo)
 * [scalameta/scalameta](@ghRepo)
-* [Scalactic](http://www.scalactic.org/) | Small library of utilities related to quality that helps keeping code clear and correct. |
 * [scalaz/scalaz](@ghRepo)
 * [outr/scribe](@ghRepo)
 * [milessabin/shapeless](@ghRepo)
