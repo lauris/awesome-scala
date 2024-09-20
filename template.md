@@ -479,7 +479,7 @@ Name | Description | GitHub Activity
 * [scala-graph/scala-graph](@ghRepo)
 * [lightbend/Scala-Logging](@ghRepo)
 * [scalameta/scalameta](@ghRepo)
-[Scalactic](http://www.scalactic.org/) | Small library of utilities related to quality that helps keeping code clear and correct. |
+* [Scalactic](http://www.scalactic.org/) | Small library of utilities related to quality that helps keeping code clear and correct. |
 * [scalaz/scalaz](@ghRepo)
 * [outr/scribe](@ghRepo)
 * [milessabin/shapeless](@ghRepo)
@@ -494,7 +494,7 @@ Name | Description | GitHub Activity
 
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
-* [Agora](https://gitlab.com/aossie/Agora/) | Library of vote-counting algorithms for elections. |
+* [aossie/Agora](@ghRepo) | Library of vote-counting algorithms for elections. |
 * [lihaoyi/Ammonite](@ghRepo)
 * [aws4s/aws4s](@ghRepo)
 * [softwaremill/bootzooka](@ghRepo)
@@ -515,7 +515,7 @@ Name | Description | GitHub Activity
 * [marconilanna/REPLesent](@ghRepo)
 * [sirthias/scala-ssh](@ghRepo)
 * [nbronson/scala-stm](@ghRepo)
-* [Scavenger](https://gitlab.com/aossie/Scavenger) | An experimental automated theorem prover. |
+* [aossie/Scavenger](@ghRepo) | An experimental automated theorem prover. |
 * [allawala/service-chassis](@ghRepo)
 * [sirthias/spliff](@ghRepo)
 * [lambdaworks/scountries](@ghRepo)
