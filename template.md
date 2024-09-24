@@ -247,6 +247,7 @@ Name | Description | GitHub Activity
 * [disneystreaming/weaver-test](@ghRepo)
 * [testcontainers/testcontainers-scala](@ghRepo)
 * [lihaoyi/utest](@ghRepo)
+* [jjba23/zzspec](@ghRepo)
 
 ### JSON
 
