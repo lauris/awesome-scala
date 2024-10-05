@@ -719,6 +719,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [hagay3/skuber](@ghRepo)
+* [hnaderi/scala-k8s](@ghRepo)
 
 # Learning Scala
 
