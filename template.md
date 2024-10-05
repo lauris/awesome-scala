@@ -134,6 +134,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [SpinGo/op-rabbit](@ghRepo)
+* [hnaderi/lepus](@ghRepo)
 
 ### Graphical User Interfaces
 
