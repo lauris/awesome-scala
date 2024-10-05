@@ -627,6 +627,7 @@ Name | Description | GitHub Activity
 * [shmishleniy/sbt-deploy-ssh](@ghRepo)
 * [sbt/sbt-git](@ghRepo)
 * [zero-deps/sbt-git](@ghRepo)
+* [hnaderi/sbt-k8s](@ghRepo)
 
 ### XML / HTML
 
