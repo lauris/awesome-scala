@@ -189,6 +189,7 @@ Name | Description | GitHub Activity
 * [krzemin/octopus](@ghRepo)
 * [splink/veto](@ghRepo)
 * [jap-company/fields](@ghRepo)
+* [tarao/record4s](@ghRepo)
 
 ### i18n
 
