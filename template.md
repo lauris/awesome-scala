@@ -511,6 +511,7 @@ Name | Description | GitHub Activity
 * [iheartradio/play-swagger](@ghRepo)
 * [lihaoyi/pprint](@ghRepo)
 * [pureconfig/pureconfig](@ghRepo)
+* [katlasik/jurate](@ghRepo)
 * [marconilanna/REPLesent](@ghRepo)
 * [sirthias/scala-ssh](@ghRepo)
 * [nbronson/scala-stm](@ghRepo)
