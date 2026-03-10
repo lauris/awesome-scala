@@ -341,6 +341,7 @@ Name | Description | GitHub Activity
 * [eaplatanios/tensorflow_scala](@ghRepo)
 * [apache/zeppelin](@ghRepo)
 * [JohnSnowLabs/spark-nlp](@ghRepo)
+* [philwalk/uni](@ghRepo)
 * [HexagonNico/VecMatLib](@ghRepo)
 
 ### Big Data
