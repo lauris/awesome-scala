@@ -579,6 +579,7 @@ Name | Description | GitHub Activity
 [**wartremover**](https://github.com/wartremover/wartremover) | Flexible Scala code linting tool | ![GitHub stars](https://img.shields.io/github/stars/wartremover/wartremover) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/wartremover/wartremover)
 [scala2plantuml](https://github.com/BotTech/scala2plantuml) | Scala2PlantUML generates PlantUML diagrams from Scala code. | ![GitHub stars](https://img.shields.io/github/stars/BotTech/scala2plantuml) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/BotTech/scala2plantuml)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Scala development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ### Geospatial
 
 *Libraries to aid with geospatial calculations and artifacts.*
