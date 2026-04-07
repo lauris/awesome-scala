@@ -77,7 +77,7 @@ Name | Description | GitHub Activity
 Name | Description | GitHub Activity
 ---- | ----------- | ---------------
 * [cirg-up/cilib](@ghRepo)
-
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 ### Database
 
 *Database access libraries in Scala.*
