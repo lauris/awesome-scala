@@ -579,6 +579,7 @@ Name | Description | GitHub Activity
 [**wartremover**](https://github.com/wartremover/wartremover) | Flexible Scala code linting tool | ![GitHub stars](https://img.shields.io/github/stars/wartremover/wartremover) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/wartremover/wartremover)
 [scala2plantuml](https://github.com/BotTech/scala2plantuml) | Scala2PlantUML generates PlantUML diagrams from Scala code. | ![GitHub stars](https://img.shields.io/github/stars/BotTech/scala2plantuml) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/BotTech/scala2plantuml)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=lauris_awesome-scala) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ### Geospatial
 
 *Libraries to aid with geospatial calculations and artifacts.*
