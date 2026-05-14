@@ -46,6 +46,7 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
     - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
     - [Parsing](#parsing)
     - [Reactive Web Frameworks](#reactive-web-frameworks)
+- [Play Framework](https://github.com/playframework/playframework) - The High Velocity Web Framework.
     - [Sbt plugins](#sbt-plugins)
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Scheduling](#scheduling)
