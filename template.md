@@ -606,6 +606,7 @@ Name | Description | GitHub Activity
 * [Jetbrains/sbt-ide-settings](@ghRepo)
 * [ktoso/sbt-jmh](@ghRepo)
 * [47deg/sbt-microsites](@ghRepo)
+* [dboresjo/msgman](@ghRepo)
 * [lightbend/mima](@ghRepo)
 * [sbt/sbt-native-packager](@ghRepo)
 * [xerial/sbt-pack](@ghRepo)
