@@ -21,7 +21,6 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
     - [Archive and Compression](#archive-and-compression)
     - [Artificial Intelligence](#artificial-intelligence)
     - [Authentication](#authentication)
-    - [Authorization](#authorization)
     - [Big Data](#big-data)
     - [Command Line Interfaces](#command-line-interfaces)
     - [Cryptography](#cryptography)
@@ -65,6 +64,8 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
     - [Company Blogs](#company-blogs)
     - [Podcasts](#podcasts)
 - [Contributing](#contributing)
+
+## Projects
 
 ### Archive and Compression
 
